@@ -1,0 +1,1 @@
+Verbatim briefings and decisions from the project director AI. Files are numbered with gapped tens (000, 010, 020...) in reading order.

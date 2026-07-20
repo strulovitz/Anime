@@ -1,0 +1,17 @@
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.flac
+*.safetensors
+*.ckpt
+*.pt
+*.gguf
+*.onnx
+Thumbs.db
+desktop.ini

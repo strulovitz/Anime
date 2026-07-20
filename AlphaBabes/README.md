@@ -1,0 +1,1 @@
+# Alpha Babes — hard sci-fi illustrated & narrated saga. 5 seasons. Produced with a local AI pipeline (ComfyUI, character LoRAs, local TTS).
