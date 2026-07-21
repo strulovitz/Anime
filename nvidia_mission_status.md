@@ -1,29 +1,25 @@
 # NVIDIA Mission — Session State & Next Steps
-**Date:** 2026-07-20 ~22:30 — Phase 2c complete
+**Date:** 2026-07-21 ~12:50 — Session 2 complete
 
 ---
 
 ## What was accomplished today
 
-### Phase 1 (pre-flight)
-- Verified installer exists: `~/nvidia-driver/NVIDIA-Linux-x86_64-580.95.05.run`
-- Verified gcc 14.2.0, make 4.4.1
-- Confirmed nouveau blacklisted
-- Identified kernel/headers mismatch risk
+### GPU reboot persistence test ✅
+- `nvidia-smi` confirmed RTX 5090 Max-Q alive after reboot
+- All kernel modules (`nvidia`, `nvidia_drm`, `nvidia_modeset`, `nvidia_uvm`) loaded automatically on boot
+- Kernel 6.12.94+deb13-amd64 unchanged — stable
+- **Verdict: PERSISTENCE CONFIRMED** — no manual modprobe needed
 
-### Phase 2 (headers attempt — failed)
-- Tried installing headers for running kernel 6.12.85 → security repo had rotated them out (404)
+### GitHub sync ✅
+- Local repo initialized and linked to `https://github.com/strulovitz/Anime`
+- Remote files pulled: `AlphaBabes/`, `.gitignore`, `README.md`
+- Branch `main` set to track `origin/main`
+- All knowledge base files (040–080) synced locally
 
-### Phase 2b (kernel upgrade)
-- Installed `linux-image-amd64` → upgraded to kernel 6.12.94
-- Rebooted into 6.12.94
-- Headers for 6.12.94 were NOT yet installed (phase2b misreported this)
-
-### Phase 2c (driver install — success)
-- Installed `linux-headers-amd64` → pulled 6.12.94 headers
-- DKMS auto-built nvidia/580.95.05 modules (had been partially registered before)
-- `modprobe nvidia nvidia-drm nvidia-uvm` — clean load
-- nvidia-smi confirmed: RTX 5090 Max-Q, 24GB VRAM, driver 580.95.05, CUDA 13.0
+### OpenCode TUI fix ✅
+- Created `~/.config/opencode/tui.json` with `"mouse": false`
+- Native terminal copy/paste now works
 
 ---
 
@@ -32,38 +28,25 @@
 | Item | Value |
 |------|-------|
 | Kernel | 6.12.94+deb13-amd64 |
-| NVIDIA driver | 580.95.05 |
-| CUDA | 13.0 (installed at /usr/local/cuda-13.0) |
-| nvidia-smi | Working |
-| Modules | nvidia, nvidia-drm, nvidia-uvm, nvidia-modeset, nvidia-peermem |
+| NVIDIA driver | 580.95.05 (DKMS-registered, auto-load on boot) |
+| CUDA | 13.0 (/usr/local/cuda-13.0) |
+| nvidia-smi | Working, RTX 5090 Max-Q, 24GB VRAM |
 | Secure Boot | OFF |
-| DKMS | Will auto-rebuild on kernel updates |
-
-### Important: modules NOT auto-loaded on boot yet
-The `modprobe` was done manually. After next reboot, the modules may not load automatically unless:
-- `sudo echo "nvidia nvidia-drm nvidia-uvm" > /etc/modules-load.d/nvidia.conf` is done, OR
-- The kernel cmdline `nvidia-drm.modeset=1` should trigger it (it's already in GRUB)
+| GitHub | https://github.com/strulovitz/Anime — fully synced |
+| OpenCode TUI | mouse disabled for native copy/paste |
 
 ---
 
-## Files created (all in ~/)
+## Next time — IMMEDIATE PRIORITY (from 080_handoff_briefing_v2.md)
 
-| File | Description |
-|------|-------------|
-| `nvidia_inventory.md` | System inventory before starting |
-| `phase1_preflight.md` | Pre-flight checks |
-| `phase2_error.md` | Failed headers install |
-| `phase2b_done.md` | Kernel upgrade to 6.12.94 |
-| `phase2c_done.md` | Driver install success |
-
----
-
-## Next time — suggested follow-ups
-
-1. **Verify persistence across reboot** — reboot and confirm `nvidia-smi` works without manual modprobe
-2. **CUDA smoke test** — compile and run a small CUDA program (e.g. deviceQuery, bandwidthTest, or the `gpu_test.cu` in `~/`) to confirm compute works
-3. **Setup for ML/LLM work** — confirm ollama, llama.cpp, vllm, triton, etc. can use the GPU
-4. **Optional: clean up old kernels** — kernels 6.12.43, 6.12.48, 6.12.57, 6.12.63, 6.12.85 are still installed and taking space
+1. **ComfyUI mission** — Full mission text in `AlphaBabes/knowledge_base/070_gpu_alive_and_comfyui_mission.md`
+   - NEW conda env "comfyui" (python 3.12) from miniforge
+   - Clone to `~/Anime/tools/ComfyUI`
+   - PyTorch for CUDA 12.8+/sm_120 — verify `torch.cuda.is_available()` BEFORE proceeding
+   - Launch on `127.0.0.1:8188`
+2. **User downloads Madie images** from OpenArt → `~/Anime/media/lora_dataset/madie_raw/`
+3. **Checkpoint download + Kohya mission** → LoRA trial
+4. **Desktop Linux setup** + **Syncthing** (not started)
 
 ---
 
@@ -72,4 +55,4 @@ The `modprobe` was done manually. After next reboot, the modules may not load au
 ```
 cd ~/Anime && opencode
 ```
-Then say: **"continue nvidia mission, phase 3"** (or whatever you want to tackle next!)
+Then say: **"Let's continue the AlphaBabes project — ComfyUI mission next!"**
