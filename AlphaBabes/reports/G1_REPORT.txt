@@ -1,0 +1,10 @@
+=== G1 REPORT ===
+mint: 22.2 (Zara)
+disk_free: 48G
+ram: 62Gi
+nvidia_driver: NO DRIVER
+gpu_on_pci: yes, GeForce RTX 4070 Ti
+git: 2.43.0
+junk: no conda, no docker, venvs: beehive-venv+honeycomb-venv, AI projects: BeehiveOfAI,BeeSting,claude-memory,clawd,GiantHoneyBee,HoneycombOfAI,Honeymation,KillerBee,MadHoney,TheDistributedAIRevolution,WaggleDance
+cache_size: 9.6G
+=== END ===
