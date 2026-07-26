@@ -1,0 +1,42 @@
+structure of our spaceship:
+
+the spaceship is like a six-barrel M61 Vulcan (or like M134 Minigun) , like a Gatling-style rotary cannon. but instead of six barrels that can rotate around an empty center; We have six full sized submarines, that can rotate around a submarine-sized cylinder of empty center. so it's like six barrels rotating around a seventh barrel, and the 7th barrel is actually empty cylinder.
+so like imagine the Nock gun ( https://en.wikipedia.org/wiki/Nock_gun ) with the central barrel empty.
+
+why do we use this structure? because our biggest threat is hitting an object that is in the flight path of the spaceship, like a stone that simply floats in space there, and we collide into it, in very high speed and our spaceship is destroyed. so in my plan, during inter-solar flight (deep space flight), the crew is living and working in any given time inside 2 submarines ("barrels") which are the farthest from each other, and also like the "jet bridge" in an airplane, so between each neighboring submarines ("barrels") we have outside, a "tunnel" which connects the hatches (emergency "doors") of each two neighboring submarines. the hatches are like the hatches of spaceships here: Wikipedia: Docking and berthing of spacecraft.
+
+so if there is enough time until the collision, the crew moves ahead of time, to another submarines which is not in the path of the colliding asteroid. or the six barrels rotate the manned submarine to a safer location, and by this sacrificing another submarine which is currently unmanned (there are no humans inside) and this will hit the asteroid.
+
+also, each submarine is made of copper which is a good electrical conductor, 8.5 times better than steel. 
+
+so like we have this experiment with dropping a permanent magnet (Neodymium magnets (an alloy, Nd2Fe14B) are the strongest permanent magnets known) cylinder inside a pipe/tube made of copper, and the magnet moves very slowly, because the magnet's own movement (falling with gravity) inside the copper tube is inducing circular eddy currents in the copper, and these circular electrical currents create a magnetic field that opposes the movement (the falling down along the tube) of the permanent magnet. like in these scientific experiment demonstrations in Youtube:
+
+More Magnets - Sixty Symbols 
+Sixty Symbols
+https://www.youtube.com/watch?v=Nu3Y_jyeTyY
+
+World's First Electric Generator 
+Veritasium
+https://www.youtube.com/watch?v=NqdOyxJZj0U
+ 
+so we use the same effect but to protect the contents of the submarine. we do this, by building each submarine from copper, so its basically a long strong pipe. and we divide it into compartments which are cylinders which can move freely along the pipe, and these cylinders are made from Neodymium and they are permanent magnets. so when a small asteroid hits one of them it is slowed down, more and more, until the asteroid is not dangerous to the important stuff (crew or critical equipment like the AI) that we store in the "bottom" of the pipe (the "bottom" of the pipe, is here the back of the spaceship, the front hits the asteroid, and the back is protected.
+
+if the asteroid is too big, we also have a "hail Mary" (last-ditch effort with little chance of success) maneuver, which is the computer automatically disconnects the connecting tunnels between the submarines, and the submarines separate using small charges, each submarine is pushed outwards from the center, and this maximizes the chances that one of the submarines will survive. this is used if there is a big asteroid ahead of us and the asteroid is dead center, and there is no use to move a little bit (rotation of "barrels" / hopping to another submarine).
+
+after each catastrophic collision everybody slow down to zero and group back and collect the pieces that are still working and use the material from the parts which were irreparably damaged in order to repair the parts that can be saved.
+
+when we are approaching a planet or somewhere we want the crew to land, this whole big mothership remains in orbit around that planet, and only one of the smaller submarines detach and functions as a shuttle allowing some of the crew to land on the surface of the planet and afterwards allowing them to come back. the propulsion here works like the Elon Musk's SpaceX Flacon 9 - vertical landing and vertical takeoff. 
+
+The Electric Cannon - Sixty Symbols 
+Sixty Symbols
+https://www.youtube.com/watch?v=eA3SDiyMiWU
+(We use an unusual cannon to demonstrate electrical conductivity at different temperatures)
+
+the body of the submarine itself works like the electric cannon in that experiment (while we are still "parked" on the planet surface, before we take off and leave the planet). so in this way the compartments (the magnetic cylinders) are used as the pushing bullets, to which we connect the packages that we want to shoot into space, towards the mothership. this is like a mass driver (electromagnetic catapult) :
+
+https://en.wikipedia.org/wiki/Mass_driver
+
+and we operate this on the planet with energy from the local sun (local solar energy), or if we have to then nuclear energy that we bring with us. so our robots do mining or collecting and processing (like on the moon we have Helium 3) materials that we need and launch them towards the mothership. and after we finish, we return to the mothership normally (with rocket fuel). but the nice thing is that we carry with us (the body of the submarine) a mobile mass driver. just like in the experiment, if we want the bullet to shoot higher/farther, we need to cool down the disks/cylinders which we do with energy that we produce on the surface (solar/nuclear) making dry ice, etc.
+
+the middle of the mothership is the center of the Bussard ramjet. in the front of the mothership there is a huge "dish" which is the part of the Bussard ramjet that collects the hydrogen during inter-stellar flight. this part if 
+

@@ -1,0 +1,563 @@
+﻿Hello ChatGPT o1 ,
+
+I am making a hard science fiction anime series, and I need your help please with prompts for ChatGPT 4o  , so that you will instruct him please (you will create a detailed prompt that I can copy+paste to him), so that he will create consistent and scientifically plausible spaceship design, both from outside the ship and inside the ship.
+
+Also another use for this consistent background document, is to make the skeleton of the episodes of the series, like I would upload a scientific book for you to read, and then you would be able to write for me please a plot that combines the new material from the book, and embed it in all the details that we already decided upon (spaceship, characters, etc) please.
+
+You already helped me with all the 10 crew members, they are all young women, in the title I am writing the country (American [USA], Chinese [from the People’s Republic], Russian, Indian [from India], English [UK], German [from Germany], South Korean, French, Japanese, and Australian), and in parenthesis is the race (ethnicity) of each woman:
+
+ENGLISH (White)
+Codename: “Chief”
+Hair Color: RED
+Hairstyle: Ponytail
+Profession: Aerospace Engineering (rocket scientist) + Systems Engineering
+Traits & Habits 
+    • Drinks tea constantly, somehow has a teacup even on a spaceship.
+    • Possesses a dry, sarcastic sense of humor—always rolling her eyes at drama.
+    • Overly punctual; if someone’s late by 30 seconds, she lectures them on “timetables.”
+    • Uses very formal-sounding speech in the middle of crises—“By Jove, the reactor’s gone critical!”
+
+
+AMERICAN (Black)
+Codename: “Ace”
+Hair Color: LILAC (light purple)
+Hairstyle: Afro puffs
+Profession: Nuclear Physicist + Shuttle Pilot (“grease-monkey” for engines, plasma, nuclear fusion)
+Traits & Habits
+    • Loud, enthusiastic, loves to blast hip-hop or R&B while repairing engines.
+    • A catchphrase for everything: “Boom, baby!” or “Let’s nuke this problem!”
+    • Brash confidence bordering on reckless—volunteers first for every dangerous mission.
+    • Snacks on BBQ-flavored dehydrated rations in zero-G, claims it’s “soul food in space.”
+
+
+
+CHINESE (Asian)
+Codename: “Mariner”
+Hair Color: VIOLET (dark purple)
+Hairstyle: Bunches (“pigtails” that are not braided)
+Profession: Astrophysics (navigator + lookout)
+Traits & Habits
+    • Precise and meticulous about numbers, star maps, orbits—“Everything must align perfectly!”
+    • Occasionally references feng shui to arrange instruments on the console.
+    • Rarely shows big emotion; her brand of comedic dryness comes out in quick one-liners.
+    • Has a secret stash of Chinese herbal teas for “focus and clarity.”
+
+
+
+JAPANESE (Asian)
+Codename: “Bubbels”
+Hair Color: YELLOW
+Hairstyle: Double bun “odango”
+Profession: Astrochemistry + Sabatier reaction; also caving/ice-climbing
+Traits & Habits
+    • Soft-spoken “kawaii” vibe; tends to add cute stickers to lab equipment.
+    • Apologizes constantly, even when she’s not at fault: “Gomen ne…!”
+    • Manically tidy; everything in her workstation is labeled in neat handwriting.
+    • Loves unusual sushi-like rations she concocts from onboard hydroponic fish and wasabi.
+
+
+
+INDIAN (Brown)
+Codename: “Reaper”
+Hair Color: MINT (LIGHT GREEN)
+Hairstyle: Chignon
+Profession: Astrobiology, Exobiology, Astrobotany & Space Farming (also the galley’s chef)
+Traits & Habits
+    • Passionate about spicy curries—infuses cosmic chili peppers into every dish, leaving crewmates sweating.
+    • Quick to utter “Arre yaar!” or “By Shiva!” when experiments go awry.
+    • Prays or meditates quietly each morning in the greenhouse before tending the plants.
+    • Has the largest extended family in mission logs—constantly referencing her many “aunties and uncles.”
+
+
+
+RUSSIAN (White)
+Codename: “Rockhound”
+Hair Color: FOREST (DARK GREEN) 
+Hairstyle: Lob (long bob)
+Profession: Planetary Science (geology, oceanography, drilling, geothermal)
+Traits & Habits
+    • Incredibly stoic; “Seen one asteroid, seen them all.”
+    • Dark humor about cosmic catastrophes: “If hull fails, we freeze…no big deal.”
+    • Carries her own homemade “rocket fuel” (mysterious clear liquid) but can’t actually drink in space, so she just sniffs it for nostalgia.
+    • Performs random feats of strength—breaking open meteor samples with bare hands.
+
+
+
+FRENCH (Black)
+Codename: “Doc”
+Hair Color: PINK
+Hairstyle: Box braids
+Profession: Space Medicine + Neuroscience + Psychology
+Traits & Habits
+    • Perpetually half-flirting; calls everyone “Mon chéri” or “Ma chérie” whether they’re worried, wounded, or just bored.
+    • Sneaks fancy pastries or éclairs into the meal plan—“Zis is for morale, oui?”
+    • Drily complains that there’s no decent wine in the med-bay.
+    • Tends to psychoanalyze the crew at the worst possible moments: “Your stress is manifesting as cosmic ennui…”
+
+
+
+GERMAN (White)
+Codename: “Tink”
+Hair Color: ORANGE
+Hairstyle: Updo
+Profession: Mechanical Engineering + Robotics (3D printing, CNC, manufacturing)
+Traits & Habits
+    • Demands efficiency in all tasks—bristles at inefficiency: “Das ist nicht optimal.”
+    • Disassembles and reassembles the coffee machine weekly “to improve performance.”
+    • Speaks in abrupt, direct ways that make others feel scolded, even if she’s just being factual.
+    • Has a hidden fondness for techno music, blasting it late at night in the workshop.
+
+
+
+SOUTH KOREAN (Asian)
+Codename: “Sparky”
+Hair Color: SKY (light blue)
+Hairstyle: Hime cut
+Profession: Electrical Engineering + Computers + AI + Electrician
+Traits & Habits
+    • Obsessed with “latest tech,” always tinkering with her phone or designing new AI friend apps.
+    • Hums K-pop under her breath while debugging circuit boards.
+    • Very conscious of her appearance—keeps face masks in the supply fridge to maintain “glass skin.”
+    • Has a streak of unstoppable competitiveness: “I will fix it faster than you can say kimchi.”
+
+
+
+AUSTRALIAN (White)
+Codename: “Pipey”
+Hair Color: COBALT (dark blue)
+Hairstyle: Bob cut
+Profession: Civil Engineering + Habitat + Life Support Systems & Thermal Control
+Traits & Habits
+    • Swears like it’s punctuation—“Crikey, the coolant lines are buggered!”
+    • Way too chill in emergencies, “No worries, mate,” while the alarms are blaring.
+    • Outdoorsy streak—keeps trying to replicate “backyard barbecue” conditions in the hab module.
+    • Proudly calls everyone “mate” or “sheila,” sometimes forgetting formal ranks.
+
+We also analysed personality traits according to this research: 
+McCrae, Terracciano, & 79 Members of the Personality Profiles of Cultures Project (2005)
+That aggregated these “Big Five” personality factors—Neuroticism (N), Extraversion (E), Openness (O), Agreeableness (A), and Conscientiousness (C)
+
+so in the long term arc of the plot, we have this social dynamics and scenario:
+
+“Who Is Close to Whom?”—Friendship Clusters on the Spaceship
+Western cultures (USA, UK, Australia, Germany, France) often cluster together due to relatively higher Extraversion or Openness, whereas East Asian cultures (China, Korea, Japan) often cluster together with more moderate-to-lower E and somewhat reserved interpersonal styles. Russia sometimes clusters with Eastern Europe, showing somewhat higher N and lower E. India can be a “bridge” case in some analyses—high on Conscientiousness and Agreeableness but moderate in other factors.
+Likely mutual friendships might form among those with similar “profiles”:
+“Western cluster”: Americans, English, Australians, Germans, and French may bond over relatively higher E or O.
+“Eastern cluster”: Chinese, Japanese, and South Koreans might naturally clique together, sharing somewhat more restrained or formal interaction styles.
+India could have warmer ties with many, thanks to relatively high Agreeableness/Conscientiousness (helpful, cooperative).
+Russia might gravitate somewhat to the “eastern cluster,” yet differ in having a higher N (could identify with others’ quieter side, but also bond over certain anxieties or moodiness).
+
+
+Likely Leader and Possible “Mutiny” Factions
+Most natural choice for leader:
+Often someone high in Extraversion (especially assertiveness) plus enough Conscientiousness to stay organized.
+Of these 10, the English or Australian women have notably high E.
+The German or Indian women might also appeal as methodical, reliable leaders (high C, plus moderate or above-average A).
+A group might ultimately pick someone who balances Extraversion, Conscientiousness, and approachability—perhaps the English or German woman in this scenario.
+If the group splits into two factions (like a mutiny), imagine:
+Faction 1 might form around the English, Australian, American, French, and German members—relatively higher E/O or comfortable with direct communication.
+Faction 2 might unify the Chinese, Japanese, Russian, South Korean, and Indian members—more moderate E, somewhat conservative approach, or (for Russians, Indians) a bit of distance from the Western group.
+Of course, many interpersonal factors could override these broad “similarities,” but from the study’s perspective, those are plausible clusters.
+Leader of the rebels:
+One might guess a more high-N / somewhat lower-E individual could become a galvanizing “outsider” or voice of discontent—so someone from the Russian or French side might end up a rebel leader, given that those cultural profiles show a higher N (France) or a distinct E/N pattern (Russia).
+Alternatively, the “rebel” leader might be drawn from a modest but highly Conscientious culture (like India) if they aim to organize a breakaway group out of a sense of righteousness or duty.
+
+
+Here is the part where the plot is more science fiction and less science:
+
+In order to simplify the plot, i decided that i do not want children and elderly on the ship, so the crew starts with the girls that i described above, but all the future crew members are clones of them. In this science fiction part of the plot, when a woman reaches the age of 30 she is going through a medical procedure of “reincarnation” which means in my anime that her old body is put to sleep, and then a clone which was grown inside a tube, just like in the movies Avatar and Matrix. So they have a “tubed” copies of each team member, in different ages, which are clones of the original person. Let’s say they make a clone every 5 years, so they have a baby (age 0), a child (age 5), an older child (age 10) a teenager (age 15), and a young adult (20) all “tubed” as described in the movies Avatar and Matrix.
+And in the age of 25 the body is taken out of the tube, and all the memories of the original old woman are implanted into the young woman brain. So in fact her soul is transferred into a younger body and it’s the same body.
+After the mind awakes in the new body, the old body is being recycled for the elements of the atoms, this is done automatically by the robotic system and is considered a natural part of life in a “generation” ship where we cannot afford to throw away anything and we must not waste anything, if we want to survive.
+
+Sleeper ship
+Another thing that is not available in today’s science, but I do want it in my anime:
+Here is how Wikipedia describes it:
+A sleeper ship is a hypothetical type of crewed spacecraft, or starship in which most or all of the crew spend the journey in some form of hibernation or suspended animation.
+
+The most common role of sleeper ships in fiction is for interstellar or intergalactic travel, usually at sub-light speed. Travel times for such journeys could reach into the hundreds or thousands of years, making some form of life extension, such as suspended animation, necessary for the original crew to live to see their destination. Suspended animation is also required on ships that cannot be used as generation ships. 
+Freezing the astronauts would probably involve whole-body vitrification and would, most likely, be frozen at 145 kelvins to reduce the risk of fracturing. 
+Suspended animation can also be useful to reduce the consumption of life support system resources by crew members who are not needed during the trip, or by an author as a plot device, and for this reason, sleeper ships sometimes also appear in contexts involving travel within the Solar System or any other system of planets orbiting one star.
+
+In my anime’s case, all of them are asleep during the long voyage from one system to another, which in my case is in the speed of 1/300 of the speed of light, which is like 1000 Kilometres per second, so it takes 1200 years to reach from Earth to Alpha Centaury, so the whole spaceship along this millennia is operated by the ship’s AI and the robots of the ship. Also the AI robots are doing all the manual work when the girls are awake, like the cooking, and cleaning, and repairing, and all the Extravehicular activity (EVA) etc.
+
+
+Another thing i am asking for your help please is to prepare the destination list for the spaceship, so basically, it’s all from here:
+
+List of nearest terrestrial exoplanet candidates
+https://en.wikipedia.org/wiki/List_of_nearest_terrestrial_exoplanet_candidates
+
+Proxima Centauri b , Proxima Centauri c ;
+
+Ross 128 b ;
+GJ 1061 d ;
+
+Luyten b;
+
+Wolf 1061c , Wolf 1061d , Wolf 1069 b ;
+
+Gliese 876 d , Gliese 682 b , Gliese 832 c ; 
+
+82 G. Eridani b , 82 G. Eridani c , 82 G. Eridani d ;
+
+Gliese 581e , Gliese 581c , Gliese 581d ;
+
+HD 219134 b;
+
+Gliese 667 Cb , Gliese 667 Cc ;
+
+61 Virginis b ;
+
+HD 85512 ;
+
+Gliese 180 ;
+
+TRAPPIST-1b , TRAPPIST-1c , TRAPPIST-1d , TRAPPIST-1e , TRAPPIST-1f , TRAPPIST-1g , TRAPPIST-1h ;
+
+55 Cancri e ;
+
+HD 40307 b , HD 40307 c , HD 40307 d , HD 40307 e , HD 40307 f , HD 40307 g ;
+
+
+Propulsion and deceleration
+
+Now we are coming back to HARD science fiction , that is based on science, to the best of my ability:
+
+https://en.wikipedia.org/wiki/Bussard_ramjet#Pre-seeded_trajectory
+
+so here is what Wikipedia is saying:
+
+Pre-seeded trajectory
+
+Several of the obvious technical difficulties with the Bussard ramjet can be overcome by setting out solid pellets of fuel along the spacecraft's trajectory in advance. This could be done using a different "tanker" spacecraft dropping fuel pellets or using laser propulsion. The method has been referred to as the "fusion runway", ramjet runway or "forward resupply runway".
+
+While most proposals use fusion power, as with conventional Bussard ramjets, fission has also been suggested.
+
+The advantages of this system include:
+
+    Fusion can be achieved by slamming two fuel pellets together at a speed of at least 200 km/s - this is known as impact fusion. Compared to inertial confinement fusion, impact fusion would not require spherically symmetrical pellets or application of force from all directions.
+    The fuel pellets could use isotopes such as deuterium (hydrogen-2) or tritium (hydrogen-3).A conventional Bussard ramjet will mostly collect protium (hydrogen-1), as this is the most abundant isotope of hydrogen in nature.
+    Launching only ionized fusion fuel so that either magnetic or electrostatic scoops can more easily funnel the fuel into the engine. The drawback is this will cause the fuel to disperse due to electrostatic repulsion.
+    Launching the fuel on a trajectory so that the fuel velocity vector will closely match the expected velocity vector of the spacecraft at that point in its trajectory. This will minimize the "drag" forces generated by the collection of fuel.
+    Although the prelaunched fuel for the ramjet negates one advantage of the Bussard design (collection of fuel as it moves through the interstellar medium, saving the cost to launch the fuel mass), it at least retains the advantage of not having to accelerate the mass of the fuel and the mass of the rocket at the same time.
+    The prelaunched fuel would provide some visibility into the interstellar medium – thus alerting the trailing spacecraft of unseen hazards (e.g., brown dwarfs).
+
+The major disadvantages of this system include:
+
+    The need to precisely intercept the fusion runway pellets with a spacecraft moving at high speed. Laser pulses could be used to guide the pellets.
+    If using impact fusion, the spacecraft must be moving at a minimum speed in order to achieve fusion. One suggestion is for the spacecraft to use a Sun-skimming maneuver to reach 600 km/s.
+    The spacecraft could not deviate from the precalculated trajectory unless it was critical to do so. Any such deviation would separate the spacecraft from its fuel supply and leave it with only a minimal ability to return to its original trajectory.
+    Prelaunched fuel for deceleration at the destination star would not be available unless launched many decades in advance of the spacecraft launch. However, other systems (such as the magnetic sails) could be used for this purpose.
+
+This in Wikipedia mainly points to this source, which can be accessed freely:
+https://archive.org/details/springer_10.1007-978-1-4757-3894-0
+Centauri Dreams [electronic resource] : Imagining and Planning Interstellar Exploration 
+by Gilster, Paul
+
+so every time the girls find a planet or a moon or somewhere they can safely land on, they set-up there on the ground a mass driver (electromagnetic catapult) that launch fuel that they collect there (like Helium 3 on our moon) or nearby, and they shoot the fuel along the exact path that they will need to take towards their next destination (another solar system). On top of that, they can adopt more tricks from what Wikipedia mentioned, but this is their basic tried and tested routine.
+
+Mass driver calculations we have here:
+https://lunarpedia.org/w/Mass_Drivers
+
+I thought it would be cool to pack the fuel (for example hydrogen) in solid form, which requires to be very cold, like minus 260 Celsius, but outer space is like minus 270 so that’s ok. And then when the packages are in place we can shoot them and this creates a chain reaction in the hydrogen atoms that turn to gas and each package explodes into a nice little cloud of hydrogen gas (there is no oxygen in space, so it does not burn, just floats there) ready to be taken in by our Bussard Ramjet. 
+
+About stopping, we follow the explanations here:
+
+https://en.wikipedia.org/wiki/Magnetic_sail#Deceleration_in_interstellar_medium_(ISM)
+
+here is what Wikipedia is saying:
+
+Deceleration in interstellar medium (ISM)
+
+A spacecraft accelerated to very high velocities by other means, such as a fusion rocket or laser pushed lightsail, can decelerate even from relativistic velocities without onboard propellant by using a magnetic sail to create thrust (drag) against the interstellar medium plasma environment. As shown in the section on Magsail kinematic model (MKM), feasible uses of this involve maximum velocities below 10% c, taking decades to decelerate, for total travel times on the order of a century as described in the magsail specific designs section.
+
+Only the magsail references consider deceleration in the ISM on approach to Alpha ( α {\displaystyle \alpha }) Centauri, which as shown in the figure is separated by the local bubble and the G-clouds and the Solar System, which is moving at velocity v s u n {\displaystyle v_{sun}} and the local cloud is moving at velocity v L | C {\displaystyle v_{L|C}}. Estimates of the number of protons range between 0.005 and 0.5 cm−3 resulting in a plasma mass density 9 × 10 − 24 < ρ i m < 3 × 10 − 22 {\displaystyle 9\times 10^{-24}<\rho _{im}<3\times 10^{-22}} kg/m3, which covers the range used by references in the magsail specific designs section. As summarized in the magsail specific design section, Gros cited references indicating that regions of the G-clouds may be colder and have a low ion density. A typical value assumed for approach to Alpha Centauri is a proton number density n i {\displaystyle n_{i}} of 0.1 protons per cm3[29] corresponding to ρ i m ≈ 10 − 22 {\displaystyle \rho _{im}\approx 10^{-22}} kg/m3.
+
+The spacecraft velocity v s c {\displaystyle v_{sc}} is much greater than the ISM velocity at the beginning of a deceleration maneuver so the apparent plasma wind velocity from the spacecraft's viewpoint s approximately u i m ≈ − v s c {\displaystyle u_{im}\approx -v_{sc}}.
+
+Radio emissions of cyclotron radiation due to interaction of charged particles in the interstellar medium as they spiral around the magnetic field lines of a magnetic sail would have a frequency of approximately 120 v s c / c {\displaystyle 120\,v_{sc}/c} kHz. The Earth's ionosphere would prevent detection on the surface, but a space-based antenna could detect such emissions up to several thousands of light years away. Detection of such radiation could indicate activity of advanced extraterrestrial civilizations.
+
+This section in Wikipedia refers to this other section in Wikipedia:
+https://en.wikipedia.org/wiki/Magnetic_sail#Magsail_kinematic_model_(MKM)
+and that section in Wikipedia rely on the work of Claudius Gros , here:
+
+Universal scaling relation for magnetic sails:
+momentum braking in the limit of dilute interstellar media
+To cite this article: Claudius Gros 2017 J. Phys. Commun. 1 045007
+
+Which can be accessed freely here:
+https://arxiv.org/abs/1707.02801
+https://iopscience.iop.org/article/10.1088/2399-6528/aa927e
+
+but to make a long story short, he says that in outer space there is not enough material to stop quickly, it’s almost vacuum, unless we have a ship the size of a country. So what we need to do is instead of travelling fast like 1/10 of the speed of light ( 30000 kilometres per second) , we must travel slow like 1/300 of the speed of light ( 1000 kilometres per second) and then we can stop , but of course this means that instead of doing the distance of 4 light-years from Earth to Alpha-Centaury in 40 years, we will do it in 1200 years. But since the spaceship is automatic and the crew is “frozen” then i think this is the best solution for us.
+As backup we can slow down using the atmosphere of a planet, or with the “packages” of fuel that we sent before etc, but this can only be used as backup, because if we “miss our stop” at the new solar system, we are lost in space, without any way to stop, until we run out of energy etc and die.
+
+The same funnel that is used for acceleration is also used for deceleration, depending on whether we activate the “jet engine” part (the part that “spits” particles behind the spaceship) of the Bussard Ramjet.
+
+The Bussard Ramjet contains only one big funnel (that looks like the shape of the dish part of a satellite dish). Not 2 concave surfaces back-to-back; only 1 concave surface. This one dish is made of many triangles, like the Geodesic dome  (which was invented by Walther Bauersfeld), a dome is supposed to be hemisphere, and that is exactly what we have. The triangle edges are reinforced with carbon nano-tubes, and the fabric the covers the surface of each triangle is made of graphene (which is also strong carbon) sheets.
+
+In the centre of the dish we need a very strong and very long copper solenoid (like a tube/pipe) that goes all through along the whole length of our spaceship. But in addition, we need to have missiles that will enable us to blow up an asteroid that is incoming from the front of the spaceship. So the front edge of the solenoid (tube/pipe) of the Bussard ramjet is surrounded by triangles, and all the triangles that are closest to the centre axis of the spaceship, i mean all the triangles that are almost touching the solenoid (tube/pipe) , are actually closed hatches of our front facing missiles, any of these hatches can be opened and any missile can be launched forward with minimal interruption from the dish. 
+
+In this design, we cannot stop the spaceship until we reach the final destination (for example alpha centaury), because we can never accelerate from zero speed in the middle of the way.
+
+In this design the dish can be used as a telescope like James Webb (but with triangles mirrors instead of hexagon mirrors), the detector needs to be in the centre of the dish, just forward from the Solenoid (tube/pipe) and not interfering with the hatches of the missiles. When a missile is launched we can push it out first with some inert gas, and then when its out already more forward than the sensitive equipment of the telescope’s detector, only then the missile triggers its rocket engine and “fires”. This way we do not destroy the detector of the telescope; each time we launch a missile forward. The forward mirror (like reflective telescope) of the telescope is much more robust it is made of metal (and plated with gold on the side that is close to us) so it is not destroyed by a missile launching either.
+
+The telescope is important in order to detect incoming asteroids on time, before the spaceship hits the asteroids. Most of the asteroids will be in front of us, just like when a car is driving fast on the highway and it collects raindrops mainly on the front window. These asteroids aren’t actually coming to us, it’s more like we are coming to them, so the telescope in front is the most important, also for navigation adjustments if we strayed off course etc.
+
+If we cannot “ignite” the fuel, like if there is not enough speed or matter of hydrogen for fusion, then our engine can convert to a “regular” fusion reactor that produce thrust like plasma or ion thrust with whatever material we collected that could not ignite. like Project Daedalus. this actual engine part is in the back of the spaceship (to be more precise, this engine’s job is split between a few smaller engines, that are located in the back of the 6 peripheral “submarines” that we will discuss soon). so the flame of the engine does not burn the spaceship, the flame shoots from behind the spaceship.
+
+So in case of a small asteroid that is coming straight in the middle (and somehow escaped the missiles) it goes through the middle of the solenoid (pipe/tube) which is totally empty and so this small asteroid makes minimal damage, it just ruins the little reflective mirror of the telescope and the telescope’s detector, which we have spare parts for so we can fix them.
+
+What happens if the asteroid comes and it’s not dead centre?
+
+This bring us to how the whole spaceship is constructed, i will first explain the principles using common drinking glasses, and then we will describe how the real thing is made:
+
+Imagine a “highball glass” (15 cm tall, inner diameter 5.5 cm), and inside of it, we put in the same orientation, a smaller glass, a “shot glass” (6 cm tall, outer diameter 5 cm). So if we suppose there is air inside the bigger glass, then when we insert the smaller glass then the air will compress and slow down our movement (it will be hard to insert the smaller glass into the bigger glass, until the air escapes from the sides). So when an asteroid comes this all thing happens fast, and the air will get compressed and will not have time to escape from the sides (especially since we have a lot of air and only a tiny gap, as if in our kitchen example the glasses fit almost exactly, like 5.2 mm small glass inside a 5.3 mm big glass. so the small glass contains the coming asteroid and slows it down. Of course the air in the bottom of the big glass is getting compressed, so in reality, the air in the back of the spaceship is getting compressed, so the crew needs to be isolated from that part, in a room which is even more in the bottom of the glass (even more backwards in the spaceship) and also they should escape pods which are like diving chamber (hyperbaric chamber) which can contain one person. And inside this chamber there will be normal air in normal pressure for a human being, and such chambers will keep the crew alive, if the spaceship structure is broken or if an asteroid is incoming (the computer will give automatic alarm so they have a few seconds to react and get each person inside such a chamber) and survive until the robots will automatically fix the damage and restore the spaceship.
+
+in reality the spaceship is not made of glass but of much stronger metal, but the principle is the same.
+
+What metal do we use? I think it is best if we use copper, because in space we do not care that is heavy (we do care about the mass, but it’s not critical like in an airplane), and the copper gives us a huge advantage in the following way which is described in interesting science experiment:
+
+structure of our spaceship:
+
+the spaceship is like a six-barrel M61 Vulcan (or like M134 Minigun) , like a Gatling-style rotary cannon. but instead of six barrels that can rotate around an empty center; We have six full sized submarines, that can rotate around a submarine-sized cylinder of empty center. so it's like six barrels rotating around a seventh barrel, and the 7th barrel is actually empty cylinder.
+so like imagine the Nock gun ( https://en.wikipedia.org/wiki/Nock_gun ) with the central barrel empty.
+
+(as we explained before, the empty center is the solenoid used for the Bussard ramjet)
+
+why do we use this structure for the whole spaceship? because our biggest threat is hitting an object that is in the flight path of the spaceship, like a stone that simply floats in space there, and we collide into it, in very high speed and our spaceship is destroyed. so in my plan, during inter-solar flight (deep space flight), the crew is living and working in any given time inside 2 submarines ("barrels") which are the farthest from each other, and also like the "jet bridge" in an airplane, so between each neighboring submarines ("barrels") we have a "tunnel" which connects the hatches (emergency "doors") of each two neighboring submarines. the hatches are like the hatches of spaceships here: 
+
+Wikipedia: 
+
+NASA Docking System
+https://en.wikipedia.org/wiki/NASA_Docking_System
+
+Docking and berthing of spacecraft.
+https://en.wikipedia.org/wiki/Docking_and_berthing_of_spacecraft
+
+
+the "tunnel" is actually the "Sail" of "fin"
+
+https://en.wikipedia.org/wiki/Sail_(submarine) 
+
+tower-like structure found on the dorsal (topside) surface of submarines.
+
+so in our spaceship, this tower in the top of the one submarine, is attached to a hatch at the bottom of the next submarine, and they are all connected in this way.
+
+when we need to exit from the spaceship (to exit one of the submarines), then that submarine's tower detaches from its neighbor submarine, and the whole submarine rotates so that its tower is now pointing away from the spaceship, towards outer-space, and then the tower is used as an airlock.
+
+like the Quest Joint Airlock in the International Space Station:
+https://en.wikipedia.org/wiki/Quest_Joint_Airlock
+
+so if something is about to hit the spaceship from the side, then if there is enough time until the collision, the crew moves ahead of time, to another submarines which is not in the path of the colliding asteroid. or the six barrels rotate the manned submarine to a safer location, and by this sacrificing another submarine which is currently unmanned (there are no humans inside) and this will hit the asteroid.
+
+also, each submarine is made of copper which is a good electrical conductor, 8.5 times better than steel. 
+
+so like we have this experiment with dropping a permanent magnet (Neodymium magnets (an alloy, Nd2Fe14B) are the strongest permanent magnets known) cylinder inside a pipe/tube made of copper, and the magnet moves very slowly, because the magnet's own movement (falling with gravity) inside the copper tube is inducing circular eddy currents in the copper, and these circular electrical currents create a magnetic field that opposes the movement (the falling down along the tube) of the permanent magnet. like in these scientific experiment demonstrations in Youtube:
+
+More Magnets - Sixty Symbols 
+Sixty Symbols
+https://www.youtube.com/watch?v=Nu3Y_jyeTyY
+
+World's First Electric Generator 
+Veritasium
+https://www.youtube.com/watch?v=NqdOyxJZj0U
+
+so for each submarine, we use the same effect but to protect the contents of the submarine. we do this, by building each submarine from copper, so its basically a long strong pipe. and we divide it into compartments which are cylinders which can move freely along the pipe, and these cylinders are made from Neodymium and they are permanent magnets. so when a small asteroid hits one of them it is slowed down, more and more, until the asteroid is not dangerous to the important stuff (crew or critical equipment like the AI) that we store in the "bottom" of the pipe (the "bottom" of the pipe, is here the back of the spaceship, the front hits the asteroid, and the back is protected.
+
+if the asteroid is too big, we also have a "hail Mary" (last-ditch effort with little chance of success) maneuver, which is the computer automatically disconnects the connecting tunnels between the submarines, and the submarines separate using small charges (similar to Pyrotechnic fastener with Slapper detonator), each submarine is pushed outwards from the center, and this maximizes the chances that one of the submarines will survive. this is used if there is a big asteroid ahead of us and the asteroid is dead center, and there is no use to move a little bit (rotation of "barrels" / hopping to another submarine).
+
+after each catastrophic collision the parts cannot slow down, but hopefully they can group back and collect the pieces that are still working and use the material from the parts which were irreparably damaged in order to repair the parts that can be saved, on the move. the reason they cannot slow down, is that if they lose the initial momentum in the middle of the way, they will be stuck there forever, as we discussed already (they only have the "runway" in the beginning, and that initial "push" is the only thing that moves them all along the journey).
+
+how to land on planets?
+
+each submarine has its own "SEAL Delivery Vehicle"
+
+https://en.wikipedia.org/wiki/SEAL_Delivery_Vehicle
+
+so this is a smaller mini-spaceship, made of titanium which is very light-weight and strong.
+
+these 6 mini-spaceships (one for each "submarine") in my anime series function like shuttles of Star-Trek.
+
+https://en.wikipedia.org/wiki/Shuttlecraft_(Star_Trek)
+
+when we are approaching a planet or somewhere we want the crew to land, this whole big mothership remains in orbit around that planet, and only one of the mini-"submarines" detach and functions as a shuttle allowing some of the crew to land on the surface of the planet and afterwards allowing them to come back. the propulsion here works like the Elon Musk's SpaceX Flacon 9 - vertical landing and vertical takeoff. 
+
+the hull of each mini-submarine is fitted 
+
+when the crew / robots are already on the surface,
+the front and the back of mini-"submarines" can be removed temporarily and 
+
+
+
+The Electric Cannon - Sixty Symbols 
+Sixty Symbols
+https://www.youtube.com/watch?v=eA3SDiyMiWU
+(We use an unusual cannon to demonstrate electrical conductivity at different temperatures)
+
+they shoot aluminum ring using an electro-magnet.
+in the experiment, they wind up (wrap up, like a coil) an electric wire (i guess copper wire with plastic insulation), around and around a steel (iron) core shaft (rod). so the the wire is coiled around the shaft, and the shaft is focusing the electro-magnetic field that the coil produce when we run electrical current through the coiled wire. 
+before we turn on the electricity, on the top of the shaft we put a flat ring (imagine like the game "towers of Hanoi") made of aluminum.
+when the electricity is switched on, the coil is one magnet, and the aluminum ring becomes another magnet with the same orientation, and magnets from the same type repel each other, so the ring is shot away like a projectile.
+
+so in order for us to do the same on the planet's surface, we need to have all 3 components: steel rod; aluminum ring; copper coil. we also need to make something very cold, like the liquid nitrogen that they use in the experiment in Youtube, to make the coil very conducting, and then it shoots the projectile very far away.
+
+so unlike in the experiment, which was done here on Earth where it is easy to get air (which is mainly nitrogen), so they use an open system (like a jar that they pour the nitrogen on the coil), we will use a closed metallic system (inside it will be dedicated nitrogen) which we will attach to the coil and it will transfer the coldness of the liquid nitrogen by conduction, but basically it will be the same. we will have a refrigerator with Staged compression, 
+
+https://en.wikipedia.org/wiki/Compressor#Staged_compression
+
+or Crycooler like Stirling Refrigerator
+
+https://en.wikipedia.org/wiki/Cryocooler#Stirling_refrigerators
+
+that is working on Helium as the working fluid.
+
+which will be run on solar power on that planet (or nuclear power if there is not enough Sun), and a capacitor for the high voltage needed.
+
+so since we have 6 mini-spaceships, one mini-spaceship can carry the crew/robots , another one carries the power supply, another one the refrigerator, etc. and we construct the whole system on the surface of the planet.
+
+the aluminum ring is shaped into a more aerodynamic shape to go through the atmosphere on its way upwards, like a bullet shape (but of course hollow so we can put inside the cargo, the payload that we are sending up from the surface to the big spaceship which is in space). then robotic arms with a strong net catch the projectile, and unload the cargo, and then drop it back to the surface for refill. for the way down it has parachutes, which open automatically, so that it will not crash, and ceramic shield so that it will not burn on reentry to the planet's atmosphere.
+
+so basically this is like our "mobile" mass driver (electromagnetic catapult)
+
+https://en.wikipedia.org/wiki/Mass_driver
+
+at the end, after we shoot many payloads and resupply the mothership, the mini-spaceships pack everything and return home using traditional chemical rocket propellants like hydrogen and oxygen. this is why it is very important for us to have a lot of water on the mother spaceship, as described in the book:
+
+A Design for a Reusable Water-Based Spacecraft Known as the Spacecoach (SpringerBriefs in Space Development)
+by authors Brian McConnell and Alexander Tolley.
+
+
+and we operate this on the planet with energy from the local sun (local solar energy), or if we have to then nuclear energy that we bring with us. so our robots do mining or collecting and processing (like on the moon we have Helium 3) materials that we need and launch them towards the mothership. and after we finish, we return to the mothership normally (with rocket fuel). 
+
+
+The deceleration (the slowing down and hopefully stopping) of the incoming small asteroid is done first with electromagnetic method and only after that with air pressure (pneumatic) method. And this gives each crew member the extra few seconds (which are critical for her survival) to enter the nearest diving chamber and to lock the door from the inside.
+
+Okay, in order to avoid getting sick and dying:
+
+Effect of spaceflight on the human body
+https://en.wikipedia.org/wiki/Effect_of_spaceflight_on_the_human_body
+
+we use Artificial gravity, the 6 “submarines” are rotating as one. Before, we described how the “submarines” are connected to each other using their “towers” air locks. Now we will explain what connects the submarines to the solenoid (that extends along the whole length of the spaceship from the most forward part, to the most backward part).
+
+We all know this toy Slap-Bracelet:
+https://en.wikipedia.org/wiki/Slap_bracelet
+it is a  bistable spring. Bistable means it can switch between 2 states. In the case of the toy: one state is being curled like a bracelet, and the other state is being straight like a ruler.
+So in the same way we can use shape-memory alloy (SMA) : an alloy that can be deformed when cold but returns to its pre-deformed ("remembered") shape when heated.
+https://en.wikipedia.org/wiki/Shape-memory_alloy
+(AKA : memory metal, memory alloy, smart metal, smart alloy, muscle wire)
+
+we use many small loops similar to “Velcro” , but in a larger scale, they snap around the coil wire like the toy slap-bracelet wrap around your forearm. 
+https://en.wikipedia.org/wiki/Hook-and-loop_fastener
+so this is one condition, when they are relatively cold. And when they are hot, they remember to straighten up, and become straight like the ruler (when the toy is not wrapped around your forearm yet), and this is how they let go of the coil.
+
+So in normal situations, all through the flight of the spaceship, the 6 “submarines” are attached to the central coil, each submarine with hundreds of such “smart metal” hooks, each hook is holding on to one loop of the coil. So together all the thousands of “smart metal” hooks are ensuring that when we rotate the spaceship (using thrusters for example) along the axis of the spaceship’s travel, then the whole spaceship with all 6 “subamrines” are rotating together as one big spaceship.
+But in the “Hail Mary” maneuver (the term "Hail Mary" is sometimes used to refer to any last-ditch effort with little chance of success. 
+), when a large asteroid hits the whole spaceship dead centre from the front, then we want them to separate, and the heat of the collision causes the many hooks to let go of the coil, this is dependent on temperature, and can be initiated either by a collision (this like dead man switch, like passive emergency protection mechanism trying to save as much of the whole spaceship as possible); or it can be initiated by a strong electrical current through the coil (stronger then what is expected with the normal function of the coil accelerator/decelerator); this is done from dedicated capacitors that are kept charged in each “submarine” especially for such an emergency. So this can be initiated also by the spaceship’s AI computer, or the AI robots, or the human crew.
+
+Ok, so the fact that we have artificial gravity solves a lot of the health problems of the crew
+https://en.wikipedia.org/wiki/Artificial_gravity#Health_benefits
+
+about the damage of radiation, we solve this by encasing each “submarine” in blocks of water ice, that we tie from all sides in bags, just like sandbags for fortification, but bigger because in space we do not need much force to handle them. 
+https://en.wikipedia.org/wiki/Sandbag#Fortification
+so they will be big like bulk bags but of course but made from completely sealed polymer, so that the water molecules do not escape and do not evaporate into outer-space.
+https://en.wikipedia.org/wiki/Sandbag#Bulk_bags
+and every ice-bag is tied to his “submarine” and to other ice-bags, so that each ice-bag will remain in place. So this is our fortification against cosmic radiation and solar radiation and any radiation.
+
+A Design for a Reusable Water-Based Spacecraft Known as the Spacecoach (SpringerBriefs in Space Development)
+by authors Brian McConnell and Alexander Tolley.
+
+As this book explains, water are the most useful thing in space, they protect from radiation, we drink them, they help us keep the temperature of the spaceship, we use them for fuel (we discussed how we need hydrogen and oxygen, the building blocks of water), we eat water in our foods, we need the air we breath to be moist, we use them to clean ourselves, etc etc. So the spaceship should carry many tons of ice. The weight is not a problem, because the ice-bags are catapulted into space one by one, with a mass-driver on Earth before we leave, and also in every planet or moon where we can find water in any state of matter, we collect it, clean it or filter it, and store it for later use. 
+
+The whole spaceship is so covered in these ice bags that from the front the most prominent and noticeable feature is the dish of the Bussard Ramjet; from the back it’s the main the exhaust in the middle, and the 6 exhausts of the backup VASIMR engines (one in the backside each “submarine”)
+https://en.wikipedia.org/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket
+but from any other side (not from the front and not from the  back), the thing you notice the most will be a pile of disordered looking ice-bags, one on top of the other, in a slowly rotating heap. So mostly, the whole spaceship will look like a huge cylinder of bags.
+
+https://en.wikipedia.org/wiki/Liquid_breathing
+About G-force injuries from acceleration, we explained how we accelerate gradually along the “runway”. But if we are hit by an asteroid we have a strong deceleration, so up to a point we can save at least the clones who are in their pods, by making them breath a liquid (they are unconscious so they will not feel like drowning, they do not cough, they do not feel shortage of breath, or any other negative symptom)  that is enriched in dissolved oxygen and can take the CO2, like for example  which can fill the lungs like before a human is born, and like we see in science fiction movies, like in “The Abyss”. In our science fiction anime, the AI a chemical that is similar to perfluorocarbon (PFC), AI’s are very good in discovering new materials, even today, for example: Google's AI GNoME who discovered 2.2 million new crystals, including 380,000 stable materials that could power future technologies.
+In the anime series we call this new material the “liquor” from the Latin word that means  “Amniotic fluid”, which in Latin is “liquor amnii”. This, along with positioning the clones with their back towards the collision (their back is toward the front of the spaceship, where the collision will be) like 99% of the time, with just brief variation (so that they will not have suffer from Edema; This pretty much ensures that they can withstand hundreds of G-force collision and still survive, and later be revived by the AI robots. For the same reason, some of the AI robots in any given time are anchored safely, so that we have someone to restore us to life after a collision.
+
+What to do with G-force? (and the bends too, breathing oxygen for 30 minutes ?) :
+Max g survivable suspended in water?
+https://space.stackexchange.com/questions/5635/max-g-survivable-suspended-in-water
+
+https://www.ejectionsite.com/stapp.htm
+46.2 Gs!!!
+The Story of John Paul Stapp
+"The Fastest Man On Earth"
+by Nick T. Spark
+if the conscious crew members have enough time (like if the spaceship AI computer warned about possible asteroid field which we are about to tackle), then they can each quickly wear her Libelle suit which has liquid as the medium. This can help to give them more time until they black out. 
+https://en.wikipedia.org/wiki/G-suit#Design
+ also in every section of each “submarine” they will have 2 “jump seat” which normally will be folded to allow easy passage, these are like seats of the airplane’s flight attendant, they will be positioned with their back to the collision (facing the back-end of the spaceship) and they will have soft cushioning (especially for the back of the head) to protect from brain damage. So this also gives some protection.
+https://en.wikipedia.org/wiki/Jump_seat
+all these seats will also have the 6-point harness like the “seat belt” in NASCAR racing cars.
+https://en.wikipedia.org/wiki/Seat_belt#4-,_5-,_and_6-point
+in the mess hall, the chairs are not folding (in the other parts of the spaceship, the chairs are folding like the “jump seat”). So in the mess hall we have the best chairs like the chairs in a racing car “bucket seat” sport seat with the best support for the neck to avoid whiplash. Each chair’s metal frame is welded very securely to the metal of the hull of the ship (the floor and the wall to the side), so that in case of a collision the chairs themselves do not become a danger (so that the chairs will not be ripped from their place and will not fly in the room with great acceleration, hitting the girls).
+https://en.wikipedia.org/wiki/Bucket_seat#Sport_seats
+the seat in a racing car is not optimized for the crash, instead it is optimized for the driver to be able to see where he is driving directly (without a mirror or a CCTV screen). This is because both of tradition and because the low deceleration (speaking relatively to a spaceship which hits and asteroid when it is in 1000 km/second speed) in a racing car. But our girls must be sitting with their backs towards the driving direction, and also if possible they should have a strap for their head when it “whiplashes” back from the headrest right after the initial impact. So this should be a strong but softly padded rubber band that holds the girl’s forehead and by this keeps the back of her head touching the soft head rest.
+
+also around each mess hall (“dining room”), which is where they might sit together, they have these special “jump seats” in a special configuration for all of them. Basically, instead of looking like “diner” restaurant with where each pair of people sit on a bench and the benches are facing each other; in our mess hall, the 10 seats are all facing the same direction (facing towards the back of the spaceship); 5 seats (one after the other) attached to the right side of the “cabin”; and 5 seats (one after the other) attached to the left side of the “cabin”. This room is the only room where they are ever all together in the same time (important for team building) and here they also do their briefings where their commander gives them daily orders, etc. Also this is statistically the place that all of them visit the most frequently other then where they work and where they sleep. So it is important that there are very protected here.
+They each have a designated seat, because below each seat each girl has her own G-suit (the anti G-suit that we mentioned before); and also her own rebreather (fully closed circuit electronic rebreather)
+https://en.wikipedia.org/wiki/Rebreather
+since these are personal and depend on the physical body build of each one of them, they must always sit in the same seat.
+In real life, they do swivel with their body (the seats cannot turn, they are fixed to the floor and to the wall) but the girl are sitting in their seats while facing the center of the room, because they enjoy talking to their friends.
+
+
+
+  
+
+“the Garden”
+This is the room on each submarine, that has green plants and also a lot of lichen some containing Cyanobacteria and some containing green Algee, all these turn the Carbon dioxide (CO2) into oxygen (o2) for the whole spaceship so that the crew can survive.
+https://en.wikipedia.org/wiki/Lichen
+https://en.wikipedia.org/wiki/Cyanobacteria
+https://en.wikipedia.org/wiki/Chlorophyta
+the garden also makes all the food and process all the human waste (including urine and faeces and dead bodies of old crew mates which are all recycled into fertilizer like what happens in the soil of Earth.
+
+https://en.wikipedia.org/wiki/Closed_ecological_system
+the garden grows the plants for the food. All the food is vegetarian but they make many meat replacement dishes like veggie burger from soybeans (such as tofu and tempeh), gluten, or peas.
+the garden uses these technologies to grow the plants:
+Aeroponics
+https://en.wikipedia.org/wiki/Aeroponics
+Hydroponics
+https://en.wikipedia.org/wiki/Hydroponics
+Anthroponics
+https://en.wikipedia.org/wiki/Anthroponics
+Digeponics
+https://en.wikipedia.org/wiki/Digeponics
+
+Nitrogen cycle
+Most of the atmosphere 78% of the air inside the spaceship is nitrogen, like on Earth. We humans need the nitrogen for making proteins, but we cannot use the N2 in the air. So in the garden we have the certain bacteria, such as cyanobacteria (blue-green bacteria) and rhizobacteria, they grow in symbiosis with algae inside transparent water tanks, and they have Nitrogenase enzyme, which turns the nitrogen N2 into ammonia NH3 . that’s why the garden has a lot of smells, some like urine (from the NH3) and some like roses or nice fragrant flowers which is a perk for the gardener, so it’s not all bad). Also the bodies of dead crew members (the old 30 year old girls body after the Euthanasia)
+https://en.wikipedia.org/wiki/Euthanasia
+each dead body is grounded by the robots and buried in the soil of earth in a tank of soil which the crewmembers call 
+the “Grave”
+this is not a sad place, because this gives life to the whole spaceship. That’s because the soil contains a whole mini eco-system of legumes (such as peas, beans, soybeans, chickpeas , lentils, edamame) they can also cook them as tofu and tempeh.
+https://en.wikipedia.org/wiki/Legume
+Symbiotic nitrogen-fixing bacteria such as Rhizobium usually live in the root nodules of legumes, so with their help the plants can make plant-protein , and then the girls eat the protein as food. They also eat mushrooms that grow there. The fungi know how to decompose dead organic tissue (dead animals and plants) and they also put ammonium into the ground.
+the ground contains important bacteria such as:
+Nitrosomonas
+which converts ammonia to nitrites (NO−2)
+https://en.wikipedia.org/wiki/Nitrosomonas
+and 
+Nitrobacter, are responsible for the oxidation of the nitrites (NO−2) into nitrates (NO−3). 
+https://en.wikipedia.org/wiki/Nitrobacter
+so the biologist of the spaceship has a strong microscope, and she is taking samples and making sure that, on the one hand, all the bacteria are ok; and on the other hand, that these micro-organisms don’t infect the girls or the plants as pathogens.
+
+From the environments that we humans are used to, the most similar to the spaceship is a crew of a submarine. There are many parallels:
+There is a pressure difference so they cannot get out, also they have limited resources like oxygen and food and water.
+
+The most frightening experience is when the automatic alarm is sounded, which is also accompanied by flashing red lights throughout each “submarine” and blinking arrows of light (like LED signs) that the computer signals them where to go, in each part of the spaceship. So this is crucial because they only have a few seconds. This is parallel to when depth charges are about to hit the submarine, and you brace yourself.
+
+The person who listens for enemy ships and enemy submarines and “pings” on a submarine at sea, is equivalent to the computer that uses the big telescope in front of the spaceship to see incoming danger, and also the periscope in a submarine, is equivalent to fiber-optics bundles that bring information from the outside, and help automatically assess threats.
+https://en.wikipedia.org/wiki/Optical_fiber
+
+the claustrophobic environment and the close connections and tensions of being stuck with each other for ages and ages are obviously similar.
+
+Communication in a submarine with the outer-world is also non existent, at least until they surface, so this is similar too, because if we broadcast a question for the rest of humanity on Earth (assuming they did not go extinct by then), we get an answer after many years even if the messages move in light speed.
+
+The missiles including atomic weapons are also similar, most of them are concentrated in the front of the ship in order to obliterate incoming bogey of any kind.
+We cannot take into consideration a case of a friendly alien spaceship, because by the time that we diagnose if it is friendly or not we will hit it. So anything on the path of our spaceship is dangerous to us and needs to be blown to bits.
+
+I assume that if an advanced civilization will want to contact us, they will understand our mode of operation here, including the facts that we cannot stop and continue, and that we cannot take chances if something is in a collision course with our spaceship. Such an advanced civilization will no doubt have the technological means to dodge our “attack” and to decelerate our ship safely and later to let us continue and help us with a friendly safe “push” in the direction that we were to begin with. For such an advanced civilization, this is like finding a ladybug (ladybird beetle) at home and trapping her with an empty glass and a piece of paper, and then freeing her safely outside, to go on her merry way.
+
+I’m adding photos from books of SUBMARINES and photos of TELESCOPE (James Webb).
+
+
