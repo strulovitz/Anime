@@ -1,0 +1,25 @@
+Favicon for anthropic
+Claude Fable 5
+🧬 REFERENCE SHEET #2 — ELDER YÙN
+
+💡 Tip: when generating this one, also attach the finished Zĭrán species sheet from item #1 and tell GPT Image: "Elder Yùn is an aged individual of this species — keep all anatomy consistent with the attached sheet."
+
+(Paste the GLOBAL STYLE PREFIX first, as always.)
+
+CHARACTER REFERENCE SHEET, clean neutral warm-grey studio background, soft even lighting, crisp focus everywhere — master visual reference for ELDER YÙN, an aged monk of the Zĭrán species (humanoid aliens: short ~155 cm, sturdy broad build from a 1.3 g world, dappled leaf-camouflage skin, hairless head with subtle leaf-vein scalp ridges, wide-set eyes, four fingers plus thumb, barefoot).
+
+SHOW THE SAME CHARACTER FOUR TIMES: (1) full-body front view standing, (2) full-body side profile, (3) a large close-up bust portrait of his face, (4) a smaller action pose of him kneeling and pouring tea from a carved wooden pot with slow perfect grace.
+
+AGE & SKIN: Yùn is very old — over a century. His once-vivid dappled camouflage pattern (olive, bronze, cream) has FADED TO SILVER: soft-edged patches of pale silver-grey, dove-grey and faded moss-green, like leaf-shadows in moonlight rather than sunlight. The skin itself is finely wrinkled — deep smile lines around the eyes and mouth, weathered creases on the brow and neck, age-speckling on the backs of his strong old hands. Despite age his sturdy Zĭrán frame is still upright and grounded — only slightly stooped at the shoulders, dignity intact.
+
+HEAD & FACE: hairless rounded skull; his leaf-vein scalp ridges have grown more pronounced and pale with age, like the veins of a dry autumn leaf — beautiful, not grotesque. Deep-set, wide-set eyes under heavy wise lids: irises of pale amber-green gone slightly misty at the rims, yet piercingly attentive and endlessly kind — eyes that have watched a thousand seasons and forgiven all of them. Small flat nose with slit nostrils. Thin-lipped calm mouth resting in the faintest knowing smile. A short, wispy beard-analog: a few soft pale fiber-like filaments at the chin (natural growth, not hair), sparse and venerable.
+
+CLOTHING: the simplest robe in the entire Zĭrán culture — a monk's wrap of coarse undyed moss-fiber cloth in oatmeal and faded sage, patched neatly in two places (he mends, never replaces), tied with a plain braided cord. Over one shoulder, a narrow prayer-drape of pale silk, worn soft with decades of use. Around his left wrist, a loop of polished wooden seed-beads. Barefoot, tough-soled feet. NO metal, no ornament of rank — his authority is entirely in his bearing.
+
+PROPS: in the standing views he holds his walking staff of living wood, taller than himself, with a small green leafy sprig still growing from its tip; a small cloth bundle (all his worldly possessions) hangs from the staff's end. In the tea pose: carved wooden teapot and two simple wooden cups on a low tray, a thin ribbon of steam rising.
+
+EXPRESSION & BODY LANGUAGE: profound serenity with warmth underneath — gentle authority that never needs to raise its voice. In the bust portrait, capture his defining look: the quiet, loving, slightly amused gaze of a teacher who already knows what you will understand a year from now. Posture grounded, movements economical and perfect ("wu wei" made visible).
+
+Pixar-style warmth and appeal in the face, realistic materials and anatomy, hard-science-fiction plausibility. Reference sheet: no dramatic shadows, no background scenery.
+
+✅ Item 2 delivered. Say "next" for #3: Shaozu, the young star-hungry monk. 🚀💖
