@@ -2,7 +2,7 @@ Favicon for anthropic
 Claude Fable 5
 🧬 REFERENCE SHEET #2 (REDONE) — ELDER YÙN
 
-💡 Tip: attach the finished new Zĭrán species sheet and tell GPT Image: "Elder Yùn is a very aged individual of this exact species — keep the body plan 100% consistent with the attached sheet."
+NIR, BEFORE GENERATING: attach the Entity-01-Ziran-Species-REDONE.png image to GPT first, then paste the prompt below.
 
 (Paste the GLOBAL STYLE PREFIX first, as always.)
 
