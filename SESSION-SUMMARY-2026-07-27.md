@@ -62,7 +62,7 @@ WHAT WE DID TODAY:
    - Dreadnought prompt rebuilt by Fable with tripod lock (2-panel version)
    - Rule established: Fable writes prompts, DeepSeek is hands only
 
-10. ENTITY REFERENCE IMAGES GENERATED (11 of ~20 done) ✅
+10. ENTITY REFERENCE IMAGES GENERATED (11 of Fable's ~20 priority items done; full entities list = ~109) ✅
     - 01: Zĭrán Species (REDONE) — hexapod alien
     - 02: Elder Yùn (REDONE) — aged Zĭrán monk, silvered skin
     - 03: Shaozu — young Zĭrán monk, vivid dapples, scroll-books
