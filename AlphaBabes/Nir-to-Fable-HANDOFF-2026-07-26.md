@@ -67,7 +67,7 @@ These plotlines were ALL ABANDONED:
 
 **CHARACTERS:**
 - ✅ MADIE: Many reference images — ALL her emotions, done in advance 💖
-- ⚠️ Other 9 girls: NOT made yet (Nir will make them)
+- ✅ Other 9 girls: 1 reference image each (basic, not all emotions)
 
 **WHAT NIR NEEDS FROM YOU, FABLE:**
 
