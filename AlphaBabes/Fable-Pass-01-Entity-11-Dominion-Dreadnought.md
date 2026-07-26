@@ -1,0 +1,23 @@
+Favicon for anthropic
+Claude Fable 5
+🧬 REFERENCE SHEET #11 — THE DOMINION DREADNOUGHT
+
+NIR: attach Zev's Skarn sheet. The ship is his species' anatomy turned into architecture.
+
+(Paste the GLOBAL STYLE PREFIX first, as always.)
+
+ENVIRONMENT REFERENCE SHEET — master visual reference for the DOMINION DREADNOUGHT "UNRELENTING", Commander Zev's warship. Composed as a location study: (1) one large panel of the ship's exterior in deep space, (2) a wide panel of the command bridge in operation, (3) a detail panel of a main corridor junction showing the trilateral architecture, (4) a panel of the aft hold where non-Skarn passengers are kept. Crew are SKARN per the attached sheet — trilateral, three-legged, three-armed, no back and no blind side — and NO generic humanoid figures anywhere.
+
+THE DESIGN THESIS (drives every rivet): the Dominion is an empire of ONE species, and its architecture confesses it. Everything aboard fits a Skarn body perfectly and fits nothing else at all: corridors with triangular cross-sections, three-way symmetric junctions, control stations ringing a column so a three-armed crewman works all sides at once, no chairs anywhere (Skarn lock their tripod legs and stand for days). Where the Alliance builds compromise, the Dominion builds efficiency — and the efficiency is genuinely impressive, and genuinely merciless.
+
+EXTERIOR: a blade of dark iron-grey and gunmetal, built on a TRIPLE-KEEL: three long hull-spines set 120 degrees apart around a central core, converging to a single armored prow — the whole ship echoing its makers' trilateral bodies. Weapon blisters run the spines like knuckles; engine tripod aft burning dull furnace-orange; the Dominion sigil in scorched crimson on each keel. No windows to speak of — a ship that looks out through instruments and trusts nothing. It should read as formidable and weary at once: scorch-streaked plating, mismatched repair panels, a veteran of too many campaigns, exactly like its commander.
+
+THE BRIDGE: a circular chamber around a central holographic column showing star-charts in Dominion crimson-on-black. Crew stations are freestanding PILLAR-CONSOLES, each worked by one Skarn standing wrapped around it, three arms on three panels — show four or five crew at stations, and COMMANDER ZEV (per his sheet: notched crest, ember eyes, battered cybernetic arm) at the center ring. Lighting: low, red-shifted, directionless — Skarn eyes see all around, so the Dominion never bothered making light comfortable, only sufficient. Every surface stenciled with rank-glyphs and regulation numbers; the only decoration permitted: small personal honor-tallies scratched by crew beside their stations — the single crack of humanity (so to speak) in the machine, and it matters for the fable's turn.
+
+CORRIDOR DETAIL: a three-way junction of triangular-section passages, grip-ridged deck plating shaped for two-toed Skarn hoof-claws, handhold rails at three heights spiraling the walls, bulkhead doors that iris in three blades. Annotate the cruelty-by-indifference: a doorway that a Titanite could never pass, a dry hard corridor that would kill an Ondine, ceilings that give an Aerian nowhere to perch — not designed to exclude, which is worse: designed without a single thought of anyone else.
+
+THE AFT HOLD (for the rescue and defection scenes): a cavernous cargo bay never meant for passengers, where non-Skarn are held — and the improvisation is the storytelling: an emergency water-bladder tank patched with sealant foam for aquatic detainees, crumpled thermal blankets on bare deck plating, ration crates stenciled for a different species' diet, a single salvaged amber lamp someone rigged up (against regulations) so the prisoners wouldn't sit in Dominion red — evidence that some of this crew were already, quietly, becoming disloyal to cruelty. Cold spotlights, long shadows, chain-tether points on the floor left conspicuously unused.
+
+LIGHT & MOOD: crimson-and-charcoal palette, hard practical light, breath-fog in the cold hold; oppressive but never cartoonishly evil — the banality of a machine that runs on obedience, crewed by tired soldiers who have stopped asking questions, aboard which one commander is about to start. Painterly realistic detail, hard-science-fiction plausibility in every mechanism. Reference sheet: crisp focus, no battle action, no text labels in the image.
+
+✅ Item 11 delivered. Say "next" for #12: the Zĭrán Pilgrim-Ship — the gentle counterpoint: what happens when the gardener-monks build a starship. Spoiler: it has a tea-hearth, and it's grown, not welded. 🌿🚀💖
