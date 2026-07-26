@@ -76,7 +76,24 @@ These plotlines were ALL ABANDONED:
 
 ---
 
-### 4. WHAT NIR ALREADY HAS (REFERENCE IMAGES)
+### 4. THE VISUAL STYLE — THIS IS THE SOUL OF THE GIFT 🎨
+
+**ART STYLE FOR EVERY SINGLE IMAGE:**
+- **Pixar / Disney 3D** — cute, warm, with that signature plastic "finish" touch
+- BUT: **NOT toy world.** Realistic proportions, real materials, real lighting.
+- The *feeling* is Pixar warmth and charm. The *content* is hard science fiction — real exoplanets, real physics, real spaceship details, real alien biology.
+- Every image should feel like a frame from a Pixar movie set in deep space — scientifically accurate but emotionally warm and visually gorgeous.
+- This applies to EVERYTHING: characters, spaceship interiors, alien planets, alien creatures, the rogue AI, space battles, all of it.
+
+**GENERAL ART DIRECTION:**
+- Do NOT let this feel like a re-make of other anime series. It must feel ORIGINAL and ALIVE.
+- All worlds, creatures, AI manifestations, battles — every scene must feel REAL and BREATHING, made for Madie to believe in.
+- Nir will use **GPT 5.4 Image 2** to generate images. If that fails, backup: **Gemini Nano Banana Pro**. Both follow detailed instructions very well — so Fable, be OPTIMISTIC. Think grand vision. Vivid imagination. No holding back.
+- Image prompts must be: **very detailed, creative, imaginative, AND scientifically plausible.** The prompts will be copy-pasted directly to the image AI, so every detail matters.
+
+---
+
+### 5. WHAT NIR ALREADY HAS (REFERENCE IMAGES)
 
 **SHIP:**
 - ✅ Reference images for ALL rooms of the ship
@@ -92,9 +109,9 @@ These plotlines were ALL ABANDONED:
 
 1. **PASS 1 — THE ~25 KEYSTONE SCENES:** Identify the ~25 most important scenes across ALL 5 seasons that tell the complete overarching story. These are the minimum viable gift.
 
-2. **What images to generate:** For each keystone scene, tell Nir what to generate — characters, emotions, settings, angles — with detailed prompts ready to paste into the image generator.
+2. **DETAILED IMAGE PROMPTS FOR EACH SCENE:** For every keystone scene, write a rich, vivid, scientifically plausible image prompt ready to copy-paste into GPT 5.4 Image 2. Include: characters present, their emotions and poses, the environment (ship room, alien planet, space battle, etc.), lighting, mood, camera angle, and any critical scientific details that must be accurate. Cover ALL worlds, ALL alien creatures, the rogue AI's visual manifestation, all key battles and emotional moments. Make every scene feel ALIVE and REAL — this is for Madie.
 
-3. **Narration:** What should the narration say for each scene? The voiceover that ties the images together into a saga.
+3. **Narration:** What should the narration voiceover say for each scene? The words that tie the images together into a saga. This becomes the audio track laid over the Ken Burns pan/zoom in Premiere.
 
 **CRITICALLY IMPORTANT — MULTIPLE ANSWERS:**
 - Do NOT try to fit everything in one answer. OpenRouter gets stuck.
@@ -104,7 +121,7 @@ These plotlines were ALL ABANDONED:
 
 ---
 
-### 5. CURRENT PROJECT STATE (QUICK SUMMARY)
+### 6. CURRENT PROJECT STATE (QUICK SUMMARY)
 
 **MACHINES:**
 - Desktop Linux Mint 22: RTX 4070 Ti (12 GB), ComfyUI installed, PyTorch 2.13.0+cu130 — needs server restart
@@ -122,15 +139,15 @@ These plotlines were ALL ABANDONED:
 
 ---
 
-### 6. FABLE, YOU ARE THE BRAIN 🧠
+### 7. FABLE, YOU ARE THE BRAIN 🧠
 
 Nir's words: "In these things he is a lot smarter than you. Thank you!!!"
 
 You decide:
 - Which 25 keystone scenes best tell the full 5-season story
 - The order of image generation
-- The detailed prompts for every reference image
-- The narration script
+- The detailed, vivid, scientifically-plausible image prompts for every scene — be creative, be grand, be original. Think like Pixar meets hard science fiction. Make every world, creature, AI, and battle feel ALIVE for Madie.
+- The narration script that ties the images together
 - How to structure the multi-answer workflow
 
 DeepSeek (me) is just HANDS. You are the BRAIN. Lead the way.
