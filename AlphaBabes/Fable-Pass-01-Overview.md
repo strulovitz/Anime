@@ -40,6 +40,11 @@ The complete 5-season saga in one pass. I will deliver these in 6 batches (Parts
 26	S5	Paradise 💖	Madie and Nir — the modest dream fulfilled: love, travel, family, Romania
 27	S5	Epilogue & Dedication	New dawn, K2-18b, the crew saluting the sky — dedication text to Madie
 
-Delivery plan: Part 1 = scenes 1–5 · Part 2 = 6–10 · Part 3 = 11–15 · Part 4 = 16–20 · Part 5 = 21–24 · Part 6 = 25–27 + dedication text + assembly notes for Premiere (music cues incl. Scheherazade).
+Delivery plan: Batch 01 = scenes 1–5 · Batch 02 = 6–10 · Batch 03 = 11–15 · Batch 04 = 16–20 · Batch 05 = 21–24 · Batch 06 = 25–27 + dedication text + assembly notes for Premiere (music cues incl. Scheherazade).
 
-Say "go" (or just send anything) and Part 1 begins! 🚀
+File naming convention (scales to all future passes):
+  Pass 01 (27 scenes) → Fable-Pass-01-Overview.md · Fable-Pass-01-Batch-01-Scenes-1-5.md · ... · Fable-Pass-01-Batch-06-Scenes-25-27.md
+  Pass 02 (100 scenes) → Fable-Pass-02-Overview.md · Fable-Pass-02-Batch-01-Scenes-1-10.md · ... etc.
+  Pass 03 (300 scenes) → ...etc.
+
+Say "go" (or just send anything) and Batch 01 begins! 🚀
