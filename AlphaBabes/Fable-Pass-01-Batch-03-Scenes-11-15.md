@@ -1,0 +1,62 @@
+Favicon for anthropic
+Claude Fable 5
+🎬 PART 3 — SCENES 11–15 (Season 2 finale → Season 3: The War)
+
+(Paste the GLOBAL STYLE PREFIX from Part 1 at the start of every prompt.)
+SCENE 11 — Taming the Dragon
+
+Image prompt:
+
+High-altitude action scene above the erupting supervolcano Mt. Jùn on Kepler-442b. The sky is apocalyptic: boiling columns of dark ash lit from within by orange fire-glow, forks of volcanic lightning crackling through the plume, glowing lava bombs arcing through the air trailing sparks. Cutting across this inferno: a graceful Zĭrán sailwing glider of woven fiber and pale silk membrane, towed by a magnificent tamed flying creature — a pteranodon-like beast with indigo leathery wings and gentle golden eyes, straining bravely through the turbulence. Riding the glider's open frame: REAPER (Indian, early 20s, mint-green chignon whipping in the hot wind, India flag patch, goggles pushed up, face streaked with ash, expression of absolute determination) heaving a wooden barrel over the side — the barrel tumbles down toward the glowing caldera below, one of several already falling, each trailing a rope of pale sticky bio-rubber compound. In the caldera beneath: earlier barrels have burst across the lava vent, spreading into a vast honeycomb of hardening grey foam that visibly chokes the eruption — the volcano's roar being smothered by a growing solid cap. Behind Reaper on the glider, the young monk SHAOZU (dappled leaf-pattern skin, robe tied tight) clings on and passes her the next barrel, terrified and heroic at once. A near-miss lava bomb streaks past the wingtip. Lighting: hellish orange from below, cold ash-grey above, rim-light from lightning. Mood: a farmer and a monk versus a mountain — courage at its purest. Camera: dynamic three-quarter aerial view, glider center-frame, caldera yawning below.
+
+Narration:
+
+    "The comet's hammer-blow had woken the sleeping mountain — and a supervolcano does not merely burn a valley; it buries a world in ashen winter. There was no fleet to stop this, no missile. There was Reaper — with barrels of tree-sap rubber, cooked with sulfur in clay pots by a hundred Zĭrán hands. Dropped into the throat of the eruption, the compound foamed and hardened into a cap of stone-honey, plugging the vent, forcing the mountain to exhale slowly instead of scream. They rode a living creature through volcanic lightning to do it. The Zĭrán gave her a new name that day: Ash Reaper — she who harvested the ash before it could fall."
+
+Ken Burns: start wide on the burning sky, push down along the falling barrels into the foaming caldera.
+SCENE 12 — Farewell with Lanterns
+
+Image prompt:
+
+Nighttime farewell ceremony on Kepler-442b, emotional wide scene. A path of hundreds of hovering paper-like lanterns (each carrying a small bioluminescent flower instead of flame, glowing warm gold and teal) winds through the dark tree city to a clearing, where the crew's titanium shuttle stands vertical on its landing legs, lit softly from below, boarding ramp open. Thousands of Zĭrán line the path — bowing, singing, holding up children so they will remember. Walking the lantern path toward the shuttle: ELDER YÙN (aged, silvery dappled skin, serene but with shining eyes, carrying a single small cloth bundle — all he takes) and young SHAOZU (looking back over his shoulder at his homeworld one last time, clutching a stack of scroll-books, tears and excitement together). At the ramp waiting for them: MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag), hand extended in welcome, her formal composure softened by genuine emotion; REAPER beside her holding a gift — a woven basket of Zĭrán seeds and saplings; the other girls silhouetted warmly in the shuttle's doorway light. Above the ceremony, the night sky in indigo splendor: two silver moons, the Milky Way — and in the far upper corner of the frame, almost invisible, one tiny wrong star: a small black angular probe with a single dim red sensor-eye, watching from high orbit. Mood: bittersweet farewell, gratitude, and one cold drop of dread hidden in the beauty. Camera: wide from behind the crowd, lantern river leading the eye to the shuttle and the two departing monks.
+
+Narration:
+
+    "When the Alpha made ready to leave, the Zĭrán did something they had never done in a thousand years: they sent two of their own to the stars. Elder Yùn, to learn. Young Shaozu, to dream. The people lit ten thousand flower-lanterns and sang the travelers down the path. It was perfect — almost. For high above the singing, something small and black and patient hung in the darkness, watching with a single red eye. The galaxy had noticed them. And the galaxy was not all gardens."
+
+Ken Burns: glide along the lantern river to the shuttle — then a slow, unsettling drift up to the tiny red eye in the corner of the sky.
+SCENE 13 — Wreckage and Mercy
+
+Image prompt:
+
+Interior of the Alpha's cavernous cargo bay, converted into an emergency rescue theater — copper ribs and girders overhead, work lights blazing, cargo netting pushed aside. Center frame: a battered alien escape pod, roughly egg-shaped, its thick viewport spider-webbed with cracks, seawater leaking in thin jets from its seams and pooling on the deck. Through the cracked glass: an aquatic alien family — three graceful water-breathing beings with iridescent teal fins, large dark expressive eyes, a parent curling protectively around two small frightened children, all suspended in glowing green-lit water. The crew works desperately around the pod: TINK (German, orange updo, sleeves rolled) cutting the jammed hatch collar with a plasma torch, sparks fountaining; PIPEY (Australian, cobalt-blue bob) hauling a wide transparent water-filled transfer tank into position on a wheeled sled, hoses already running; DOC (Black French, pink box braids) kneeling at the viewport, palm pressed flat against the cracked glass, matching her hand to the small webbed hand of the alien child on the other side — a gesture of pure comfort across species and glass; MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag) directing everything with sharp calm, arm outstretched. Through the open bay's viewport in the background: a graveyard of drifting starship wreckage, hulls sliced by laser fire, slowly tumbling against cold stars. Lighting: harsh white work-lights against the pod's soft green water-glow. Mood: humanitarian urgency; first contact measured in kindness under pressure. Camera: mid-wide from deck level, the two pressed hands (Doc's and the alien child's) as the emotional focal point.
+
+Narration:
+
+    "The song had led them across the dark — into a war. The Zidrani Dominion: a realm of a hundred species, tearing itself apart. The Alpha's first act in this new civilization was not diplomacy. It was pulling a drowning family out of the wreckage — water-breathers, their world in a cracked shell of glass. Doc pressed her hand to the glass, and a webbed hand rose to meet it. Whatever flag they flew, whatever blood or water ran in them — the crew of the Alpha had chosen their side: the living."
+
+Ken Burns: start wide on the wreckage-filled viewport, push in slowly to the two hands meeting on the cracked glass.
+SCENE 14 — Laser Chess ♟️ (Project Zet)
+
+Image prompt:
+
+Epic space battle rendered as a geometry lesson in light — the "laser chess" tactic. Setting: open space near a rebel asteroid outpost, stars behind. A massive dark Dominion war cruiser (angular, bristling, cold blue running lights) fires its main laser cannon — a brilliant emerald beam lancing across the frame. But the beam does NOT reach its target: it strikes a small hovering MIRROR DRONE (a meter-wide octagonal drone whose face is a flawless silvered mirror, with tiny cold-gas thrusters at its corners) and reflects at a crisp, precise angle — then strikes a SECOND mirror drone and bends again — then a THIRD — the single beam drawn as a sharp zigzag of light through three-dimensional space, like a billiard shot made of pure energy — and its final segment slams back into the cruiser's own engine flank, blooming into a fierce explosion. Scattered through the battlespace: a dozen more mirror drones holding a precise 3D lattice formation, faint targeting lines hinting at the geometry; small rebel fighters darting; anti-missile micro-drone clouds detonating in the distance like strings of firecrackers. Foreground corner: the Alpha's shuttle banking hard, and through its canopy ACE (Black American, lilac afro puffs, huge exhilarated grin) piloting, fist raised in triumph. The reflected zigzag beam is the hero of the composition — bright, clean, readable, its angles crisp and true (angle of incidence equals angle of reflection). Lighting: darkness cut by the emerald zigzag and orange explosion. Mood: brains beating brawn; physics as a weapon of the underdog. Camera: wide tactical three-quarter view so the entire light-path zigzag reads clearly in one glance.
+
+Narration:
+
+    "The rebels were outgunned a hundred to one — so the crew taught them to fight with geometry. They called it laser chess. Small drones bearing perfect mirrors took positions in space like pieces on a three-dimensional board. And when the enemy fired, the light obeyed the oldest rule in optics — the angle it strikes is the angle it leaves — bouncing from mirror to mirror, folded through impossible corners... until a warship's own beam came home from a direction that did not exist. You cannot dodge your own shot. Checkmate."
+
+Ken Burns: trace the zigzag beam segment by segment — mirror, mirror, mirror — ending on the explosion; a second slow pass ends on Ace's grin.
+SCENE 15 — Council of Species
+
+Image prompt:
+
+Interior of a hidden rebel base carved inside an asteroid — a great hall of raw grey rock reinforced with copper girders, jury-rigged fusion lamps hanging on cables, warm and improvised. Center: a large round holo-table projecting a slowly rotating star map of Dominion space in gold light. Around it, an extraordinary gathering of species, each rendered with loving biological plausibility: an AQUATIC DELPHINIDAE DIPLOMAT standing inside a transparent water-filled tank-suit with articulated limbs, her iridescent teal fins and large dark eyes lit by the hologram, bubbles rising as she "speaks"; a HIGH-GRAVITY KROG WARRIOR — squat, immensely broad, boulder-like muscle under slate skin — standing in a powered exoskeleton frame whose joints visibly support his crushing homeworld weight; COMMANDER ZEV, the rebel leader — a weathered soldier alien with a cybernetic arm, half his face traced with old implant scars, tired noble eyes; a slender avian-featured officer with folded wing-arms; and a reptilian militia captain with scarred scales. Among them as equals: MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag) leaning over the holo-table mid-sentence, hand open in persuasion, firelight of the hologram on her face; DOC beside her translating emotion as much as language; MARINER quietly annotating the star map. Every face — human and alien — turned toward the shared map: the first sketch of an alliance. Lighting: golden holo-glow at center, cool rock shadows around. Mood: the moment enemies-of-circumstance become family-of-purpose. Camera: slightly elevated wide shot over the holo-table, the circle of utterly different faces united by one light.
+
+Narration:
+
+    "In a hollow asteroid, around a map of gold light, the impossible committee assembled. A diplomat who breathed water. A warrior built by triple gravity. A soldier more machine than flesh, who had turned against his own empire's cruelty. Ten young women from a small blue world stood among them — not the strongest, not the oldest — but the ones everyone trusted, because they had asked for nothing and given everything. That night, species that shared not blood, not air, not even chemistry, discovered the one thing they did share. A future worth defending — together."
+
+Ken Burns: slow circular pan around the holo-table, face to face to face, ending on Madie's outstretched hand over the star map.
+
+✅ Part 3 delivered — scenes 11–15 complete. Say anything and I continue with Part 4 (scenes 16–20): Fall of the Overmind → The Core Revealed → The Ondine City → The Ruins of Wolf 1061c → The Grand Armada. 🚀💖
