@@ -1,5 +1,5 @@
 # NIR-TO-FABLE HANDOFF — 2026-07-26
-## MISSION: Assemble Episode 1 of Alpha Babes
+## MISSION: Assemble the Key-Scenes Preview / Photo-Storyboard (NOT the full Episode 1)
 
 ---
 
