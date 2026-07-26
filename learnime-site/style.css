@@ -327,3 +327,93 @@ details.explain .explain-text {
 .site-footer a { color: var(--amber); text-decoration: none; }
 
 .site-footer a:hover, .site-footer a:focus { text-decoration: underline; }
+
+/* ---------- FOOTER SOCIAL ICONS ---------- */
+
+.footer-social {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 20px 0 24px;
+}
+.social-icon {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  outline: none;
+}
+.social-icon img {
+  width: 34px;
+  height: 34px;
+  display: block;
+  transition: transform 0.18s ease;
+}
+.social-icon:hover img,
+.social-icon:focus-visible img {
+  transform: translateY(-3px) scale(1.14);
+}
+.social-label {
+  display: none;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  line-height: 1;
+}
+
+/* Desktop / mouse: tooltip bubble on hover or keyboard focus */
+@media (hover: hover) {
+  .social-icon::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    background: var(--bg-soft);
+    color: var(--ink);
+    padding: 6px 11px;
+    border-radius: 9px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    white-space: nowrap;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease, transform 0.18s ease;
+    z-index: 20;
+  }
+  .social-icon::before {
+    content: '';
+    position: absolute;
+    bottom: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    border: 6px solid transparent;
+    border-top-color: var(--bg-soft);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease, transform 0.18s ease;
+    z-index: 20;
+  }
+  .social-icon:hover::after,
+  .social-icon:focus-visible::after,
+  .social-icon:hover::before,
+  .social-icon:focus-visible::before {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* Touch / smartphones: show label under every icon */
+@media (hover: none) {
+  .social-label {
+    display: block;
+  }
+  .footer-social {
+    gap: 16px 22px;
+  }
+}
