@@ -1,0 +1,62 @@
+Favicon for anthropic
+Claude Fable 5
+🎬 PART 2 — SCENES 6–10 (Season 1 finale → Season 2: The Tao World)
+
+(Remember: paste the GLOBAL STYLE PREFIX from Part 1 at the start of every prompt.)
+SCENE 6 — The Whale of Ross 128 b
+
+Image prompt:
+
+Underwater scene in the shallow alien sea of exoplanet Ross 128 b, sunlight from an orange-red dwarf star filtering down through turquoise water in warm salmon-colored god-rays. Center frame: a colossal alien filter-feeder the size of a whale glides serenely past — its body a smooth hydrodynamic teardrop of slate-blue skin patterned with faint bioluminescent freckles, a wide gentle mouth open like a manta-whale hybrid sieving glowing plankton, long wing-like fins rippling. Around it: schools of small translucent fish-like creatures parting like silver curtains, neon-green seagrass swaying below, and a reef of pale silicate spires like coral made of glass. Foreground right: REAPER in a sleek white atmospheric diving suit (India flag patch, mint-green chignon visible through her clear glass dome helmet), tiny against the giant, floating motionless in awe, one hand extended not to touch but to witness. Foreground left: a small submersible boat hull seen from outside, with a large transparent acrylic observation dome — inside it, in air, MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA shoulder patch, "MADIE" name tag) presses both hands to the glass, face lit by the water's dancing light, eyes wide with childlike wonder. Drifting jellyfish-like creatures pulse with soft violet light in the blue distance. Mood: cathedral silence, the humility of meeting a giant. Camera: wide underwater shot, the whale dominating, humans tiny and reverent.
+
+Narration:
+
+    "Ross 128 b. A living world. Under an orange sun, the plants grow indigo and black to drink the red light — and in the warm seas, life had a hundred million years to dream big. It passed them like a moving mountain, calm and unafraid, a filter-feeder older than their grandmothers' grandmothers. Reaper floated still as a prayer. Madie pressed her hands to the glass and understood: the universe was never empty. It was waiting."
+
+Ken Burns: slow drift alongside the whale, ending on Madie's hands against the dome.
+SCENE 7 — The Call of Zĭrán
+
+Image prompt:
+
+Interior of the Alpha's bridge at "night" — a cozy command cabin inside one of the copper submarine hulls: curved riveted copper walls, worn consoles with physical switches and warm amber readouts, a large central holographic display floating above the navigation table. The hologram shows two things at once: a 3D star map with a long dotted trajectory bending toward an unfamiliar distant star, and above it, a hauntingly beautiful sound-waveform rendered as a ribbon of golden light, undulating like a slow song — the mysterious signal. Gathered around it, faces uplit by the gold: MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag) leaning on the table with both hands, thoughtful, the weight of decision on her face; MARINER (Chinese, dark-violet hair in two bunches) tracing the trajectory with a fingertip, precise and calm; SPARKY (Korean, sky-blue hime cut) with one headphone pressed to her ear, eyes closed, listening, moved; DOC (Black French, pink box braids) watching Madie rather than the map, gently reading her commander. Through the bridge's forward porthole: the receding blue-green marble of Ross 128 b. In the shadowed background, a doorway glimpse of the medical bay: a row of tall vertical clone tanks glowing soft green, young sleeping figures floating within. Mood: a crossroads in the dark — wonder, longing, and quiet courage. Camera: over the holographic ribbon of light toward the four faces.
+
+Narration:
+
+    "And then the stars sang. A signal — not a pulsar's clockwork, not noise — a pattern with the shape of music, calling from a sun that wasn't on any of their maps. Astronomers on far-off Earth had named it Zĭrán: 'nature, the self-so.' The crew faced the choice every explorer knows: the safe road, or the song. Before the long sleep, Madie became the first to pass through the ship's quiet miracle — her memories carried into a young new body grown for the voyage, life renewed so the mission could outlive the years. Then ten women closed their eyes, the Alpha turned her copper bow toward the music... and followed it."
+
+Ken Burns: start on the golden waveform, drift across the listening faces, end on Madie's eyes.
+SCENE 8 — The Tree City
+
+Image prompt:
+
+First contact on exoplanet Kepler-442b, late golden afternoon under a K-type orange dwarf sun — everything bathed in honeyed amber light. Setting: a breathtaking city GROWN, not built — colossal banyan-like trees with indigo-black foliage (dark leaves evolved to absorb the orange star's light) shaped over centuries into spiraling homes, bridges of living braided branches, and coral-like pale stone that has been coaxed to grow into archways. No machines, no metal, no wires anywhere. Bioluminescent trumpet flowers line the paths, just beginning to glow teal in the amber dusk. Domesticated jellyfish-like creatures float lazily through the air carrying woven baskets of water. In the foreground clearing: the ZĬRÁN come to greet the visitors — humanoid aliens, slightly shorter and sturdier than humans (their world's gravity is a third stronger), with beautiful dappled skin patterned like leaf-shadow camouflage in olive, bronze and cream, gentle wide-set eyes, dressed in simple elegant robes of woven moss-fiber and pale silk. They bow with serene, unafraid smiles, palms open. Facing them: MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, curvy figure, white-and-slate spacesuit, ROMANIA patch, "MADIE" name tag) returning the bow with formal grace, flanked by REAPER (mint-green chignon, no helmet needed — the air is breathable, her face open in delight) and DOC (pink box braids, hand on heart). The crew's landed titanium shuttle stands vertical on its legs at the clearing's edge, gleaming, humbly out of place among the living architecture. Mood: two worlds bowing to each other; peace at first sight. Camera: wide, slightly low, humans on the left, Zĭrán on the right, the tree city rising like a cathedral behind.
+
+Narration:
+
+    "Kepler-442b. Under an orange sun, a people who had made a different choice. The Zĭrán built nothing — they grew everything. Cities coaxed from living trees, light from flowers, water carried by tame creatures of the air. No engines. No wires. They had ended war and waste centuries ago by following one law: flow with nature, and do not force. They met the sky-farers not with weapons, but with a bow. And Madie, commander of the mightiest machine for a hundred light-years, bowed lower."
+
+Ken Burns: slow pull-back from the two bowing leaders to reveal the full living city.
+SCENE 9 — Tea with Elder Yùn
+
+Image prompt:
+
+Intimate evening scene inside a Zĭrán pavilion grown from living branches — a dome of interwoven boughs with indigo leaves, open to the night air, floor of polished root-wood. Soft light from clusters of bioluminescent flowers hanging like lanterns, teal and warm gold. At a low ceremonial table, a tea ceremony: ELDER YÙN — an aged Zĭrán monk, dappled leaf-pattern skin gone silvery with age, kind deep-set eyes, simple moss-fiber robe, radiating gentle authority — pours steaming herbal tea from a carved wooden pot with slow, perfect, effortless movements. Across from him sits MADIE (Romanian, early 20s, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag), cross-legged, receiving her cup with both hands and a respectful nod, her expression a mix of skepticism and dawning fascination — an engineer meeting a philosophy she cannot measure. Beside her, DOC (pink box braids) sits serenely with closed eyes, completely at home. To Yùn's side kneels SHAOZU — a young Zĭrán monk, brighter leaf-patterns, eager curious eyes, leaning forward, hungry for the stars, a small stack of scroll-books beside him. Steam curls between the faces. Outside the pavilion's opening: the night sky of Kepler-442b with two small silvery moons — and one faint new star with a tiny tail: the approaching comet, unnoticed by all but the viewer. Mood: warmth, wisdom, and a hidden countdown. Camera: low, across the table, steam and lantern-light between the two leaders.
+
+Narration:
+
+    "Elder Yùn taught them the word: wu wei — actionless action. Do only what the river of nature asks; force nothing. It had given his people ten centuries of peace. Madie drank the tea and asked the engineer's question: 'And when the river floods — do you not build a dam?' The old monk smiled, and did not answer. Above the pavilion, unseen, a new star had appeared in the night. It had a tail. And it was coming."
+
+Ken Burns: start on the pouring tea, rise slowly past the faces to the comet in the sky.
+SCENE 10 — Fire in the Sky
+
+Image prompt:
+
+Epic dawn scene on Kepler-442b, viewed from the grounds of the Zĭrán tree city. The sky is a colossal drama: dozens of blazing meteor trails streak down through a shimmering veil of high-altitude vapor (a deliberate ice-cloud screen sparkling like an artificial aurora) — and the trails visibly CURVE, bending away from the city at impossible angles, deflected mid-fall, missing the valley. High above, a single bright dot with a faint blue engine flare: the crew's ship holding position, generating an invisible magnetic shield (no beams, no glow — the physics is invisible; only the bending trails betray it). One distant fragment impacts beyond the far mountains with a rising column of smoke and a flattened orange flash. Foreground: hundreds of Zĭrán gathered on the living bridges and root-terraces — mothers holding children, elders gripping staffs — faces lit by the fire-streaked sky, terror melting into awe as the burning stones swerve away. A great wooden temple bell mid-swing, rung by a straining young monk. Among the crowd: MADIE (Romanian, long loose dark-brown hair, nothing on her head, ROMANIA patch, "MADIE" name tag) standing firm on a root-terrace, one arm around a frightened Zĭrán child, her other hand pressing a comm-earpiece, calling the maneuvers with fierce calm; beside her ELDER YÙN watches the curving fire with tears on his silvery cheeks — his worldview transforming in real time. Lighting: pre-dawn indigo sky torn by orange meteor fire and the pearly vapor veil. Mood: apocalypse refused; science as a shield held over the innocent. Camera: low wide shot from within the crowd, sky dominating two-thirds of the frame.
+
+Narration:
+
+    "The comet came, as comets always had. But this time, the sky had guardians. Mariner threw a cloud of ice into the path of the falling stones, boiling them away — and around the ship's coils she wove an invisible magnetic hand. Rock rich in iron cannot cross a moving magnetic field without feeling it: the same quiet law that slows a magnet falling through a copper pipe now bent burning boulders away from ten thousand lives. The Zĭrán watched their heaven-sent doom swerve aside — and Elder Yùn wept. 'True wisdom practices non-action,' whispered the young monk Shaozu, 'yet nothing remains undone.'"
+
+Ken Burns: start on the crowd's upturned faces, tilt up across the curving meteor trails to the tiny guardian star of the ship.
+
+✅ Part 2 delivered — scenes 6–10 complete. Say anything and I continue with Part 3 (scenes 11–15): Taming the Dragon → Farewell with Lanterns → Wreckage and Mercy → Laser Chess ♟️ → Council of Species. 🚀💖
