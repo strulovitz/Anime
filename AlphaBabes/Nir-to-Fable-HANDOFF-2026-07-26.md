@@ -115,7 +115,7 @@ These plotlines were ALL ABANDONED:
 
 **CRITICALLY IMPORTANT — MULTIPLE ANSWERS:**
 - Do NOT try to fit everything in one answer. OpenRouter gets stuck.
-- Give answers one after another. Multiple short answers, not one giant one.
+- Give answers one after another. Multiple LONG answers, not one giant one.
 - If OpenRouter gets stuck mid-answer, Nir will re-send the documents and this handoff, and you continue RIGHT WHERE YOU LEFT OFF.
 - Sacred property: the gift must be complete and watchable at ANY cutoff point.
 
