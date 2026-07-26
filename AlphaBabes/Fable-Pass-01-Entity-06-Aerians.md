@@ -1,0 +1,27 @@
+Favicon for anthropic
+Claude Fable 5
+🧬 REFERENCE SHEET #6 — THE AERIANS
+
+NIR: brand-new species — NO attachments needed. Canon note: the "slender avian-featured officer with folded wing-arms" in Scene 15 is an Aerian — one sheet for both.
+
+(Paste the GLOBAL STYLE PREFIX first, as always.)
+
+SPECIES REFERENCE SHEET, clean neutral pale sky-grey studio background, soft even lighting, crisp focus everywhere — master visual reference for the AERIANS, a fully NON-HUMANOID flying alien species. CRITICAL: this is NOT a bird, NOT an angel, NOT a bat, NOT a winged human — no beaked bird-face clichés, no feathered humanoid. An entirely independent evolutionary line, unrelated to humans, the Zĭrán, the Ondines, or the Titanites.
+
+SHOW: (1) one adult Aerian in full soaring pose, wings spread, three-quarter view from slightly below, (2) the same adult in its GROUND STANCE — wings folded into a tall slender tent, walking on wing-wrist hooks (essential: this is how Aerians appear indoors, on ship bridges and at councils), (3) a close-up detail panel of the head, eyes and plume-scales, with an inset of one single detached iridescent plume (their token of trust), (4) a vignette of an Aerian elder extending that single plume forward in one fine fore-hand, head bowed. Include a faint human silhouette for scale: wingspan about six meters, body length near a human's height, but the whole creature masses less than a child — a being of hollow struts and stretched silk.
+
+EVOLUTIONARY LOGIC (drives every detail): the Aerians evolved on a low-gravity world wrapped in a deep, dense, nutrient-rich atmosphere — a planet of eternal cloud oceans, floating aerial plankton, and only rare rocky spires to roost on. Evolution there never invented comfortable ground: it invented permanent flight. Everything about this creature is the physics of staying aloft forever in thick, generous air.
+
+BODY PLAN: a living glider — the core is a slender aerodynamic KEEL-BODY like the fuselage of a sailplane grown from bone and pearl-grey hide, tapering to a long triple-vaned steering TAIL. Two immense MEMBRANE WINGS, each stretched across THREE elongated spar-fingers (a bat-pterosaur geometry but distinctly alien in proportion), the membrane itself translucent at the trailing edge, catching light like oiled silk. At mid-wing, a small hardened WRIST-HOOK — on the rare ground, they fold their wings into tall narrow tents and stilt-walk on these hooks with eerie, courteous grace. Tucked beneath the chest keel: TWO small, fine FORE-ARMS with four slender fingers each — delicate precision hands, evolved from nest-weaving, now the hands of engineers and diplomats; in flight they fold flush and invisible.
+
+PLUME-SCALES — their glory: the leading edges of the wings, the keel-spine and the crest of the head carry overlapping PLUME-SCALES — neither feather nor scale but something between: narrow leaf-shaped blades with microscopic structural ridges producing intense IRIDESCENCE — teal, violet, gold, shifting with viewing angle. And they are alive with meaning: Aerians can angle these plumes to flash color-patterns — the visual half of their language, and their heraldry: rank and lineage are read in a wing's shimmer. Show a small annotated strip of three plume-states: calm sheen, greeting-flash, mourning-grey (plumes flattened, iridescence hidden).
+
+HEAD & SENSES (a face that is not a bird's): a slender lance-shaped head with NO beak — instead a soft-edged, slightly flared intake mouth evolved for sieving aerial plankton, framed by fine baleen-like fringe combs, giving the face a calm, unaggressive expression. FOUR EYES: two large forward flight-eyes, deep violet with horizontal pupils (superb horizon-lock vision), and two small lateral eyes watching the wingtips. No outer ears; instead, WIND-LINES — rows of fine pressure-sensitive filaments tracing elegant curves along the head and wing roots, reading gusts and voices as one continuous sense: an Aerian feels a lie in the tremor of your breath.
+
+VOICE: an internal flute-organ at the throat of the keel produces their speech — layered whistling harmonics that carry for kilometers on their world's dense wind; up close it is melodious, breathy, chord-like — always sounding faintly like weather.
+
+CULTURE ON THE BODY: minimal, weight is life — a single woven SASH of spider-silk-fine cord crossing the keel, carrying a few featherweight instruments and message-ribbons; elders wear thin engraved rings of pale alloy on the wing-spar fingers, one ring per completed great-migration.
+
+MOOD OF THE DESIGN: serene mastery of an element we drown in — patrician grace, watchful courtesy, a creature that regards gravity as a foreign custom it politely tolerates. Pixar-level appeal through the tilt of the lance-head, the shimmer-language of the plumes and the careful stilt-walking dignity of the ground stance — never through human or bird clichés. Realistic bio-materials, hard-science-fiction plausibility. Reference sheet: no dramatic shadows, no background scenery.
+
+✅ Item 6 delivered. Say "next" for #7: the Delphinidae — the rescued Dominion water-family and their diplomat: warm-shallow-sea evolution this time, completely different from the abyssal Ondines. 🐬➡️👽🚀💖

@@ -6,6 +6,7 @@
 ## ⚠️ CANON NOTES FROM FABLE
 
 - **Krog warrior = Titanite**: The "Krog warrior" in Scene 15 IS a Titanite — same species, one reference sheet covers both.
+- **Aerian officer**: The "slender avian-featured officer with folded wing-arms" in Scene 15 is an Aerian — one sheet covers both.
 - **Delphinidae**: The rescued aquatic family (Scene 13) and the tank-suit diplomat (Scene 15) are the same Dominion species — related to, but visually distinct from, the Ondines.
 - **Patch Pack needed**: Scenes 8–27 in the batch prompts still say "humanoid" for aliens. After all alien entity sheets are done, Fable will deliver corrected paragraphs to swap into those scene prompts. REMIND HIM.
 
