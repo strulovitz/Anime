@@ -1,0 +1,27 @@
+Favicon for anthropic
+Claude Fable 5
+🧬 REFERENCE SHEET #8 — COMMANDER ZEV
+
+NIR: brand-new species — NO attachments needed. Zev is a Skarn, the Dominion's warrior species. This sheet doubles as Skarn species reference for all Dominion soldiers in Scenes 16–18.
+
+(Paste the GLOBAL STYLE PREFIX first, as always.)
+
+CHARACTER + SPECIES REFERENCE SHEET, clean neutral warm-grey studio background, soft even lighting, crisp focus everywhere — master visual reference for COMMANDER ZEV of the SKARN, a fully NON-HUMANOID alien species. CRITICAL: no bipedal human body plan, no human face, no resemblance to humans, the Zĭrán, the Ondines, the Titanites, the Aerians, or the Delphinidae — an entirely independent evolutionary line, and unmistakably TRILATERAL: this creature is built on threes, not twos.
+
+SHOW: (1) Zev full-body in three-quarter view in soldier's ready stance, (2) a top-down diagram view clearly showing the three-fold radial symmetry, (3) a close-up detail panel of the eye-crown, breathing vents and the cybernetic arm, (4) a vignette of the Skarn SURRENDER POSTURE — all three legs folded, body lowered, all three arms spread wide and open (this exact pose is needed later in the fable). Include a faint human silhouette for scale: Zev stands about 1.9 meters tall.
+
+EVOLUTIONARY LOGIC (drives every detail): the Skarn evolved on a harsh, dry, open steppe-world under a fierce bright star — endless plains with no cover, where death approaches from any direction. Evolution's answer was TRILATERAL SYMMETRY: three of everything, spaced 120 degrees apart, so that a Skarn has NO BACK, no blind side, no direction of weakness. They are the galaxy's natural sentries — which is exactly why the Dominion bred its officer corps from them.
+
+BODY PLAN: a vertical column-torso of lean hard muscle rising from a central hip-ring, carried on THREE long digitigrade legs spaced evenly around it, each triple-jointed, ending in a two-toed hoof-claw with a shock-absorbing pad — the tripod gait is an eerie, gliding, rotating walk, and at rest the stance is an immovable surveyor's tripod. From a shoulder-ring at the torso's top spring THREE ARMS, also 120 degrees apart, wiry and long, each ending in a four-digit hand of two fingers opposed by two thumbs — a grip built for weapons and rope and never letting go.
+
+THE CYBERNETIC ARM — his story in metal: one of Zev's three arms is a military prosthetic, and it must look like it has HISTORY: gunmetal and scorched brass, mismatched replacement plates, a hydraulic elbow that has been field-repaired with visible weld scars, digits worn to bare alloy at the tips. Where it meets the shoulder-ring: an old ring of scar-tissue in his hide. The prosthetic is Dominion tech — brutal, functional, loyal like an old dog.
+
+HEAD & SENSES (a crown, not a face): the torso does not end in a neck and head but tapers into a sensor CROWN — a smooth dome ringed by THREE large eyes spaced 120 degrees apart: no creature approaches a Skarn unseen. The eyes are narrow, heavy-lidded, ember-orange with slit pupils — a veteran's eyes, tired and absolutely awake. Above them, a low crest of heat-dissipating fin-ridges (steppe-world cooling), notched and scarred along one side from an old battle. Between the eyes, three vertical BREATHING VENTS with flexible lips — these are also his voice: Skarn speech is a dry, rasping DUAL-TONE, two notes at once, like a whisper and a growl sharing one throat. The small feeding mouth is low on the torso's front-facing side, private, kept covered by a uniform flap — showing it is intimacy.
+
+HIDE & EMOTION: hide like sun-cracked basalt leather in dusty tan and iron-grey, thickened into natural plates at the leg fronts and shoulder-ring. Skarn show emotion through their VENTS and CREST: calm = slow even vent-rhythm; anger = crest-ridges flushing dark red; grief or shame = all three eyes closing in sequence, one after another, like lights going out down a corridor — Zev's defining gesture in the fable's turning point.
+
+UNIFORM & GEAR: a Dominion field-harness adapted to trilateral anatomy — three armored shoulder-guards, a utility belt at the hip-ring, magnetic holster (weapon shown holstered, never drawn, per the fable's spirit), and on the torso's forward plate the Dominion sigil. Add an inset detail: the same chest-plate AFTER his defection — the sigil scorched off by his own hand, the burn mark left visible, worn like a confession.
+
+MOOD OF THE DESIGN: hard-bitten honor — a soldier built by a merciless world and a worse empire, in whom something unbroken is still waiting for a reason. Menacing at first sight; unmistakably weary and honest at second sight. Pixar-level appeal through the tired ember eyes and the body language of a strong thing that is done pretending — never through human features. Realistic materials, hard-science-fiction plausibility. Reference sheet: no dramatic shadows, no background scenery.
+
+✅ Item 8 delivered. Say "next" for #9: the Zĭrán Garden-Monastery — our first location sheet: the terraced mountain sanctuary where the whole fable begins. 🏯🌿🚀💖
