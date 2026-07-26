@@ -1,0 +1,25 @@
+Favicon for anthropic
+Claude Fable 5
+🧬 REFERENCE SHEET #2 (REDONE) — ELDER YÙN
+
+💡 Tip: attach the finished new Zĭrán species sheet and tell GPT Image: "Elder Yùn is a very aged individual of this exact species — keep the body plan 100% consistent with the attached sheet."
+
+(Paste the GLOBAL STYLE PREFIX first, as always.)
+
+CHARACTER REFERENCE SHEET, clean neutral warm-grey studio background, soft even lighting, crisp focus everywhere — master visual reference for ELDER YÙN, an ancient monk of the ZĬRÁN species. CRITICAL: fully NON-HUMANOID — the Zĭrán body plan is a low six-limbed creature (four column-like walking limbs with splayed grip-pads, two slender boneless trunk-like manipulator arms each ending in three prehensile finger-tendrils), a horizontal teardrop torso rising in a swan-neck arc to a sensory crown of five frond-stalks (three stalked dark eyes, two feather-edged acoustic fronds), a pleated voice-bellows organ on the neck-arc that produces flute-like chord speech, dappled photosynthetic algae skin. No human features of any kind.
+
+SHOW THE SAME INDIVIDUAL FOUR TIMES: (1) full-body three-quarter view standing at rest, (2) full-body side profile, (3) a large close-up detail panel of his sensory crown and eyes, (4) a smaller vignette of him performing the tea ceremony — torso lowered, one trunk-arm pouring from a carved wooden pot in a perfect slow arc, the three finger-tendrils of the other arm steadying a wooden cup.
+
+AGE — the whole design: Yùn is over a century old, and his body tells it beautifully. His symbiotic algae dapples, once vivid olive-bronze-cream, have FADED TO MOONLIGHT: soft patches of pale silver-grey, dove-grey and dried-moss green, like leaf-shadows under a winter moon — and they barely drift anymore; his emotional skin-display has settled into a deep, still calm that only rarely stirs. The translucent outer skin has grown finely crinkled, like old rice paper, with a soft sheen at the worn spots on his walking limbs' grip-pads — a century of pilgrim roads written into them.
+
+SENSORY CROWN: his five frond-stalks have stiffened and droop gently outward like a willow, giving him a permanent air of gracious bowing. The two acoustic fronds are frayed at their feathered edges — old ears that have heard everything and still turn, patiently, toward the smallest voice. His three stalked eyes: large dark hemispheres gone slightly misted at the rims like river-pearls, yet when all three converge on you (the Zĭrán gesture of full attention) the gaze is startlingly present, kind, and quietly amused — the look of a teacher who already knows what you will understand a year from now.
+
+VOICE-BELLOWS: the pleated chord-organ on his neck-arc is deeply creased with age; a subtle note that his speech-chords are slower, lower, woodwind-warm — every sentence like the end of a song.
+
+BODY & POSTURE: still sturdy in the Zĭrán way but visibly economical — he stands with the two front walking limbs slightly folded, torso low, conserving motion; when he moves, nothing is wasted ("wu wei" made flesh). One rear grip-pad bears an old healed scar, pale and smooth.
+
+DRESS & PROPS: the humblest mantle in the culture — a monk's saddle-drape of coarse undyed moss-fiber in oatmeal and faded sage, neatly patched twice (he mends, never replaces), knotted with plain braided cord; over it one narrow prayer-band of pale silk worn soft by decades. A loop of polished wooden seed-beads wound around the base of one manipulator arm. His walking staff of living wood — taller than himself, a green leafy sprig still growing from its tip — held lightly in the wrapped tendrils of one trunk-arm; from its end hangs a small cloth bundle: all his worldly possessions. In the close-up panel, show one three-tendril hand in detail, gently cradling a single seed.
+
+MOOD OF THE DESIGN: serenity with warmth underneath; gentle authority that has never once needed to raise its voice; utterly alien, instantly venerable — a creature you would cross a galaxy to have tea with. Pixar-level appeal through posture, stillness and moonlit skin — never through human features. Realistic materials, hard-science-fiction plausibility. Reference sheet: no dramatic shadows, no background scenery.
+
+✅ Item 2 delivered on the new body plan. Say "next" for #3: Shaozu — same species, but young: bright high-contrast dapples that flash with excitement, springy fronds that can't hold still, and scroll-books clutched in every spare tendril. 🚀💖
