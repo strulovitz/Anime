@@ -71,7 +71,7 @@ These plotlines were ALL ABANDONED:
 
 **WHAT NIR NEEDS FROM YOU, FABLE:**
 
-1. **Which girl reference images to make first** — don't waste time making ALL images for ALL girls now. Tell Nir which specific character + emotion + angle he needs for Episode 1.
+1. **Which images to generate for THIS preview/storyboard** — not for the full Episode 1, just for the key-scenes preview we're assembling NOW. Tell Nir which specific character + emotion + angle + scene he needs.
 
 2. **What other reference images he needs** (MANY — ship angles, environments, props, etc.) — give him **detailed prompts** for each, ready to paste into the image generator.
 
