@@ -1,0 +1,14 @@
+# Entity #92 — Neon-Green Seagrass
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: a vast meadow of NEON-GREEN SEAGRASS swaying on the shallow sea floor of Ross 128 b — an alien photosynthesizer whose pigments are unlike anything on Earth. Single full-frame underwater reference image: low camera gliding just above the meadow, grass filling the lower two-thirds of the frame and receding to the horizon of the sea.
+
+WATER AND LIGHT: warm turquoise shallow water, bright surface shimmer visible above, salmon-pink god-rays from the orange-red dwarf star raking across the meadow at a low angle so every blade catches rim-light. Gentle suspended sparkle in the beams.
+
+THE GRASS — hard-science botany: long ribbon-shaped blades, one to two meters tall, rising in dense tufts from pale sand. The blades are a vivid, saturated NEON GREEN — startlingly bright against the turquoise water — because their photosynthetic pigment is tuned to squeeze energy from dim red-dwarf light, reflecting an intense green unlike Earth chlorophyll. Each blade is slightly translucent: where a god-ray passes behind one, it glows like stained glass. Fine parallel veins run each blade's length; the tips fray into soft split ribbons; small silver oxygen bubbles cling to the blades and occasionally break free and wobble upward — visible proof of photosynthesis at work.
+
+MOTION — the soul of the image: the entire meadow is caught mid-sway in one slow underwater current, all the blades bending together in a smooth traveling wave, like wind moving through a wheat field in dream-slow motion. Ripples of lighter and darker green cross the meadow where the wave bends blades toward and away from the light.
+
+DETAILS: winding channels of bare rippled sand snake through the meadow like paths; a few blades drift free, tumbling slowly in the current; the meadow fades into turquoise haze at the far edge of visibility.
+
+FORBIDDEN: no fish, no creatures, no coral, no flowers — pure meadow, water and light; no murky dark water — this is a bright, warm, sunlit scene of alien abundance.
