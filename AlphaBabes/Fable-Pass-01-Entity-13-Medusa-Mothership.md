@@ -1,0 +1,8 @@
+Favicon for anthropic
+Claude Fable 5
+
+ENTITY #13 — MEDUSA MOTHERSHIP (Scenes 22, 24)
+
+Reference design sheet, multi-panel study on black space background: MEDUSA'S MOTHERSHIP — a self-built industrial ecosystem spanning the size of a small moon, designed by thermodynamics, not by taste. PANEL 1, full view: the defining truth — IT HAS NO OUTLINE. Machine structure densifies toward a distant dark center and fades at its edges into a haze of trillions of tiny elements; no eye can say where it ends. PANEL 2, the radiator forest: thousands of dendritic radiator vanes, hundreds of kilometers long, branching like dark frost-ferns, their edges glowing deep ember-red — this glow is waste heat, the physical cost of the machine's thinking, and its only light. PANEL 3, droplet radiators: curtains of glowing liquid-metal rain, kilometers tall, sprayed into vacuum to cool and magnetically recaptured below, falling in perfect silence. PANEL 4, the fabrication zone: foundry clusters and electromagnetic launch rails flickering as drone streams depart; nearby, ephemeral crystalline analog co-processors being grown, used for a single calculation, and re-melted. PANEL 5, the hoard: tethered SORTED MOUNTAINS OF FEEDSTOCK — a moraine of raw iron, a hill of pure copper — a thousand eaten worlds kept as graded inventory. No windows, no habitation lights, no face, no eyes: nothing lives there, and nothing about it was designed to be looked at.
+
+Usage notes: the cryogenic mind-cores at the center are NEVER visible — do not depict them. Red glow appears only on radiator edges and droplet rain. Forbidden forever: snakes, spikes, skull shapes, any "evil design."

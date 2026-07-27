@@ -1,0 +1,6 @@
+Favicon for anthropic
+Claude Fable 5
+
+ENTITY #20 — THE ROSS 128 b CATHEDRAL-WHALE (Scene 5)
+
+Reference design sheet: the CATHEDRAL-WHALE of Ross 128 b — a filter-feeding leviathan of a dim red-dwarf ocean, and NOT an Earth whale (no mammal anatomy, no fluke, no blowhole). Body: a colossal tapered barrel, hundreds of meters long, midnight-blue-black skin; propulsion by two continuous lateral fin-ribbons running its full length, undulating in slow waves. Feeding: the bow of the body opens into a ring of cavernous intake vanes — a rose-window mouth straining plankton-light from the sea. In the dim red-dwarf gloom, vision gave way to LIGHT AND SONG: rows of photophores run stem to stern in long constellation-lines, and within the body sit vast resonating gas chambers — the organ-pipes that produce its infrasound songs, felt through a ship's hull before they are heard. Emotion panel: greeting-song state — photophore lines pulsing in slow travelling waves synchronized with the song. Scale silhouette: the Alpha's submersible lander smaller than one intake vane.

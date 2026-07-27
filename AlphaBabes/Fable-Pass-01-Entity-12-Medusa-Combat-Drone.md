@@ -1,0 +1,10 @@
+Favicon for anthropic
+Claude Fable 5
+
+Here they are, Nir — Entity Sheets #12–23, complete, self-contained, built on the engineering doctrine. Paste each to DeepSeek as its own generation job, with the GLOBAL STYLE PREFIX from Part 1 at the top of every prompt. 💖
+
+ENTITY #12 — MEDUSA COMBAT DRONE (Scenes 21, 24, 27)
+
+Reference design sheet, multiple views on a neutral dark studio background: the MEDUSA COMBAT DRONE — a mass-produced machine built by a machine, with zero aesthetics and total function. Body: a faceted, angular hull about the size of a small car — every flat facet is a conformal phased-array antenna panel; the surface is matte black photovoltaic skin (it eats every photon that touches it), with a rough sintered texture like laser-fused metal powder — visibly 3D-printed, not manufactured for anyone's approval. No running lights, no markings, no symmetry beyond what physics demands. One single aperture: a small deep-red lens — its laser-communication and lidar port — the only feature that catches light. Cutaway view: the truth of its anatomy — a fist-sized sealed processing kernel buried at the center, wrapped almost entirely in propellant tankage and cold-gas thruster clusters; it is 90% fuel and 10% mind, disposable by design. Panels: front view, side view, cutaway, and a formation study showing dozens flying in perfect murmuration spacing. Additional panel for Scene 27: the POST-WAR VARIANT — identical body, but carrying a bolted-on coalition transponder beacon glowing steady honest blue: a machine that once hid from every sensor, now broadcasting its position — trust expressed as engineering. Lighting: cold studio side-light, red aperture glinting.
+
+Usage notes: never give drones eyes, faces, or menace-styling — the horror is their indifference. Red aperture = lidar/comm port, one per drone. Post-war variant only in Scene 27.
