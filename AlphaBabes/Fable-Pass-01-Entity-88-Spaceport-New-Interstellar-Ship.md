@@ -1,0 +1,14 @@
+# Entity #88 — Spaceport + New Interstellar Ship
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: a vast open-air SPACEPORT in a green valley at dusk, where the next generation of interstellar ship is being built by former enemies working side by side. Single full-frame wide establishing shot from a low hill, looking across the valley. This is the saga's final image of hope: the war is over, and everyone is building together.
+
+THE SHIP UNDER CONSTRUCTION: at the center of the valley rises the gleaming skeleton of a NEW interstellar vessel — recognizably the next generation of a six-barrel design: six long submarine-shaped hulls of bright new copper arranged in a ring around a seventh hollow central cylinder, only partially plated, their exposed rib frameworks catching the dusk light. The whole ship is wrapped in enormous scaffolding towers, gantry cranes, and elevator masts. Dozens of tiny welding points sparkle across the structure like fireflies — showers of orange sparks drifting down.
+
+THE BUILDERS — tiny figures at valley scale, many species, each anatomically true: human engineers in work suits; ONDINES walking in transparent water-filled tank-suits carried on graceful four-legged alloy exo-frames, their bell-shaped bodies glowing softly inside; TITANITES — low, dome-backed, eight-legged living fortresses the size of small trucks, hauling girders with their two heavy elbowed tool-limbs; AERIANS — glider-beings with folded membrane wings, stilt-walking with courtly grace on their wing wrist-hooks, or soaring between scaffold towers; and former enemy drones — small faceted matte-black machines, each now carrying a bolted-on transponder beacon glowing steady honest BLUE, carrying materials obediently alongside the living workers. No humanoid aliens of any kind.
+
+SETTING AND LIGHT: rolling green valley, distant tree lines, service roads with vehicles, stacked cargo containers, floodlight masts just switching on. The dusk sky grades from warm orange at the horizon through rose to deep indigo overhead, first stars appearing. Warm work-lights and blue drone beacons pricking the twilight.
+
+MOOD: peace made physical — swords into starships. Monumental, warm, optimistic.
+
+FORBIDDEN: no red lights on any drone (blue beacons only), no weapons anywhere, no humanoid aliens, no daylight — this is dusk deepening into night.
