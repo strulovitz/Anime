@@ -1,6 +1,14 @@
 # 🔒 FABLE'S COMPLETE CANON REFERENCE — ALL LOCKED DESIGNS
 ## Keep this open. Every alien, every machine. No internet, no GitHub, no memory needed.
 
+## 🛑 IMPORTANT — READ THIS FIRST:
+
+**This is NOT a to-do list. Everything in this file has ALREADY been generated as images and pushed to the repo.**
+
+This is a REFERENCE document. You are writing NEW entity sheets (#24-80) — composite images like the Titanite Forge City, the Aerian Sky-City, the Coalition Scout Ship, the Council Hall, alien homeworlds, fleet ships, and other scenes that INCLUDE aliens. When you describe a Titanite, Ondine, Aerian, Zĭrán, Delphinidae, Skarn, or Reptilian in those new sheets, you MUST match the locked anatomy below. These designs are CANON. The 27 scene prompts were patched to match them. Do not change them. Do not humanize them.
+
+Think of this file as your cheat sheet — a reference made of references. 🚀
+
 ---
 
 ## 🔑 GLOBAL STYLE PREFIX (paste at start of every prompt):
