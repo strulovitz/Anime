@@ -1,0 +1,14 @@
+# Entity #84 — Aquatic Lander
+## By Claude Fable 5 — 2026-07-27
+
+File: copy-paste-prompts/Fable-Pass-01-Entity-84-Aquatic-Lander.txt
+
+SUBJECT: the AQUATIC LANDER — a compact two-crew titanium submersible built for deep-ocean first contact on the lightless water world Gliese 876 d. Single full-frame reference image: the vessel in open water, three-quarter front view, hovering in deep blue-black abyssal darkness, illuminated by its own floodlights. No city, no creatures — this is the vehicle reference.
+
+HULL — dual-environment engineering: a stubby, rounded, pressure-resistant titanium hull about six meters long, shaped like a thick teardrop. The belly carries a scorched, ablative heat-shield skirt (this craft entered the atmosphere from orbit before diving — reentry scorch marks still visible). Brushed titanium surfaces with visible weld seams, bolted access panels, and stenciled technical markings. Four ducted electric thruster pods on articulated mounts (two aft, one each side) with protective ring shrouds. Ballast tank vents along the lower flanks releasing thin streams of silver bubbles. A folded sample-collection manipulator arm stowed against the starboard hull.
+
+THE BOW DOME: the entire front third of the vessel is one enormous hemispherical dome of thick transparent acrylic, pressure-rated, flawlessly clear, with a visible deep dome-seat flange of bolted titanium. Through the dome, warmly lit by soft cockpit instrument glow: two young women at the controls — the pilot a brunette in her early twenties in a fitted spacesuit with a Romania flag patch on the shoulder and a name tag on the chest, absolutely nothing on her head, no helmet; beside her a companion with mint-green hair in a chignon. Both lean forward, faces lit with wonder, gazing out into the dark water.
+
+LIGHTING: two forward floodlight banks throw long cones of white light into the black water, catching drifting marine snow particles. The cockpit's warm interior glow makes the dome a lantern of human warmth in an alien abyss. Everything outside the light cones fades to true lightless black.
+
+FORBIDDEN: no helmets or headwear on the crew, no windows other than the bow dome, no fantasy glow — every light source is a physical lamp or instrument panel.
