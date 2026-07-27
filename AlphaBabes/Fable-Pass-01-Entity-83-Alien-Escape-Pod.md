@@ -1,0 +1,20 @@
+# Entity #83 — Alien Escape Pod
+## By Claude Fable 5 — 2026-07-27
+
+File: copy-paste-prompts/Fable-Pass-01-Entity-83-Alien-Escape-Pod.txt
+
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: a battered alien escape pod built for an AQUATIC species — a sealed lifeboat filled entirely with seawater instead of air. Single full-frame reference image: the pod resting on dark riveted deck plating, three-quarter view, neutral dark studio-style background, soft even work-light illumination, no background scenery.
+
+THE POD: an egg-shaped pressure vessel about four meters tall, resting slightly tilted on its scorched base. The hull is dull grey-green alloy, heavily battered: carbon scorch-streaks from an explosion, micrometeorite scoring, dented panels, a sheared-off docking collar with torn umbilical stubs, and a ring of small spent retro-thruster nozzles around the lower third. Ablative coating flaked away in patches showing the metal beneath. This pod survived the destruction of its mothership — every mark tells that story.
+
+THE VIEWPORT: one large circular viewport of very thick transparent pressure glass on the pod's front face, spider-webbed with a dense network of fine white stress cracks — holding, but barely. Through the cracked glass: the interior is FULL of seawater, lit from within by a soft emerald-green glow (an emergency algae-based oxygenator culture lining the inner wall — biological life support, physically plausible).
+
+THE PASSENGERS — silhouettes only, seen dimly through the green-lit water and cracked glass: a family of three aquatic aliens huddled together — two adults sheltering one small juvenile. Their anatomy, visible in silhouette: smooth streamlined bodies propelled by TWO GREAT PECTORAL WING-FINS spanning wider than the body is long (like underwater flyers), broad gentle BLUNT heads with no snout, and a short triple-vane steering rudder at the rear. One adult wraps a wing-fin protectively around the juvenile. ABSOLUTELY NOT dolphins: no dolphin beak-snout, no whale tail fluke, no dorsal fin, no Earth-cetacean anatomy, no mermaids.
+
+THE LEAKS: thin high-pressure jets of seawater spraying from two failing hull seams, sparkling in the work-light, running down the hull in wet streaks and pooling in a spreading puddle on the deck plates around the base — the pod is dying, and the clock is visible.
+
+MOOD: fragile hope inside broken metal — a lifeboat that did its job at terrible cost. A faint human silhouette stands at the frame's edge for scale.
+
+FORBIDDEN: no dolphin or whale anatomy, no humanoid figures inside, no air inside the pod (water only), no fantasy glow — the green light is biological, soft and physically sourced.

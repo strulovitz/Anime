@@ -1,0 +1,20 @@
+# Entity #82 — Zĭrán Sailwing Glider
+## By Claude Fable 5 — 2026-07-27
+
+File: copy-paste-prompts/Fable-Pass-01-Entity-82-Ziran-Sailwing-Glider.txt
+
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: a Zĭrán sailwing glider — an aircraft entirely GROWN and WOVEN, containing zero metal, built by a civilization that grows everything and builds nothing. Single full-frame reference image: the glider in level flight, three-quarter view from slightly below, filling the frame, against a clean soft amber sky (the daylight of an orange K-type star). No volcano, no background scenery — this is the vehicle reference.
+
+AIRFRAME — engineering of a metal-free aircraft: a high-aspect-ratio sailplane wing, long and slender like a modern glider's, spanning the frame. The main wing spar and all structural members are laminated poles of pale grown cane (bamboo-like plant stock, visible growth nodes), every joint LASHED with tight wrappings of braided plant-fiber cord — no screws, no welds, no brackets, no metal fittings anywhere. Visible triangulated truss-work inside the open frame: correct tension-and-compression engineering, elegant and light.
+
+WING MEMBRANE: pale ivory silk stretched drum-tight over the cane ribs, slightly translucent against the sky so the rib skeleton shows through as soft shadow lines, with neat sewn seams and small reinforcing patches at stress points. Flight control is by WING-WARPING: thin silk control cords run from the wingtips through small polished wooden pulleys to the pilot's station (the Wright brothers' method — no hinged metal flaps).
+
+GONDOLA: an open wicker-basket fuselage slung under the wing, woven like fine basketry, with low padded saddle-perches shaped for Zĭrán hexapod bodies (wide, low mounts a six-limbed rider straddles — NOT human chairs). Lashed to cargo racks behind the saddles: several small wooden barrels secured with rope netting, their lids sealed with pale wax.
+
+TOW RIG: three braided silk tow-lines run forward from a carved wooden yoke at the glider's nose, converging as they rise and exiting the top-left corner of the frame, pulled taut by an unseen tug animal — do NOT show the animal, only the taut lines leaving the frame.
+
+MATERIALS AND LIGHT: warm amber sunlight raking across the silk, showing its weave; honest textures of cane, cord, wicker, wax and wood; a faint human silhouette standing at the lower corner for scale (the glider's wingspan is many times a human's height).
+
+FORBIDDEN: no metal, no plastic, no engines, no propellers, no rivets, no glass, no glowing technology — every part is grown plant material, silk, cord and wood.
