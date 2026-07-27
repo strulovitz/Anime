@@ -1,0 +1,14 @@
+# Entity #101 — Holo-Table
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: the HOLO-TABLE in the Alpha's briefing room — the ship's tactical heart, a round table crowned by a volumetric star map. Single full-frame reference image: three-quarter view from standing eye height, the table and its floating display as sole subject, in a dim copper-walled briefing room. No people in frame.
+
+THE TABLE — hardware first: a heavy circular table, waist-high, two meters across, its rim a broad ring of brushed copper worn to a shine where hands have rested for years, its deck a dark glass projection surface made of hundreds of small hexagonal emitter cells (visible as a fine honeycomb pattern beneath the glass). Around the rim: recessed control panels with physical switches, dials and worn key-labels, a coffee-cup ring stain, a clipped-on notepad — honest daily use. Thick cable conduits run from the table's pedestal base into the deck plating.
+
+THE DISPLAY — physically restrained volumetrics: hovering above the table, a translucent three-dimensional star map about a meter tall, rendered in calm WARM GOLD points of light (never red, never cyan): the Sun and its planets on one side, the triple star system of Alpha Centauri on the other, and between them a thin dotted route-line arcing across four light-years, annotated with small floating tick-marks and clean numeric labels. The map is faint and airy — you can see the far wall through it; its brightest points cast a soft golden under-glow onto the table's glass and the copper rim, and faint gold reflections onto nearby surfaces. One planet is enlarged in a gentle magnifier-sphere with orbital lines. The projection has fine horizontal scan-texture up close — engineered light, not magic.
+
+THE ROOM: dim and functional — curved riveted copper walls, a rail of small spot-lamps turned low, chairs of different heights pushed back from the table as if a briefing just ended.
+
+MOOD: quiet gravity — the place where a tiny crew looks at four light-years of dark and decides to go anyway.
+
+FORBIDDEN: no opaque "solid" holograms, no red or cyan data-light (gold only), no touchscreens-everywhere sleekness — physical switches, worn copper, and one beautiful restrained projection.

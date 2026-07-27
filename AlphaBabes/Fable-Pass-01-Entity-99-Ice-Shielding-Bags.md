@@ -1,0 +1,16 @@
+# Entity #99 — Ice-Shielding Bags
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: the ICE-SHIELDING BAGS of the mothership Alpha — thousands of white bags of frozen water strapped over the hull as radiation armor and emergency reserve. Single full-frame reference image: a close detail view of one section of a copper submarine hull in deep space, the quilted ice-bag covering filling most of the frame, hull curvature receding out of frame on both sides.
+
+THE CONCEPT — engineering truth: water is the best radiation shield a ship can carry, and it doubles as drinking water and propellant reserve. So the Alpha wears her water on the outside: heavy flexible bags packed with water ice, strapped over the copper pressure hull in overlapping rows, giving the whole vessel a lumpy, quilted, hand-made appearance — a spaceship wearing a winter coat.
+
+THE BAGS — material honesty: each bag is roughly mattress-sized, made of thick woven high-strength fabric in dirty white, bulging irregularly with the frozen mass inside — no two bags the same shape. Visible details: heat-sealed seams, stenciled inventory numbers and fill-date markings, small armored fill-valves at one corner of each bag, and patches where micrometeorite hits were repaired with bonded fabric discs. A fine frost bloom glitters on the coldest surfaces; one bag shows a fist-sized impact crater with radiating frozen splash — proof the armor works.
+
+THE RIGGING: the bags are held down by a grid of broad woven cargo straps in faded safety-orange, crossing over the bags and anchoring to recessed hard-points in the copper hull between rows — visible ratchet tensioners at intervals. Between two bag rows, a narrow maintenance lane exposes the underlying hull: dull reddish copper, riveted plates, patina and scuffs.
+
+LIGHTING: hard, single-source white sunlight raking across the quilting from one side, throwing crisp black shadows into every crease and strap-line; the shadow side falls off into star-flecked black space. The frost sparkles in the sunlit seams.
+
+MOOD: unglamorous genius — the cheapest armor in the universe, sewn on with straps, and it carried a crew across four light-years.
+
+FORBIDDEN: no energy shields, no glow, no sleek paneling — this must look heavy, hand-strapped, frosted and honest.
