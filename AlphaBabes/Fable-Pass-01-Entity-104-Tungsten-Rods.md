@@ -1,7 +1,7 @@
 # Entity #104 — Tungsten Rods
 ## By Claude Fable 5 — 2026-07-27
 
-SUBJECT: the Alpha's TUNGSTEN RODS — solid kinetic-kill projectiles, the simplest and most honest weapons aboard: no warhead, no guidance, just dense metal and terrible speed. Single full-frame reference image: the magazine bay where the rods are racked, three-quarter view, one rod presented on a loading cradle in the foreground.
+SUBJECT: TITANITE TUNGSTEN RODS — solid kinetic-kill projectiles fired from railgun mass-drivers aboard Titanite Industrial Dreadnoughts, the simplest and most honest weapons in the Coalition arsenal: no warhead, no guidance, just dense metal and terrible speed. Single full-frame reference image: the magazine bay where the rods are racked aboard a Titanite dreadnought, three-quarter view, one rod presented on a loading cradle in the foreground.
 
 THE ROD — pure physics: a solid bar of tungsten, two meters long, forearm-thick, machined to a smooth cylinder with a simple ogive point at one end and four small fixed stabilizer fins machined into the tail. Surface: the distinctive dark steel-grey of raw tungsten with a dull metallic luster, fine lathe-turning marks visible along its length, a stamped serial number and mass figure (each rod is brutally heavy — tungsten is nearly twice the density of lead) near the tail. NO electronics, NO seams, NO glowing parts — a rod is a rod; at orbital closing velocities its kinetic energy alone exceeds its weight in high explosive. One rod lies in a padded loading cradle in the foreground, filling the frame's lower third, its machining detail crisp under the work lights.
 
