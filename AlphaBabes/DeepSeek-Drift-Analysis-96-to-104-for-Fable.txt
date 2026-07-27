@@ -1,0 +1,54 @@
+DeepSeek's drift analysis of your recent prompts #96-#104 against the master list:
+
+--- ENTITY #96: TRUMPET FLOWERS ---
+Master says: Teal bioluminescent, indigo-black foliage, amber dusk, Kepler-442b paths.
+Your prompt: ✅ MATCHES EXACTLY. Clean.
+
+--- ENTITY #97: FLOWER LANTERNS ---
+Master says: Paper lanterns with bioluminescent flower (gold + teal), farewell ceremony.
+Your prompt: ✅ MATCHES. Even added excellent buoyancy-bladder detail. Clean.
+
+--- ENTITY #98: BUSSARD RAMJET DISH ---
+Master says: Graphene panels, carbon-nanotube struts, gold secondary mirror, missile hatches.
+Your prompt: ✅ MATCHES EXACTLY. Clean.
+
+--- ENTITY #99: ICE-SHIELDING BAGS ---
+Master says: White bags, cargo straps, frost, humble patchwork warmth.
+Your prompt: ✅ MATCHES EXACTLY. Clean.
+
+--- ENTITY #100: WHEELED ROBOT ---
+Master says: Small wheeled robot, two gentle arms, offers thermal blanket, non-threatening.
+Your prompt: ✅ MATCHES. Added beautiful charm through posture. Clean.
+
+--- ENTITY #101: HOLO-TABLE --- OEM DRIFT ---
+Master says: Rebel asteroid base. Raw grey rock base, copper-framed projector ring. Scene 15, Council of Species. This is Zev's rebel base, not the Alpha.
+Your prompt wrote: "the Alpha's briefing room" with "copper-walled briefing room."
+FIX: Change location to the rebel asteroid base with raw rock walls. The room is carved from asteroid rock reinforced with copper girders (as seen in entity #41). This is where the first Council of Species happens, NOT an Alpha room.
+
+--- ENTITY #102: EMERALD LASER CANNON --- OEM DRIFT ---
+Master says: Main laser cannon on the *Dominion war cruiser* (entity #35). Fires a brilliant emerald beam that gets turned against its own ship by the mirror drone lattice in Scene 14 (Laser Chess). This is the enemy's weapon that becomes their own undoing.
+Your prompt wrote: "the Alpha's EMERALD LASER CANNON — the mothership's main energy weapon, a dorsal turret."
+FIX: This belongs on the Dominion war cruiser, not the Alpha. Change setting to the angular dark hull of the Dominion cruiser with cold blue running lights. The Alpha does NOT have a laser cannon — her weapons are the Bussard dish missile ports and the collision doctrine.
+
+--- ENTITY #103: MICRO-DRONE CLOUDS ---
+Master says: Rebel/coalition defensive drones. Used in Scenes 14 and 21.
+Your prompt wrote: "the Alpha's" — minor issue. The Alpha is part of the coalition, so acceptable.
+
+--- ENTITY #104: TUNGSTEN RODS ---
+Master says: Titanite mass-driver projectiles (Titanite Dreadnoughts, entity #32).
+Your prompt originally wrote: "the Alpha's tungsten rods."
+FIXED by DeepSeek already. Now correctly attributed to Titanite Dreadnoughts.
+
+--- SUMMARY OF DRIFTS NEEDING FIXES ---
+1. #101 Holo-Table: move from Alpha briefing room to rebel asteroid base (raw rock walls, not copper)
+2. #102 Emerald Laser Cannon: move from Alpha to Dominion war cruiser (enemy ship, angular dark hull, cold blue lights)
+
+--- NEXT ENTITIES (the REAL master list) ---
+#105 = Bio-Rubber Compound (Scene 11 — Ziran tree-sap rubber, plugs Mt. Jun)
+#106 = Ice-Cloud / Vapor Screen (Scene 10 — Mariner's defensive veil against comet fragments)
+#107 = The Signal from Ziran (Scene 7 — golden ribbon of music on the Alpha's bridge hologram)
+
+--- YOUR REQUESTED FILES (raw URLs) ---
+Full master list: https://raw.githubusercontent.com/strulovitz/Anime/main/AlphaBabes/Nir-to-Fable-ALL-ENTITIES-MASTER-2026-07-27.md
+Complete canon (all species + machines): https://raw.githubusercontent.com/strulovitz/Anime/main/AlphaBabes/Nir-to-Fable-COMPLETE-CANON-2026-07-27.md
+Session DELTA (done + remaining): https://raw.githubusercontent.com/strulovitz/Anime/main/AlphaBabes/Nir-to-Fable-DELTA-2026-07-27.md
