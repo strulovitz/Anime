@@ -1,0 +1,14 @@
+# Entity #94 — Living Lamp-Organisms
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: the LIVING LAMP-ORGANISMS of the Ondine city — cultivated bioluminescent life used as street lighting by a civilization that never invented fire. Single full-frame underwater reference image: a receding row of lamp-organisms lining one side of an underwater boulevard, in the blue-black abyssal ocean of Gliese 876 d.
+
+THE ORGANISM — hard-science biology, a domesticated species bred as a lamp: each individual is a graceful stalked creature about three meters tall, anchored to the boulevard's edge by a root-like holdfast gripping a low ridge of pale coral-glass. The stalk is a smooth, flexible column of translucent flesh, gently swaying. At its top: a large teardrop-shaped LIGHT BULB of clear jelly-like tissue, and inside it a dense glowing core — a cultured colony of symbiotic luminous bacteria (exactly how Earth's anglerfish make light) that the organism feeds through visible fine vein-networks in exchange for a steady warm-gold glow. The bulb's surface shows soft internal structure: the brighter bacterial core, a surrounding lens-layer of jelly that spreads the light evenly, and faint ring-ripples of growth. Small feathery feeding-fronds ring the stalk below the bulb, sifting drifting nutrients from the water.
+
+THE LIGHT — physically honest: each lamp casts a soft, warm-golden pool of light downward onto the boulevard's smooth pale paving of grown coral-glass, with correct falloff into darkness between lamps. Drifting particles sparkle as they pass through each light pool. The lamps' glow is gentle — streetlight warmth, not searchlight glare.
+
+COMPOSITION: the row of lamps recedes in a graceful curve into blue-black darkness, each successive lamp smaller and dimmer, six or seven visible before the dark swallows them. In the far background, only barely: the faint pearl-glow haze of the greater city, out of focus. The boulevard is empty — the lamps are the subject.
+
+MOOD: a lamplit evening street, three thousand meters under a black ocean — civilization's tenderness expressed in biology.
+
+FORBIDDEN: no metal lampposts, no wires, no glass fixtures, no electric technology — every lamp is a living organism; no sunlight; no creatures or Ondines in frame.

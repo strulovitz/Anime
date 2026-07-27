@@ -1,0 +1,14 @@
+# Entity #95 — Kelp Forests
+## By Claude Fable 5 — 2026-07-27
+
+SUBJECT: the great KELP FORESTS at the edge of the Ondine city — towering underwater groves swaying in the black abyssal ocean of Gliese 876 d, lit only by the distant glow of the city they shelter. Single full-frame underwater reference image: camera at mid-height inside the forest's edge, looking through the last ranks of kelp toward a distant soft city-glow.
+
+THE KELP — alien deep-water botany, hard-science: with no sunlight ever reaching this ocean, these are not photosynthesizers — they are colossal FILTER-FEEDING organisms shaped like kelp: anchored to the rocky floor by massive gnarled holdfasts, their smooth rope-like stipes rise thirty to fifty meters, buoyed upright by rows of gas-filled float-bladders (translucent amber spheres, visibly glowing faintly where light passes through them), and along their whole length carry broad ribbon-fronds of dark bronze-indigo flesh, each frond's surface covered in fine ciliated combs that sieve drifting nutrients from the current.
+
+BIOLUMINESCENT DETAIL: the kelp lives with the light of others — sparse colonies of tiny teal light-points (symbiotic plankton) cling along frond edges, tracing some blades in faint dotted outlines, so the forest at distance reads as ghostly hanging lines of dim constellation-light.
+
+LIGHT AND COMPOSITION: the dominant light source is the DISTANT CITY — a soft warm pearl-and-gold glow far beyond the forest, out of focus, silhouetting the farther kelp columns as dark graceful verticals against it. Nearer stipes and fronds catch only the faintest edge-light. The whole forest is caught in one slow, unanimous underwater sway — every column bending the same gentle direction, fronds streaming, like a cathedral of dark banners in slow motion. Drifting marine snow falls through the frame; the upper reaches of the kelp vanish into pure black overhead — no surface, no sky.
+
+MOOD: a threshold — the wild dark forest standing guard before the city of light.
+
+FORBIDDEN: no sunlight, no water surface, no green sunlit Earth-kelp colors, no fish, no Ondines, no city structures in frame — only the forest, the darkness, and the distant glow.
