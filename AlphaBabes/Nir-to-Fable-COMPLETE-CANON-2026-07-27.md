@@ -212,22 +212,6 @@ Translucent dome-bladder, pearl-and-rose iridescence, filled with self-fermented
 
 ---
 
-# 🚀 THE 10 CREW WOMEN (HUMANS — the ONLY humanoids)
-
-MADIE — Romania. Brunette, early 20s, womanly curvy figure. Long loose dark-brown hair, NEVER anything on her head. White-and-slate spacesuit, ROMANIA shoulder patch, "MADIE" chest name tag. Dry humor, punctual, formal in crises. Borscht is her comfort ritual. Appears in nearly every scene.
-
-ACE — USA Black. LILAC afro puffs. Loud, brave, nuclear physicist + shuttle pilot.
-MARINER — China. VIOLET hair in two bunches. Precise, astrophysics navigator.
-BUBBELS — Japan. YELLOW double odango buns. Kawaii, astrochemistry.
-REAPER — India. MINT-green chignon. Astrobiology + chef. Gardener.
-ROCKHOUND — Russia. FOREST-green lob. Stoic, planetary science.
-DOC — France Black. PINK box braids. Space medicine + psych.
-TINK — Germany. ORANGE updo. Mechanical engineering.
-SPARKY — Korea. SKY-blue hime cut. Electrical + AI.
-PIPEY — Australia. COBALT bob. Civil engineering, life support.
-
----
-
 # 🛑 ENTITIES THAT MUST BE REDONE:
 
 ## #69 — DELETE AND REPLACE. Use Titanite design (Species #3 above).
