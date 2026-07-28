@@ -1,96 +1,89 @@
-# 🔼 DELTA — State After Session 2026-07-28 (Evening)
-## Gap between the DELTA 2026-07-27 and where we are now. Read AFTER AGENTS.md and the 2026-07-27 DELTA.
+# 🔼 DELTA — State After Session 2026-07-28 (Evening Continuation)
+## Read AFTER AGENTS.md.
 
 ---
 
-## 📊 WHAT WAS DONE THIS SESSION:
+## 📊 WHAT WAS DONE THIS SESSION (EVENING CONTINUATION):
 
-### ENTITY PROMPTS #105–116 — THE FINAL 12 ✅
-Fable wrote the remaining 12 Tier-5 entities from the master file. All saved as .txt copy-paste prompts with Global Style Prefix auto-prepended by DeepSeek, plus companion .md files.
-
+### ENTITY IMAGES GENERATED (#38-45):
 | # | Entity | Status |
 |---|--------|--------|
-| 105 | Bio-Rubber Compound | 📝 prompt written |
-| 106 | Ice-Cloud / Vapor Screen | 📝 prompt written |
-| 107 | The Signal from Zĭrán | 📝 prompt written |
-| 108 | The Comet | 📝 prompt written |
-| 109 | Ondine Ceremonial Orbs | 📝 prompt written |
-| 110 | Ondine Bioluminescent Pearl | 📝 prompt written |
-| 111 | Titanite Meteor-Metal Plate | 📝 prompt written |
-| 112 | Aerian Plume-Scale Gift | 📝 prompt written |
-| 113 | Water-Filled Transfer Tank | 📝 prompt written |
-| 114 | Small Rebel Fighters | 📝 prompt written |
-| 115 | Six-Wheeled Rover | 📝 prompt written |
-| 116 | Fixed-Wing Drone | 📝 prompt written |
+| 38 | Ross 128b Ocean | 🖼️ generated |
+| 39 | Kepler-442b | 🖼️ generated |
+| 40 | Wolf 1061c Ruined Plaza | 🖼️ generated |
+| 41 | Rebel Asteroid Base | 🖼️ generated (Fable rewrote — zero creature trigger words) |
+| 42 | Orpheus Nebula Black Hole | 🖼️ generated |
+| 43 | Madie & Nir Travel Triptych | 🖼️ generated (REPLACED old Romanian Countryside) |
+| 44 | Gliese 876d Ocean | 🔜 next to generate |
+| 45 | Medusa Swarm | 📝 prompt ready |
 
-### CORRECTIONS APPLIED:
-- #101 Holo-Table: Fable corrected from "Alpha's briefing room" → "rebel asteroid base" ✅
-- #102 Emerald Laser Cannon: Fable corrected from "Alpha's dorsal turret" → "Dominion war cruiser" ✅
-- #103 Anti-Missile Micro-Drone Clouds: Fable's detonation fix verified ✅ (kinetic impact, not explosives)
+### ENTITY #22-WILD CREATED:
+- Air-Jellyfish Porters natural wild state (no ropes/baskets) — generated as Entity-22-2
+- Used as reference for Entity #38 (Ross 128b Ocean)
+
+### ENTITY #43 REPLACED:
+- Romanian Countryside DELETED from repo
+- New: Madie & Nir Travel Triptych — F1 grandstands, Musée de l'Orangerie (Monet), Kyoto temple
+- Style saga: came out photorealistic 2x → Fable baked "3D animated cartoon" into every paragraph → finally Pixar-style!
+- Madie: curvy, busty, pretty, brunette. Nir: handsome. No ages.
+
+### ENTITY #41 FURNITURE LESSON:
+- Reference images of species for furniture design DON'T WORK — GPT paints the creatures into the room
+- Fable's fix: describe furniture by shape + dimensions + wear marks, zero species names, zero anatomical trigger words ("eight-legged", "winged", etc.)
+- Emphatic "NO CREATURES" clause at end
+
+### TWO-PREFIX SYSTEM LOCKED:
+- FULL prefix: aliens, planets, ships, sci-fi (hard science fiction, real materials)
+- SHORT prefix: Madie & Nir Earth scenes (Pixar animation style only)
+- Key insight: GPT Image ignores style prefix for Earth/human subjects — style must be IN prompt body
+
+## 📊 ENTITY INVENTORY:
+
+### GENERATED IMAGES (in images/):
+#01-23: ✅ DONE (reference species + machines)
+#24-37: ✅ DONE (Alpha, Lander, Cryo-Bay, Clone Nursery, Borscht, Tree City, Ondine City, Ziran Pavilion, fleet ships, Mirror Drones, Proxima b)
+#38-43: ✅ DONE (this session)
+#22-WILD: ✅ DONE (Air-Jellyfish Porters natural wild state)
+
+### NOT YET GENERATED:
+#44: Gliese 876d Ocean — NEXT
+#45-116: 72 prompts remaining
+
+### PROMPTS WRITTEN (in copy-paste-prompts/):
+#24-116: ALL 93 .txt files written and ready
 
 ---
 
-## 📊 COMPLETE ENTITY INVENTORY:
-
-### GENERATED IMAGES (by Nir, via GPT 5.4 Image 2):
-01-23: All 23 reference entity images DONE and in images/
-
-### PROMPTS WRITTEN (ready for Nir to paste into GPT 5.4 Image 2):
-24-116: ALL 93 entity prompts written in copy-paste-prompts/
-
-Every .txt file has the Global Style Prefix prepended and is ready for copy-paste.
-
----
-
-## 🔐 CANON LOCKS (UNCHANGED):
+## 🔐 CANON LOCKS (UPDATED):
 - NO CHILDREN on the Alpha. 10 women only. Clone reincarnation.
 - NO HUMANOID ALIENS. All species = planet physics.
-- Madie: Romanian, brunette, no headwear, borscht, Romania flag patch.
+- Madie: brunette, no headwear, curvy, busty, pretty. Romanian removed from prompt (flag problem). Based on Chief from background doc: redhead→brunette, UK→Romania (implied), tea→borscht.
+- Nir: handsome, short dark hair, athletic build, no glasses, casual t-shirt and jeans. No age in prompts.
 - Medusa: thermodynamic radiator forest (not snake-crown).
 - Zeus: 4D tesseract projection with structural-color nacre (not glowing father figure).
-- Global Style Prefix on every .txt file.
+- TWO PREFIXES: FULL for sci-fi, SHORT for Madie/Nir Earth scenes.
+- For Earth/human scenes: Pixar animation style MUST be in prompt BODY, not just prefix.
 - Alpha = copper vessel, Dominion = angular black faceted armor.
-
----
 
 ## 🎯 WHAT STILL NEEDS TO BE DONE:
 
-### A. IMAGE GENERATION (Nir's part):
-1. Entities #24-116: 93 prompts ready. Paste each .txt into GPT 5.4 Image 2.
-2. Scene images: all 27 scene prompts are patched and ready in batch files. Generate AFTER entity images.
-3. Save all generated images to images/ and push.
+### A. IMAGE GENERATION:
+1. Entity #44 — NEXT: Gliese 876d Ocean
+2. Entities #45-116: ~72 prompts remaining
+3. Scene images: all 27 patched and ready — generate AFTER entity images
 
-### B. POST-IMAGE WORK (Nir's part):
-- Record narration voiceover (Qwen3-TTS for Madie's voice, desktop Linux)
-- Assemble in Adobe Premiere (Ken Burns, sound design, songs, Scheherazade cues)
-- Romanian subtitle translation
-- PDF artbook + 1 physical printed copy
+### B. POST-IMAGE WORK:
+- Record narration (Qwen3-TTS, desktop Linux)
+- Assemble in Premiere (Ken Burns, sound design, songs)
+- Romanian subtitles, PDF artbook, 1 physical printed copy
 
-### C. OTHER PENDING (not blocking the gift):
-- Restart ComfyUI server (desktop Linux)
-- Laptop Linux: character work + WAN 2.2 installation
-- Nir installs Windows software (Ableton, Premiere, Omnisphere, Syncthing)
-- Mazes & Mages songs
+### C. OTHER PENDING:
+- Restart ComfyUI, WAN 2.2, Windows software, Mazes & Mages songs
 
----
-
-## 🚀 BOOT SEQUENCE FOR NEXT SESSION:
-
+## 🚀 BOOT SEQUENCE:
 1. Read AGENTS.md
 2. Git pull: git -C /home/nir/Anime pull
 3. Read THIS FILE (Nir-to-Fable-DELTA-2026-07-28.md)
-4. Read: AlphaBabes/Fable-to-Fable-HANDOFF-2026-07-27.md (the handoff)
-5. Check: AlphaBabes/copy-paste-prompts/ (all prompts)
-6. Check: AlphaBabes/images/ (all generated images)
-7. Greet Nir, state entity counts, ask what's next! 🚀✨💖
-
----
-
-## 📁 KEY FILES:
-- AGENTS.md (local only — NEVER push)
-- Nir-to-Fable-DELTA-2026-07-28.md (THIS FILE — in repo)
-- Fable-to-Fable-HANDOFF-2026-07-27.md (the handoff)
-- Nir-to-Fable-COMPLETE-CANON-2026-07-27.md (locked species anatomy)
-- Nir-to-Fable-ALL-ENTITIES-MASTER-2026-07-27.md (master entity list)
-
-SESSION END 2026-07-28
+4. Check: AlphaBabes/copy-paste-prompts/ (all prompts)
+5. Check: AlphaBabes/images/ (all generated images)
+6. Greet Nir with emojis! 🚀✨💖
