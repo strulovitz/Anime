@@ -1,38 +1,29 @@
-# 🔧 REQUEST FOR FABLE — Entity #43 STYLE FIX
+# 🔧 PROBLEM REPORT FOR FABLE — Entity #43
 
-## The Problem
+## What Happened
 
-GPT 5.4 Image 2 keeps rendering Madie and Nir as **photorealistic people** instead of Pixar/Disney 3D animated characters. We tried twice. Both times: real photographs. The style prefix says "Pixar/Disney 3D animation style" but GPT Image ignores it for Earth subjects (F1, Paris, Kyoto) because it has billions of real photos of those places.
+We generated the Madie & Nir travel triptych prompt (F1, Paris Monet gallery, Kyoto temple) using GPT 5.4 Image 2. Twice. Both times the images came out looking like **real photographs** of real people, not Pixar/Disney 3D animation.
 
-## The Fix
+The prompt has this style prefix at the top:
+"Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished Pixar finish."
 
-The Pixar style must be **baked directly INTO the prompt body** — not just the prefix. Every paragraph that describes Madie, Nir, or any human must include words like "Pixar animated character," "3D animated film character," "stylized Pixar character design."
+But GPT Image ignores it completely and produces photorealism.
 
-Examples of what works:
-- "a curvy, busty, pretty brunette Pixar animated character, Madie, Romanian early-20s woman..."
-- "Nir, a fit Pixar-styled man in his mid-40s..."
-- NOT just "Madie, a radiant Romanian woman..." — that triggers photorealism
+## Context
 
-## Character Descriptions (CANON — do not change)
+This same prefix works perfectly for all our alien, planet, and spaceship images — those come out Pixar-style. But for Earth scenes with humans in real locations (F1 race, Paris museum, Kyoto), GPT Image defaults to photorealism.
 
-**MADIE:** Romanian, early 20s, curvy, busty, pretty, brunette, long dark-brown hair, nothing on her head, warm confident radiant.
+## Locked Character Descriptions (CANON)
+
+**MADIE:** Romanian, early 20s, curvy, busty, pretty, brunette, long dark-brown hair, nothing on her head.
 
 **NIR:** mid-40s, short dark hair, athletic build, no glasses, casual t-shirt and jeans.
 
-## Scene (keep the triptych concept)
-
-LEFT — Formula 1 grandstands. Madie points at a blurring F1 car, Nir's arm around her.
-
-CENTER — Musée de l'Orangerie, Paris. Standing before Monet's Water Lilies, hand in hand. Backpacks and laptop at feet.
-
-RIGHT — Kyoto at dusk. Paper lanterns, vermilion temple gate, bowing to a geisha, cherry blossoms.
-
-Unifying: washi-tape edges, dotted travel lines, passport stamps, "our world, together."
-
 ## What We Need
 
-A new fully self-contained single-copy-paste prompt. NO Global Style Prefix needed — DeepSeek will add it. Pixar style baked INTO every line of the prompt body. 
+A fix for this prompt so it renders as Pixar/Disney 3D animation, not photographs. Whatever approach you think will work — you're the expert.
 
-IMPORTANT: Say "Pixar animated character" or "3D Pixar stylized" directly inside every description of Madie and Nir. Do NOT rely on the prefix.
+Current prompt is at:
+AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-43-Madie-Nir-Travel-Triptych.txt
 
-Thank you Fable! 🎬💖
+Thank you Fable! 🎬
