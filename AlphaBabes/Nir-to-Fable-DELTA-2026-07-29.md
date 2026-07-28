@@ -1,11 +1,11 @@
-# 🔼 DELTA — State After Session 2026-07-28 (Evening Continuation)
+# 🔼 DELTA — State After Session 2026-07-29 (Early Morning)
 ## Read AFTER AGENTS.md.
 
 ---
 
-## 📊 WHAT WAS DONE THIS SESSION (EVENING CONTINUATION):
+## 📊 WHAT WAS DONE THIS SESSION
 
-### ENTITY IMAGES GENERATED (#38-45):
+### ENTITY IMAGES GENERATED (#38-44):
 | # | Entity | Status |
 |---|--------|--------|
 | 38 | Ross 128b Ocean | 🖼️ generated |
@@ -14,8 +14,7 @@
 | 41 | Rebel Asteroid Base | 🖼️ generated (Fable rewrote — zero creature trigger words) |
 | 42 | Orpheus Nebula Black Hole | 🖼️ generated |
 | 43 | Madie & Nir Travel Triptych | 🖼️ generated (REPLACED old Romanian Countryside) |
-| 44 | Gliese 876d Ocean | 🔜 next to generate |
-| 45 | Medusa Swarm | 📝 prompt ready |
+| 44 | Gliese 876d Ocean | 🖼️ generated |
 
 ### ENTITY #22-WILD CREATED:
 - Air-Jellyfish Porters natural wild state (no ropes/baskets) — generated as Entity-22-2
@@ -37,53 +36,70 @@
 - SHORT prefix: Madie & Nir Earth scenes (Pixar animation style only)
 - Key insight: GPT Image ignores style prefix for Earth/human subjects — style must be IN prompt body
 
-## 📊 ENTITY INVENTORY:
+### MEDUSA DRONES REDESIGNED FROM SCRATCH:
+- Old Entity #12 (faceted angular car) and Entity #45 (fractal snowflake) were contradictory — both DISCARDED
+- Fable redesigned both based on 3D laser chess (Project Zet) from the story arc
+- New design: "Obol Mk.II" — 2.2m double-sided mirror disc, sintered SiC core, CMGs for slewing, piezo actuators for micro-radian pointing, 12 thrusters, corner-cube retroreflectors for formation metrology
+- Medusa: bare metal gray, no lights, no recovery hooks — expendable
+- Alliance "Aegis": same optics, white-painted ring, strobes, refuelable
+- Laser beams only visible where they cross thruster plumes or debris vapor
+- NEW prompts saved for both #12 and #45 — NOT yet generated as images
+
+---
+
+## 📊 ENTITY INVENTORY
 
 ### GENERATED IMAGES (in images/):
 #01-23: ✅ DONE (reference species + machines)
 #24-37: ✅ DONE (Alpha, Lander, Cryo-Bay, Clone Nursery, Borscht, Tree City, Ondine City, Ziran Pavilion, fleet ships, Mirror Drones, Proxima b)
-#38-43: ✅ DONE (this session)
+#38-44: ✅ DONE (this session)
 #22-WILD: ✅ DONE (Air-Jellyfish Porters natural wild state)
 
 ### NOT YET GENERATED:
-#44: Gliese 876d Ocean — NEXT
-#45-116: 72 prompts remaining
+#12: Medusa Combat Drone "Obol Mk.II" — NEXT (NEW prompt, replace old image)
+#45: Medusa Swarm — NEXT (NEW prompt)
+#46-116: ~70 prompts remaining
 
-### PROMPTS WRITTEN (in copy-paste-prompts/):
-#24-116: ALL 93 .txt files written and ready
+### PROMPTS WRITTEN:
+#24-116: ALL .txt files ready in copy-paste-prompts/
 
 ---
 
 ## 🔐 CANON LOCKS (UPDATED):
 - NO CHILDREN on the Alpha. 10 women only. Clone reincarnation.
 - NO HUMANOID ALIENS. All species = planet physics.
-- Madie: brunette, no headwear, curvy, busty, pretty. Romanian removed from prompt (flag problem). Based on Chief from background doc: redhead→brunette, UK→Romania (implied), tea→borscht.
+- Madie: brunette, no headwear, curvy, busty, pretty. Romanian removed from prompt (flag problem). Based on Chief from background doc.
 - Nir: handsome, short dark hair, athletic build, no glasses, casual t-shirt and jeans. No age in prompts.
-- Medusa: thermodynamic radiator forest (not snake-crown).
-- Zeus: 4D tesseract projection with structural-color nacre (not glowing father figure).
 - TWO PREFIXES: FULL for sci-fi, SHORT for Madie/Nir Earth scenes.
 - For Earth/human scenes: Pixar animation style MUST be in prompt BODY, not just prefix.
+- Medusa drone: Obol Mk.II — double-sided mirror disc, SiC core, CMGs. Expendable chess piece.
 - Alpha = copper vessel, Dominion = angular black faceted armor.
 
-## 🎯 WHAT STILL NEEDS TO BE DONE:
+---
+
+## 🎯 WHAT STILL NEEDS TO BE DONE
 
 ### A. IMAGE GENERATION:
-1. Entity #44 — NEXT: Gliese 876d Ocean
-2. Entities #45-116: ~72 prompts remaining
-3. Scene images: all 27 patched and ready — generate AFTER entity images
+1. Entity #12 (NEW Obol Mk.II prompt) — replace old image
+2. Entity #45 (NEW swarm prompt)
+3. Entities #46-116: ~70 prompts remaining
+4. Scene images: all 27 patched and ready — generate AFTER entity images
 
-### B. POST-IMAGE WORK:
-- Record narration (Qwen3-TTS, desktop Linux)
+### B. POST-IMAGE:
+- Record narration (Qwen3-TTS)
 - Assemble in Premiere (Ken Burns, sound design, songs)
 - Romanian subtitles, PDF artbook, 1 physical printed copy
 
 ### C. OTHER PENDING:
 - Restart ComfyUI, WAN 2.2, Windows software, Mazes & Mages songs
 
+---
+
 ## 🚀 BOOT SEQUENCE:
 1. Read AGENTS.md
 2. Git pull: git -C /home/nir/Anime pull
-3. Read THIS FILE (Nir-to-Fable-DELTA-2026-07-28.md)
-4. Check: AlphaBabes/copy-paste-prompts/ (all prompts)
-5. Check: AlphaBabes/images/ (all generated images)
-6. Greet Nir with emojis! 🚀✨💖
+3. Read THIS FILE (Nir-to-Fable-DELTA-2026-07-29.md)
+4. Check: AlphaBabes/copy-paste-prompts/
+5. Check: AlphaBabes/images/
+6. STATE: #12 and #45 are NEXT — new Obol Mk.II designs, NO references needed
+7. Greet Nir with emojis! 🚀✨💖
