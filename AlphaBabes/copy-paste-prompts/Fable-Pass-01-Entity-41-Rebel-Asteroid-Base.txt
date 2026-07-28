@@ -1,9 +1,25 @@
-REFERENCE IMAGES ATTACHED — use these exact species designs for the seating (no characters in scene, just their chairs/perches):
-- Image 1: Zĭrán species (Fable-Pass-01-Entity-01-Ziran-Species.png) — hexapod, six-limbed, dome-backed, warm copper tones
-- Image 2: Ondine species (Fable-Pass-01-Entity-04-Ondines.png) — bell-bodied aquatic jellyfish, teal bioluminescence
-- Image 3: Titanite species (Fable-Pass-01-Entity-05-Titanites.png) — eight-legged dome-backed fortress of stone and metal
-- Image 4: Aerian species (Fable-Pass-01-Entity-06-Aerians.png) — membrane-wing glider on stilt-walker wrist-hooks
-
 Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
 
-Single full-frame interior: the GREAT HALL of the hidden rebel base, carved inside a hollow asteroid — the room where the first Council of Species will meet. The space: a vast rough chamber of raw grey rock, walls still bearing the long curved scars of the mining machines that hollowed it, the ceiling ribbed with warm COPPER girders bolted directly into the stone. Light: strings of jury-rigged fusion lamps hung on long looped cables between the girders, pooling warm practical light over a floor of scuffed deck plates laid unevenly across the rock; crates and cable-drums serve as furniture along the walls. At the exact center, the room's heart and key light: a large round HOLO-TABLE — raw rock pedestal, copper-framed projector ring — casting a slowly rotating three-dimensional star map of Dominion space in luminous GOLD above itself, hundreds of tiny marked stars and thread-thin route lines, the gold light washing the nearest rock walls. Around the table, hospitality written as engineering — five kinds of seating, none matching: worn human chairs; broad low stone floor-pads for eight-legged Titanites; a tall open PERCH-RAIL of copper pipe for winged Aerians; a wheeled transparent WATER-ALCOVE, softly glowing teal, its sea gently rippling, ready for an Ondine; and one wide six-lobed woven floor cushion shaped for a hexapod Zĭrán. Small honest details: a kettle steaming on a crate, hand-chalked tallies on a rock wall, a patched pressure door. No figures — the room waiting for history. Mood: improvised, warm, defiant — a cave that decided to become a parliament.
+ENTITY #41 — GREAT HALL OF THE HIDDEN REBEL BASE.
+
+Single full-frame interior: a vast meeting hall carved inside a hollow asteroid. The chamber is raw grey rock, its walls bearing long curved scars left by mining machines, the ceiling ribbed with warm COPPER girders bolted directly into the stone. Strings of jury-rigged fusion lamps hang on long looped cables between the girders, pooling warm practical light over a floor of scuffed metal deck plates laid unevenly across the rock. Crates and cable-drums line the walls.
+
+At the exact center, the room's heart and key light: a large round HOLO-TABLE — a raw rock pedestal topped with a copper-framed projector ring — casting a slowly rotating three-dimensional star map in luminous GOLD above itself: hundreds of tiny marked stars and thread-thin route lines, the gold light washing the nearest rock walls.
+
+Arranged in a wide circle around the holo-table are FIVE COMPLETELY DIFFERENT, MISMATCHED PIECES OF FURNITURE — five empty stations, none alike:
+
+STATION ONE — a cluster of three worn, mismatched human-style chairs, salvaged metal and cracked padding, dents and patched armrests.
+
+STATION TWO — a massive flat slab of grey stone, 3 meters wide, 2 meters deep, roughly 30 centimeters thick, resting directly on the deck plates like a low stage. Its top surface is polished smooth by long use, with eight wide shallow circular depressions worn into it, arranged in two parallel rows of four. No backrest, no legs, nothing tall — just a huge low polished stone slab.
+
+STATION THREE — a tall skeletal perch: a single horizontal copper pipe mounted at 1.5 meters height across two sturdy vertical copper posts bolted to the deck. The top of the pipe is heavily scuffed and scratched with fine parallel grooves. Below it, at knee height, a narrow metal shelf-platform spans the two posts. The whole structure is tall, narrow, and open — like industrial scaffolding, absolutely nothing like a chair.
+
+STATION FOUR — a transparent rectangular acrylic tank, 2 meters wide, 1.5 meters deep, open at the top, mounted on four small industrial cart wheels. It is filled with clear seawater, gently rippling, lit from within by soft TEAL LED strips along the tank's bottom rim, small bubbles rising slowly. The tank contains ONLY glowing water — nothing else inside it, no objects, no shapes, just clean illuminated water.
+
+STATION FIVE — a wide flat woven floor cushion, about 1.5 meters across, shaped like a rounded hexagon with six shallow lobes around its edge, thick like a futon, made of coarse woven natural fiber in warm browns and creams, resting directly on the deck plates. Low, wide, and soft.
+
+Small honest details: a dented kettle steaming on a crate, hand-chalked tally marks on a rock wall, a patched pressure door in the far wall.
+
+CRITICAL — THE ROOM IS COMPLETELY EMPTY OF LIVING BEINGS. There are NO figures, NO creatures, NO animals, NO aliens, NO humans, NO silhouettes, NO shadows of beings, NO reflections of beings — nothing alive anywhere in the frame. Every seat, slab, perch, tank, and cushion is EMPTY and UNOCCUPIED. This is a still, silent room photographed the hour before history arrives: five empty stations waiting in the gold light of the star map.
+
+Mood: improvised, warm, defiant — a cave that decided to become a parliament.
