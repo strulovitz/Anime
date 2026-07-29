@@ -67,6 +67,47 @@ confident, English with Romanian accent), and upscaling of final stills
 (tiled, to respect 12 GB VRAM). STATUS: nothing produced yet; bootstrap of
 the AI stack is the current mission.
 
+--- BEGIN SONNET'S ADDITION (2026-07-29, permission given by Nir) ---
+
+BLENDER + MCP FOR PHYSICALLY-ACCURATE LASER PHYSICS (2026-07-29): GPT 5.4
+Image 2 cannot correctly render the physics of light reflecting between
+multiple mirror-disc combat drones (the "Medusa" swarm, entity #12 "Obol
+Mk.II" and entity #45 swarm) — it paints beams that look plausible but do
+not obey the real law of reflection when a laser must bounce accurately
+from drone to drone to drone in a "laser chess" relay. To fix this, Nir
+asked Claude Fable (the brain, via OpenRouter) to design a Blender-based
+solution, executed on this machine by Sonnet (the hands, via OpenCode):
+- Installed uv/uvx 0.12.0, official Blender 5.2.0 LTS (tar.xz from
+  blender.org, not apt/flatpak) to ~/.local/share/blender, symlinked to
+  ~/.local/bin/blender, registered its .desktop menu entry.
+- Cloned ahujasid/blender-mcp to ~/tools/blender-mcp, installed and enabled
+  its addon.py inside Blender, merged an "mcp.blender" entry into
+  ~/.config/opencode/opencode.jsonc (uvx blender-mcp, local stdio, port
+  9876) without overwriting existing config.
+- The Blender addon opens a live socket server inside Blender's normal GUI
+  (Nir opens Blender from his menu like any artist, presses N, clicks
+  Connect in the BlenderMCP sidebar tab) so OpenCode's Blender MCP tools
+  can create and manipulate objects in that same live scene.
+- Fable then writes a single Python script per iteration that computes
+  each mirror drone's exact reflection angle from the real law of
+  reflection (n̂ = (d̂_out − d̂_in) / |d̂_out − d̂_in|), so the geometry of
+  every bounce is mathematically solved, not guessed by an image model.
+  Sonnet executes that script inside Blender via the MCP's
+  execute_blender_code tool, verifies with a viewport screenshot, then
+  renders the final frame from the terminal in background mode
+  (`blender -b ~/medusa/medusa_scene.blend -f 1`) to avoid MCP timeouts on
+  long Cycles renders.
+- Full session detail, the mission briefs, and Sonnet's reports are saved
+  verbatim in AlphaBabes/Fable-Blender-MCP-Setup-2026-07-29.md,
+  AlphaBabes/Sonnet-Step1-Report-Blender-MCP-2026-07-29.md, and
+  AlphaBabes/Fable-Medusa-Blender-Scene-Mission-2026-07-29.md.
+- Plan going forward: once the Blender geometry/physics look correct,
+  the render is used as a reference/base for a GPT 5.4 Image 2 photoreal
+  "beautify" pass on top — combining Blender's correct physics with GPT's
+  better material/lighting realism.
+
+--- END SONNET'S ADDITION ---
+
 ## PART 3 — COSMIC CHRYSALIS
 
 No work started. Future role: realistic space imagery (light-sail probes,
