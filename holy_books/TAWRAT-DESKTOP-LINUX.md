@@ -108,6 +108,31 @@ solution, executed on this machine by Sonnet (the hands, via OpenCode):
 
 --- END SONNET'S ADDITION ---
 
+--- BEGIN SONNET'S ADDITION 2 (2026-07-29 midday, MCP version bug fix) ---
+
+BLENDER MCP BUG FIX (2026-07-29 midday): after the OpenCode restart that was
+supposed to load the new "mcp.blender" config above, Sonnet had ZERO Blender
+MCP tools available. Diagnosed cause: `uvx blender-mcp` (no version pin)
+resolved the newest `mcp` package (2.0.0), which restructured its internals
+and REMOVED `mcp.server.fastmcp` — a module `blender-mcp`'s own server.py
+imports directly. Result: `blender-mcp` crashed on startup with
+`ModuleNotFoundError: No module named 'mcp.server.fastmcp'`, so its MCP
+server never came up and OpenCode got no tools from it.
+
+FIX: changed the command in ~/.config/opencode/opencode.jsonc from
+`["uvx", "blender-mcp"]` to
+`["uvx", "--with", "mcp[cli]<2.0", "blender-mcp"]` — this pins the `mcp`
+dependency to the last 1.x line (which still has `server.fastmcp`) while
+leaving `blender-mcp` itself unpinned. Verified manually in the terminal
+(`uvx --with "mcp[cli]<2.0" blender-mcp --help`) that the server starts
+clean and connects to Blender at localhost:9876 (the addon's bridge, opened
+earlier in Blender's GUI, was still live the whole time — no reconnect
+needed). ANOTHER OpenCode restart is required for this session to actually
+pick up the corrected config and load the Blender tools. Full fix report:
+AlphaBabes/Sonnet-Blender-MCP-Fix-Report-2026-07-29-midday.md.
+
+--- END SONNET'S ADDITION 2 ---
+
 ## PART 3 — COSMIC CHRYSALIS
 
 No work started. Future role: realistic space imagery (light-sail probes,
