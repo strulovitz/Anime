@@ -14,11 +14,16 @@ import os
 
 MEDUSA_DIR = os.path.expanduser("~/medusa")
 
-def composite(gpt_path, beam_path, out_path):
+def composite(gpt_path, beam_path, out_path, crush=0.06):
     b = Image.open(beam_path).convert("RGB")
     a = Image.open(gpt_path).convert("RGB").resize(b.size)
     A = np.asarray(a, dtype=float) / 255.0
     B = np.asarray(b, dtype=float) / 255.0
+    # Fable's fix: crush the beam layer's low end before blending, so the
+    # fog-glow halo (mean 90-119/255 in the raw beampass renders) doesn't
+    # lay a faint red haze over the whole GPT plate. Tune 0.04-0.10 by eye.
+    if crush > 0:
+        B = np.clip((B - crush) / (1.0 - crush), 0.0, 1.0)
     out = 1.0 - (1.0 - A) * (1.0 - B)          # screen blend
     Image.fromarray((out * 255).astype("uint8")).save(out_path)
     print("Saved:", out_path)
