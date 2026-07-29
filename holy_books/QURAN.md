@@ -117,6 +117,13 @@ EDUCATIONAL MECHANISMS:
 4. VIBE-ANIME: future episodes are written by the public, one contribution
    at a time, like Wikipedia.
 
+Where an AI image model cannot render correct physics (e.g., laser beams
+reflecting between multiple mirror drones in a laser-chess swarm), the
+team uses Blender — a real 3D physics/rendering engine — connected via
+MCP (Model Context Protocol, the ahujasid/blender-mcp integration) to
+solve the geometry exactly, then applies AI image generation on top for
+final art style. Physics first, beauty second.
+
 THE CURRENT DELIVERABLE (the gift): NOT a video. An ILLUSTRATED, NARRATED
 SAGA — still images plus narration audio: "the book of the movie that
 doesn't exist yet." Assembled in Adobe Premiere with Ken Burns pan/zoom,
