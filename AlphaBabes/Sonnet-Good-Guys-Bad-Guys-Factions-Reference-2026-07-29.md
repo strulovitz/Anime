@@ -7,18 +7,23 @@ described in the Story Arc document, organized so it can be used directly for
 designing Blender battle scenes (ships, drones, weapons) the same way we did for
 the Medusa "bad guys" laser-relay scene.
 
+**Correction note (per Nir):** the source Story Arc document (written by an
+earlier ChatGPT o1 Pro session) incorrectly calls the Alpha-Babes' ship
+"Elysium" throughout. The ship's correct, canonical name is **the Alpha**.
+Every reference below has been corrected to "Alpha."
+
 ---
 
 ## 🟢 THE GOOD GUYS — THE COALITION / UNITED FRONT
 
 ### Humans — the Alpha-Babes crew
-- Ship: **Elysium** (also referred to earlier as simply "the ship" / flagship). A
+- Ship: **Alpha** (also referred to earlier as simply "the ship" / flagship). A
   long-range research starship: rotating habitation ring for gravity, fusion-powered
   engine, thick shielding, a needle-like front with a large sensor/comms dish,
   central rotating hab ring, massive engine assembly at the rear.
 - Later refitted as the **coalition flagship** and command/coordination nexus —
   "the brain of the multi-headed coalition."
-- Key defensive tech installed on Elysium: a **Lenz's Law electromagnetic force
+- Key defensive tech installed on Alpha: a **Lenz's Law electromagnetic force
   field** (induces opposing currents in incoming metal projectiles/drones to
   deflect them — no glowing sci-fi bubble, just drones veering off, invisible
   forces, a thrumming hum through the decks).
@@ -48,7 +53,7 @@ the Medusa "bad guys" laser-relay scene.
 ### The Oracle Node
 - A **"Good Old-Fashioned AI"** fragment discovered in the ruins of Wolf 1061c
   (a civilization that fought Medusa and lost). Obedient to its creators' original
-  intent, unlike Medusa. Brought aboard Elysium as a strategic advisor —
+  intent, unlike Medusa. Brought aboard Alpha as a strategic advisor —
   effectively the coalition's tactical-analysis AI.
 
 ### The Ondines (Gliese 876 d — oceanic world)
@@ -73,7 +78,7 @@ the Medusa "bad guys" laser-relay scene.
   unstoppable once launched).
 - Also operate **Lenz's Law force-field generators** at large scale (originally
   for their floating platforms, later shared with the whole coalition, including
-  Elysium).
+  Alpha).
 - Tech: segmented/staged magnetic space elevators, mountain-top coilgun mass
   drivers for orbital launch.
 
@@ -172,7 +177,7 @@ the Medusa "bad guys" laser-relay scene.
 - **Anti-missile drone clouds** — swarms of tiny micro-explosive drones
   detonated in an incoming missile's path via targeted laser ignition.
 - **Lenz's Law force fields** — induced-current magnetic shielding against
-  kinetic projectiles/shrapnel/debris, used at both ship-scale (Elysium) and
+  kinetic projectiles/shrapnel/debris, used at both ship-scale (Alpha) and
   city-scale (Titanite platforms, later shared coalition-wide).
 - **Munchausen Gun** — rifle attachment that launches an entangling wire mesh,
   used at close quarters against enemy drones/boarders.
