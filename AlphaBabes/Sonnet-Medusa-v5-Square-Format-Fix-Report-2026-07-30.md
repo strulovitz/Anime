@@ -54,3 +54,57 @@ around.**
 Any future Blender-scene mission that will be repainted by GPT 5.4 Image 2
 should render natively at **1024×1024 square** from the start (not 16:9),
 using AUTO sensor fit on the same cameras, to avoid this rework.
+
+## UPDATE: Nir caught a real problem — layers had no visual connection
+
+Nir looked at the first delivered composites and correctly identified that the
+beam layer and GPT's repainted plate looked like two unrelated images stacked
+on top of each other — laser bounce points were floating in empty gaps between
+drones instead of landing on actual mirror surfaces, so it didn't read as "these
+specific mirrors are reflecting the laser."
+
+### Root cause investigation
+I got the exact 3D positions of all 7 laser bounce points directly from Blender
+(via camera projection, `world_to_camera_view` — no pixel-guessing) and plotted
+them as markers on both my raw Blender render and GPT's actual repainted image
+for direct comparison.
+
+- On my raw (un-repainted) Blender render: every single marker landed exactly
+  on a real drone, confirming the Blender-side beam-bounce math is correct.
+- On GPT's repainted image: the same markers consistently missed — landing in
+  gaps between rings instead of on them. This is because GPT's generative
+  repaint doesn't preserve exact object positions; it redraws the whole scene
+  with its own interpretation, shifting things slightly.
+- **View 1 (Wide):** GPT shifted the entire drone cluster by a fairly
+  consistent amount (~27px left, 43px up) — a single global correction fixed
+  nearly all 7 bounce points to land exactly on real rings.
+- **View 2 (MedusaSide):** GPT's repaint was already well-aligned (only ~5-8px
+  drift) — small correction applied.
+- **View 3 (AegisSide):** GPT's drift was less consistent per-drone (each ring
+  shifted independently rather than as one rigid group) — averaged the drift
+  across 4 measurable points for a best-effort global correction; not as
+  perfect as View 1 but noticeably improved.
+
+### Fix applied
+Shifted the beam-pass layer by a per-view pixel offset (computed from real
+landmark measurements, not guessed) before compositing:
+- View 1: shift (-27, -43)
+- View 2: shift (-5, +8)
+- View 3: shift (+13, -1)
+
+Re-verified visually after each shift — bounce points now land on or very near
+real rings in all 3 views instead of floating in empty space.
+
+### Known remaining limitation
+This is a translation-only fix (rigid shift), not a per-object correction.
+Since GPT's drift isn't perfectly uniform (especially in View 3), a few
+individual bounce points still don't land pixel-perfectly on a ring, though
+all are now dramatically closer than before. A fully pixel-perfect result
+would require either GPT preserving exact object coordinates (it doesn't) or
+a per-drone manual warp (labor-intensive, not attempted here).
+
+## Updated files delivered (replacing earlier versions)
+- `AlphaBabes/images/medusa_v5_final_0001_wide.png`
+- `AlphaBabes/images/medusa_v5_final_0002_medusaside.png`
+- `AlphaBabes/images/medusa_v5_final_0003_aegisside.png`
+- Also copied to `/home/nir/Pictures/learnime/` for direct viewing.
