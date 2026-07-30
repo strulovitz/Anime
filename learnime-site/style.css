@@ -146,6 +146,23 @@ h3 { color: var(--turquoise); margin: 1.4rem 0 0.5rem; }
 
 .note { color: var(--muted); font-size: 0.95rem; }
 
+.fable-quote {
+  background: var(--bg-soft);
+  border-left: 3px solid var(--turquoise);
+  border-radius: 0 14px 14px 0;
+  padding: 1rem 1.4rem;
+  margin: 1rem 0;
+}
+
+.fable-quote p {
+  color: var(--muted);
+  line-height: 1.75;
+  margin: 0.5rem 0;
+}
+
+.fable-quote p:first-child { margin-top: 0; }
+.fable-quote p:last-child { margin-bottom: 0; }
+
 blockquote {
   border-left: 4px solid var(--coral);
   margin: 1.2rem 0;
