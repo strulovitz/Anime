@@ -1,0 +1,29 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: The TEN crew members of the Alpha — reference sheet for ALL images featuring the crew. These are the SAME ten young women across twelve hundred years (clone reincarnation — they are reborn in new bodies but are the same individuals). This image should serve as a visual reference that can be shown to GPT whenever generating any scene with crew members. NO men, NO children, NO elderly.
+
+LAYOUT: Ten individual head-and-shoulders portrait panels in a clean grid (2 rows of 5, or 5 rows of 2), neutral warm-grey studio background, even lighting, front-facing or slight three-quarter view, Pixar 3D animation style. Each panel labeled with her name in small text below.
+
+THE TEN WOMEN, EXACT DESCRIPTIONS:
+
+1. MADIE (Captain): White, Romanian. BRUNETTE (dark brown) hair in a PONYTAIL. Curvy, busty, pretty. NO headwear. Warm, confident expression.
+
+2. ACE: Black, American. LILAC (light purple) hair in AFRO PUFFS. Loud, enthusiastic expression — slight grin.
+
+3. MARINER: Asian, Chinese. VIOLET (dark purple) hair in PIGTAILS (bunches, not braided). Precise, calm expression.
+
+4. BUBBELS: Asian, Japanese. YELLOW hair in DOUBLE BUN ODANGO style. Soft, sweet expression.
+
+5. REAPER: Brown, Indian. MINT (light green) hair in a CHIGNON. Warm, capable expression.
+
+6. ROCKHOUND: White, Russian. FOREST (dark green) hair in a LOB (long bob). Stoic, slight smirk.
+
+7. DOC: Black, French. PINK hair in BOX BRAIDS. Half-flirty, warm expression.
+
+8. TINK: White, German. ORANGE hair in an UPDO. Direct, focused expression.
+
+9. SPARKY: Asian, South Korean. SKY (light blue) hair in a HIME CUT. Bright, competitive expression.
+
+10. PIPEY: White, Australian. COBALT (dark blue) hair in a BOB CUT. Relaxed, easygoing grin.
+
+ALL: young women, approximately 25 years old in appearance. Pixar 3D animation style — warm, charming, emotionally expressive. Clean, even studio lighting, no dramatic shadows.
