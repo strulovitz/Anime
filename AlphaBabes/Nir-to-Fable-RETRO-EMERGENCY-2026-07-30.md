@@ -1,191 +1,140 @@
-# 🔥 FABLE, EMERGENCY BRIEFING — RETRO BULLSHIT MUST STOP
-## NIR IS PISSED. HARD SCIENCE FICTION. CUTTING-EDGE ENGINEERING +25 YEARS. NOW.
-## Read this ENTIRE file before writing a single word. No exceptions.
+# 🔥 FABLE — REWRITE ENTITIES #47 THROUGH #59
+## Nir says: hard science fiction. No steampunk. No retro. No copper anywhere except the ship's structural hull.
 
 ---
 
-## 🚨 THE PROBLEM:
+## NIR'S REMARKS:
 
-You produced TWO entities (#47 EVA Suit, #48 Alpha Bridge) that Nir HATES because they are STEAMPUNK RETRO SHIT instead of hard science fiction. Specifically:
+"i hate what he made with this steam punk retro bullshit. everything should be beyond what we have today, take the cutting edge of modern ENGINEERING and only based on ENGINEERING to make it another 25 years into the future!!!"
 
-### ⛔ CRITICAL RULE: COPPER = SHIP HULL ONLY
-Copper is the ship's structural material (asteroid shield via eddy-current braking — REAL ENGINEERING). Copper is NOT a decorative material. Copper does NOT belong in: spacesuits, tools, furniture, clothing, dishes, handles, trim, accents, or ANYTHING that isn't literally part of the ship's pressure hull or structural frame. The ship's copper ribs may be exposed on interior walls — that's structural, fine. But if Fable writes "made of the ship's own copper alloy" for ANYTHING that isn't physically part of the hull, it's WRONG. A spacesuit is not made of copper. A chair is not made of copper. A table is not made of copper. This is engineering, not interior decorating.
+"what is this retro shit? i want you to make a detailed prompt for Fable to correct all this shit into something that is in the 21st century."
 
-### #47 — EVA Suit: What went wrong
-You made an ANCIENT DIVING SUIT with copper components — "made of the ship's own COPPER alloy." IDIOTIC. A spacesuit's hard components are made of lightweight advanced composites, NOT ship-hull copper. The suit is a completely separate piece of equipment designed for a specific purpose — keeping a human alive in vacuum. It has NOTHING to do with the ship's hull material. Stop connecting everything to copper.
+"i don't want this ancient diving suit that he made."
 
-### #48 — Alpha Bridge: What went wrong
-- A 19th-century SHIP'S WHEEL. What the fuck. The AI pilots the ship. There is no wooden wheel.
-- A WINDOW for navigation. Nobody navigates by looking out a window in a real spaceship. Windows are structural weaknesses. Navigation is done via instruments, screens, holographic displays.
-- ELEVEN chairs (prompt said 11). There are TEN crew members.
-- ALL crew in ONE room. This is a MASSIVE safety risk. If a tiny meteor hits, all 10 women die and the 1,200-year mission ends. The crew is NEVER all in one compartment at once.
-- "Rear-facing bucket seats... built to survive hard burns" — this is a generation ship that NEVER does hard burns. It coasts at 1/300 lightspeed. There are no "hard burns." The "fasten seatbelt" sign does not exist.
+"i don't want the looking in the window in the bridge of the spaceship, nobody makes a window in a real spaceship like this, and definitely nobody looks at a window to navigate, our spaceship is made like a super modern submarine combined with super modern spaceship, what the fuck is this steering wheel from a boat in the 19th century what the the fuck is this?!?!?"
 
----
+"why are there 11 chairs when there are 10 girls, also there is no sense in this room accomodating ALL of them at once (there is no sense in ANY room accomodating all of them at once, this is a huge risk, if a tiny meteor hits all the crew dies along with all the mission."
 
-## ✅ WHAT THE ALPHA ACTUALLY IS:
+"i don't want to see there anything about copper or any other stupidity. what is this 'build it from the same material as the ship', what nonsense is this?"
 
-READ THIS DOCUMENT — it IS canon, Nir wrote it himself:
-
-👉 https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/alphababes%20-%20structure%20of%20our%20spaceship.txt
-
-Key facts:
-- SIX copper submarine hulls rotating around a central empty cylinder, like an M134 Minigun / Gatling rotary cannon
-- Each submarine = copper pipe with internal neodymium permanent-magnet cylinders that act as asteroid shields (eddy-current braking, like dropping a magnet through a copper tube — REAL PHYSICS, look it up)
-- Crew lives in 2 submarines at a time, farthest apart from each other
-- Connecting tunnels between neighboring submarines (like jet bridges)
-- No windows for navigation. The AI + instruments handle everything.
-- Bussard ramjet with huge collection dish at the front for interstellar hydrogen collection
-- Copper hull = asteroid shield via electromagnetic eddy-current braking. NOT decorative. Pure engineering.
-- The copper is AGED to a dark tea-colored patina over 1,200 years — NOT polished brass.
-- Each submarine detaches as a lander (SpaceX Falcon-9 style vertical takeoff/landing)
-- The submarine body IS also a mass driver / electromagnetic cannon for launching cargo back to the mothership
+"the pictures of all the girls in that room, if he does this, then it needs to reflect how they actually look (from the descriptions that we give him). any picture including the girls need to be based on that. also anywhere else please."
 
 ---
 
-## 📐 WHAT THE BRIDGE SHOULD BE:
+## FABLE'S TASK:
 
-- Cramped, efficient, modern nuclear submarine control room × NASA mission control
-- Flat screens, holographic displays, instrument panels, computer workstations
-- The AI operates the ship. Humans monitor. There are stations, not a "helm."
-- 2-3 crew members on duty at any time, working in shifts. NOT 10 seats for all 10 women.
-- NO ship's wheel. NO windows for looking out. NO wood. NO brass.
-- Copper alloy structural ribs are exposed (the hull material), but the equipment is MODERN — screens, keyboards, touch interfaces, soft amber instrument lighting.
-- The room feels like a working control center, not a cozy Victorian parlor.
-- The heart of the room is a central holo-display showing the ship's route through the stars — a thread of gold light, Proxima marked.
-- On one wall: a panel with portraits of the 10 crew members and their reincarnation dates. This is the ONLY "sentimental" element.
-- ⚠️ THESE PORTRAITS MUST MATCH THE ACTUAL CREW DESCRIPTIONS from the background document. Chief = Madie: brunette ponytail. Ace: lilac afro puffs. Mariner: dark violet pigtails. Bubbels: yellow double bun odango. Reaper: mint green chignon. Rockhound: dark green lob. Doc: pink box braids. Tink: orange updo. Sparky: sky blue hime cut. Pipey: cobalt blue bob. DO NOT INVENT RANDOM WOMEN.
-- A chipped enamel mug in a gimbaled holder — ONE human touch.
-- A brass plaque worn illegible except the word "HOME" — built into the copper hull, not decorative.
+1. Rewrite #47 (EVA Suit) — hard sci-fi spacesuit, no retro, no steampunk, NASA +25 years
+2. Rewrite #48 (Alpha Bridge) — modern submarine control room × mission control, no wheel, no window, no 10-person seating
+3. Scan all remaining entity prompts (#49 through #59 — the Alpha's rooms) for retro/steampunk/19th-century bullshit and rewrite any that are infected
+4. This is HARD SCIENCE FICTION — take CUTTING-EDGE 2025 ENGINEERING and push it 25 years forward. No fantasy. No retro. No Jules Verne. No steampunk. No wood. No brass. No ship's wheels. No windows for navigation. No copper except the ship's structural hull ribs.
 
 ---
 
-## 👩‍🚀 WHAT THE EVA SUIT SHOULD BE:
+## FABLE'S CURRENT PROMPTS (#47-59) — VERBATIM:
 
-**This is a SPACESUIT, not a diving suit, not a costume, not "made from the same material as the ship."**
-
-- NASA EMU (Extravehicular Mobility Unit) crossed with 25 more years of materials science
-- Hard upper torso: lightweight carbon composite or advanced alloy, off-white with mission patches
-- Soft lower torso and limbs: advanced multi-layer fabric (thermal, micrometeoroid, pressure bladder)
-- Helmet: clear polycarbonate bubble with integrated gold sun-visor (retractable), HUD display
-- Life support backpack (PLSS — Portable Life Support System): compact, modern, with status LEDs
-- Chest-mounted control panel: digital display + physical toggle switches for glove operation
-- Modular tool attachment points on chest and thighs
-- Boots with magnetic soles
-- Safety tether reel at the hip
-- ❌ NO COPPER. The suit is NOT made from ship hull material. That makes zero engineering sense. A spacesuit is a spacesuit — lightweight composites, advanced fabrics, NOT copper. Copper is for the ship's asteroid shield. The suit is a completely separate piece of equipment.
-- NO leather straps, NO hand-sewn patches, NO brass, NO steampunk, NO "heirloom" bullshit, NO "same material as the ship" nonsense
-- The suit DOES carry the ship's history: each woman's name is laser-etched on the chest plate alongside her mission patch. Simple, modern, clean.
-- The suit is REPAIRED — but with modern patch kits, heat-sealed fabric patches, neatly applied. Like you'd repair a real spacesuit on a real space station. Not a quilt.
-
----
-
-## 🧑‍🔬 WHO IS MADIE (former "Chief"):
-
-Original character description (from background doc):
-- Codename: CHIEF
-- ENGLISH (White)
-- Hair Color: RED → NIR CHANGED TO BRUNETTE
-- Hairstyle: Ponytail (kept)
-- Profession: Aerospace Engineering + Systems Engineering
-- Drinks tea constantly
-- Dry, sarcastic humor
-- Now the CAPTAIN of the Alpha
-
-**NIR'S CHANGES (ALL CANON):**
-- Chief was renamed to MADIE
-- Hair: RED → BRUNETTE (dark brown)
-- Nationality: ENGLISH → ROMANIAN (she still speaks English with the crew)
-- Borscht is her grandmother's Romanian recipe — a recurring emotional symbol throughout the saga
-- Physical: curvy, busty, pretty, NO headwear
-- Romanian flag removed from prompts (caused generation problems)
-- No age in prompts
-- Short prefix for Madie/Nir Earth scenes (see below)
-
-## 🌍 THE TWO PREFIX SYSTEM (FOREVER):
-
-**FULL PREFIX** (aliens, planets, spaceships, sci-fi):
+### #47 — EVA SUIT (current):
+```
 Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
 
-**SHORT PREFIX** (Madie & Nir on Earth, personal/human scenes only):
-Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish." 16:9 widescreen, ultra-detailed, movie-still composition.
+Single full-frame hero portrait, studio-style reference on a neutral dark background: the EVA SPACESUIT of the Alpha's crew — a suit that has been handed down, repaired and loved for twelve hundred years. Full-body view of the suit standing upright on a subtle display stand, no wearer, three-quarter angle. The suit: a sturdy soft-shell design in warm off-white thermal fabric, its hard components — chest control unit, joint rings, backpack frame — made of the ship's own COPPER alloy, edges worn to a soft glow by generations of gloved hands. Its beauty is its biography, rendered precisely: dozens of neat hand-sewn REPAIR PATCHES in slightly mismatched whites and creams across the arms, knees and shoulders, each patch stitched with visible careful thread — different hands, different centuries, same love; scuff-darkened knees and forearms; a faded hand-painted sunrise emblem on the left shoulder. The helmet: a smooth bubble with a GOLD-mirrored sun visor half-raised over a clear inner visor, the gold catching the key light; around the helmet's copper neck-ring, the suit's soul: TEN engraved names, the same ten women, each name re-engraved many times over in slightly different hands — the oldest strikes worn nearly smooth, the newest still sharp: one crew, many bodies. Functional honesty: chest panel with simple mechanical gauges and fat glove-friendly toggle switches, umbilical port with brass cap on a chain, boots with deep-tread magnetic soles, a coiled safety tether at the hip, small maneuvering-thruster nozzles at the backpack's corners. Lighting: warm key from upper left, cool rim from behind, gold visor as accent. Mood: not high-tech armor — an heirloom that keeps people alive.
+```
+
+### #48 — ALPHA BRIDGE (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the BRIDGE of the mothership Alpha — twelve hundred years of one voyage, flown by the same ten women in body after body. The space: the bow compartment of a submarine hull, an intimate curved chamber of riveted COPPER ribs and panels aged to a deep tea-colored patina, handrails and lever-tops burnished bright by the same ten pairs of hands across many lifetimes. Dominating the front: a real broad WINDOW of thick multi-paned glass in a copper frame, corners softly frosted, looking onto a slow river of stars. Before it, the helm: a genuine ship's WHEEL of worn wood and brass — absurd, beloved, functional — flanked by consoles mixing eras honestly: brass gauges and fat toggle switches from the ship's birth beside newer amber-glowing panels the crew retrofitted themselves, seams visible. The seating tells the physics: ten REAR-FACING bucket seats in two arcs, each with a six-point harness neatly clipped and a folded G-suit stowed beneath — a crew built to survive hard burns, backs to the bow. Center: a round holo-pedestal projecting the route as a thread of GOLD light through a hand-span of stars, Proxima marked with a small ring. The room's biography, corrected to its truth: on the aft wall, a copper panel bearing TEN portrait frames — the same ten young faces — and beneath each, a neat descending column of small engraved DATES: every reincarnation, logged like ship's maintenance, centuries deep. A chipped enamel mug steams in a gimbaled holder; a brass plaque by the window worn illegible except the word "HOME." Lighting: amber console glow as key, cool starlight fill, one brass desk lamp burning. Mood: not a cockpit — a hearth that happens to steer, kept warm by ten immortal friends.
+```
+
+### #49 — ALPHA GARDEN RING (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the GARDEN RING of the mothership Alpha — a whole submarine hull converted centuries ago into the farm that feeds the crew of ten, and the place where the ship's gentlest truth lives: death gives life. The view: looking down the hull's long axis, spin-gravity architecture as spectacle — terraced growing beds CURVING UP both sides of the hull's inner surface until distant plots hang overhead in the far haze, a green valley rolled into a tube. The beds: dark hydroponic troughs in copper frames bursting with honest crops — tomatoes, cabbages, feathery carrots, climbing beans on twine, and one proud terraced section of BEETS with red-veined leaves (the borscht never runs out). Down the center axis, the sun: a long LIGHT-SPINE of warm full-spectrum lamps in copper housings, claimed by curling vines, hung with gardens; irrigation mist drifts through its beams in luminous veils. Plot markers hand-lettered by the ten — "Reaper's rows" largest among them, the astro-biologist-chef's domain, her tools racked with surgical neatness. And at the garden's heart, rendered with quiet dignity: THE GRAVE — a broad low circular soil tank of copper and dark earth, rim polished by resting hands, from which the garden's richest growth rises — sunflowers and dill and one small apple tree — and set into its rim, a simple engraved band: TEN names, each followed by a long row of small tally-dates, generations of returned bodies feeding centuries of harvests. Fresh flowers lie on the rim — placed in gratitude, not grief. A maintenance robot stands dormant in a wall alcove, watering arms folded. Lighting: warm noon-bright key from the light-spine, green bounce everywhere. Mood: the closed circle made visible — nothing wasted, everything loved.
+```
+
+### #50 — ALPHA GALLEY (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the GALLEY of the mothership Alpha — REAPER'S KITCHEN, where one recipe from Earth has been kept alive across twelve hundred years by the same ten women, mid-cooking, no figures. The room: a snug compartment in the copper hull, ribs arching low, every surface warmed by use. The heart: a sturdy copper-and-iron range, and on it a big battered STOCKPOT of deep-red borscht at a gentle simmer — lid ajar, steam curling, surface glossy garnet flecked with dill, a wooden spoon resting across the rim, its handle dark with centuries of the same ten grips. Around it, a working kitchen rendered with love: copper pots hanging from an overhead rail, dented and polished; braids of onions and garlic from the garden ring; strings of dried peppers; a scrubbed counter with fresh BEETS, tops leafy, one halved to show ruby rings on a rose-stained board; preserve jars racked behind brass rails against maneuvering burns. The number TEN as quiet motif: exactly ten Horezu-pattern heirloom bowls stacked on the shelf; ten mismatched mugs on ten brass hooks, each hand-painted with its owner's emblem, hooks worn bright. The soul of the room, in a copper frame behind glass above the stove: a single handwritten RECIPE CARD, paper amber, ink faded — carried from Earth, protected like the relic it is. Beside it, smaller, newer: a tally board chalked with the running count of borscht batches since launch, a number in the tens of thousands, the handwriting the same across centuries. Lighting: warm practical lamp over the stove, steam catching it, amber and copper everywhere. Mood: continuity you can taste — the pot that outlived the planet it came from.
+```
+
+### #51 — ALPHA ENGINE ROOM (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the ENGINE ROOM of the mothership Alpha — the fusion heart that has not stopped beating in twelve hundred years, tended by ten women awake and by patient robots while they sleep. The space: the stern-most chamber of the copper hull, tall and cathedral-like, riveted ribs converging overhead; at center, the reactor: a massive sphere of layered copper and steel shielding, banded with bolted rings, seated in colossal shock-mounted struts — and set into its equator, one thick circular INSPECTION WINDOW of leaded glass through which the plasma glows serene BLUE-WHITE, the room's single circle of star-fire, its light rippling faintly like sun through water. From the sphere, conduit trunks in copper sheathing branch up the hull ribs like the roots of an upside-down tree, joints wrapped in heat-darkened bindings. Engineering culture rendered honestly: brass gauges by the dozen, needles resting in hand-painted green arcs; a breaker wall with generations of relabeled tags in the SAME ten handwritings, layered century over century; tools on silhouette-painted shadow boards, every tool home; a logbook open on a stand — entries spanning eight hundred years, the hands recognizably the same ten, subtly evolving. The canon detail: a wall alcove where a MAINTENANCE ROBOT docks — a sturdy wheeled unit with folded manipulator arms, charge cable seated, the silent steward of the cryo-centuries, its chassis polished with the same care as the tools. The tenderness, corrected: a small brass plaque on the reactor cradle bearing the launch date, and tucked behind it a single dried SUNFLOWER from the garden ring — this year's birthday offering to the heart. Lighting: blue-white reactor key, warm work lamps as counterpoint, deep copper shadows. Mood: reverence in a boiler suit.
+```
+
+### #52 — ALPHA WORKSHOP (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the WORKSHOP of the mothership Alpha — where the crew of ten keeps a twelve-hundred-year-old ship, and each other, alive; mid-task, no figures. The space: a snug copper-ribbed bay lined with the accumulated competence of centuries: a long scarred WORKBENCH of thick wood, its surface a topography of saw-marks, burns and paint drips; wall racks of hand tools arranged with love — wrenches by size, calipers, fine files, a row of hammers from mallet to jeweler's — each on its painted silhouette; drawers with brass hand-lettered labels; a sturdy lathe and drill press, old and immaculate. On the bench, the current task catching the key light — and it is the ship's most intimate ritual: the crew's EVA HELMET held gently in a padded cradle, its copper neck-ring under a bright work lamp, a fine engraving tool resting beside it, mid-job — the newest re-engraving of a crewmate's name, cut fresh over the ghost of the same name's older, worn strike: the reincarnation-morning tradition, a body renewed, a name renewed. Beside it: a small brass oil lamp burning (the tradition's witness), a cloth with copper filings, and a tiny gift box of worked brass waiting — the wake-up present the others always make for the newly returned. Around the room, its biography: labeled salvage bins ("valves — good," "valves — probably"), a half-repaired cryo-pod circulation pump tagged URGENT, hanging templates, and on a high shelf a row of small models built across the centuries by bored hands — including a tiny copper Alpha, dusted but loved. Lighting: one warm articulated work lamp as key, cool fill, dust motes idling in the beam. Mood: patience made visible — a family of ten, maintaining itself like the ship.
+```
+
+### #53 — ALPHA OBSERVATION DOME (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior-exterior masterpiece: the OBSERVATION DOME of the mothership Alpha — the quietest room on the ship, where the same ten women have fallen in love with the stars again in every new body. The space: a small blister of thick multi-paned GLASS in a copper geodesic frame crowning the hull — ribs elegant and rivet-seamed, panes very slightly imperfect with age, one bearing a tiny ancient micrometeor star-chip, ringed with a hand-painted circle and a date centuries old. Beyond the glass, filling the upper two-thirds of frame: the raw magnificent STARFIELD — thousands of stars rendered honestly, the dusty band of the Milky Way arching corner to corner, and low near the frame's edge one star very slightly brighter than its neighbors: Proxima, the destination, twelve hundred years patient. Inside, lower third, lit only by starlight and one tiny shielded red night-lamp by the hatch: exactly TEN worn cushions arranged in a circle on the dome floor, each shaped by its owner across lifetimes, each with a folded blanket — one cushion's blanket thrown back, still dented, someone here minutes ago. A small brass TELESCOPE on a swivel mount, eyepiece cap dangling on a chain, barrel polished bright where the same hands grip it. A low shelf of star atlases, oldest crumbling, newest annotated; and open on the vacated cushion, a private NOTEBOOK — constellation sketches spanning centuries in one slowly evolving hand, the same handwriting young again and again — with one star circled many times over, hard enough to dent the paper. A thermos and one cup wait beside it. Lighting: starlight as key — cold, faint, sacred — the red lamp a single ember. Mood: the room where ten immortal women keep re-deciding, nightly, that the voyage is worth it.
+```
+
+### #54 — ALPHA CREW QUARTERS (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the CREW QUARTERS of the mothership Alpha — the living heart shared by the same ten women across twelve hundred years, mid-evening, no figures. The architecture: a warm circular COMMON ROOM at the hull's center, copper ribs converging overhead into a small skylight of thick glass showing a coin of stars — and around its perimeter, exactly TEN cabin doors in a ring, each door of worn wood set in a copper frame, each hand-painted by its owner with her personal emblem: a sunflower, a wave, an anchor, an atom, a chess knight, a beet in affectionate joke, and more — ten small flags of ten personalities, repainted fresh by the same hands each new body, older layers ghosting at the edges. The commons itself: a big round table of thick scarred wood at center, ten mismatched chairs each molded to its owner (one draped with a G-suit, one with knitting, one pushed back mid-departure); on the table, an unfinished chess game, a teapot in a gimbaled stand, and a well-worn deck of cards held down by a wrench. Around the walls: a sagging bookshelf of real paper books, spines cracked white; a wall-mounted guitar with replaced strings and a polished wear-patch; a dartboard with centuries of holes drifted around the bullseye; and the room's treasure — a long copper-framed PHOTOGRAPH WALL: the same ten faces recurring across hundreds of pictures, in different bodies' subtle sameness, laughing in the garden, muddy from repairs, raising ten mugs — a family album without ancestors or descendants, only each other, forever. Lighting: warm lamplight pools, amber and honey, starlight coin from above. Mood: not barracks — the longest-running friendship in human history, at home.
+```
+
+### #55 — CARETAKER ROBOT (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame hero portrait, studio-style reference on a neutral dark background: the CARETAKER ROBOT of the mothership Alpha — the patient steward that tends the ship, the garden, the clone tubes and ten sleeping women through the century-long transits. Full-body three-quarter view. The design: no menace, no face-mimicry — honest machinery built by the same engineering culture as the ship: a sturdy waist-high wheeled chassis in brushed steel with COPPER trim panels, riding on six small independently sprung wheels for climbing deck-plate seams; a compact rounded torso housing swappable tool modules behind small brass-latched hatches; two mismatched-by-history ARMS — the left original, slender and precise with a three-fingered manipulator worn bright at the fingertips, the right visibly newer, rebuilt after some ancient mishap, its replacement plating a slightly different alloy shade, the repair honored rather than hidden; and a simple sensor head on a flexible neck — two round lens-eyes of different sizes with copper iris-shutters, warm amber glow, no attempt at a face and somehow kind anyway. Its biography rendered lovingly: a hand-painted sunflower on its flank (the crew's doing), a small brass plaque with its commissioning date, twelve centuries of micro-scratches burnished into soft texture, one wheel-fender patched with the same neat riveting as the hull. In its manipulator, mid-task: a watering wand from the garden ring, a droplet falling. At its hip, a coiled charge cable and a tiny rack of its own miniature tools. Lighting: warm key from upper left, cool rim, amber eye-glow as accent. Mood: the eleventh member of the family — the one who stays awake so the others can dream.
+```
+
+### #56 — ALPHA AI CORE (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the AI CORE of the mothership Alpha — the room where the ship's mind lives: the intelligence that steers through the centuries, tends the clone tubes, discovered the breathing liquor, and has kept ten women alive for twelve hundred years. The space: a small hushed chamber deep in the hull, more chapel than server room — copper ribs close overhead, the air visibly cold, faint breath-mist of chilled coolant drifting low. At center: the mind itself — a floor-to-ceiling cylindrical column of stacked processing rings, each ring a lattice of dark crystalline computing matrix behind curved glass, threaded through with fine COPPER cooling veins, the whole column glowing from within in a soft, slow-breathing AMBER that brightens and dims in a long calm rhythm — the ship, thinking. Around its base: a moat-ring of gently steaming cryo-coolant channels, crossed by a small copper footbridge worn bright down its center — the crew visits. Honest engineering everywhere: bundled fiber trunks in woven copper sheathing climbing the walls like ivy, brass-gauge coolant manifolds, a breaker wall with reverent hand-lettered labels, an antique console with a real keyboard and a small amber text screen — the oldest interface, kept because the AI's first words came through it. The tenderness: taped beside that screen, a browning paper note in centuries-old handwriting reading "good morning, old friend"; on a shelf, ten small tokens left by the crew — a beet carved from wood, a chess piece, a dried sunflower, a guitar pick — offerings to the eleventh mind aboard. Lighting: the column's amber breathing as key, cold blue coolant glow at floor level, mist catching both. Mood: not a machine room — a companion's bedroom, and the whole ship is its body.
+```
+
+### #57 — ALPHA BOW SHIELD (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame exterior masterpiece against deep black space: the BOW SHIELD of the mothership Alpha — the great sacrificial face that has taken every impact of a twelve-hundred-year voyage at a thousand kilometers per second, seen close from a slight forward angle with the copper hull receding behind it. The shield: a massive blunt DISC riding ahead of the bow on six heavy shock-absorbing pylons — a layered Whipple armor of thick plates, its outermost face a dark, ablated crust that was once bright metal. Its surface is the image's subject: a landscape of survival rendered in loving forensic detail — thousands of micro-impact craters like a hammered moon, each a tiny bright-rimmed pit where interstellar dust struck with the energy of a rifle shot; long shallow grazes; a dozen larger craters the size of dinner plates, their centers melted glassy and re-frozen; and three great honorable WOUNDS — deep gouges from pebble-sized strikes across the centuries, each one meticulously PATCHED by the crew with riveted copper plates of slightly different vintage, the repairs forming a visible archaeology of the voyage. Frost feathers glitter in the permanent shadow behind the shield's rim. Beyond it, the familiar copper submarine hull stretches aft in soft focus, portholes glowing warm amber, the fusion drive a faint blue star at the far end. Ahead of the ship, subtle and physical: the faintest violet forward glow where the shield's leading face meets the interstellar medium at 1/300 the speed of light. Lighting: hard starlight raking across the crater-field, every pit casting its tiny shadow; warm hull-light as counterpoint. Mood: the unglamorous heroism of armor — twelve centuries of blows, taken so the garden behind it never felt one.
+```
+
+### #58 — ALPHA DOCKING BAY (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame interior: the DOCKING BAY of the mothership Alpha — the room where the ship touches everything that isn't itself, prepped for tomorrow's descent, no figures. The space: the largest open compartment in the hull, a copper-ribbed vault with a great circular BAY DOOR at its far end — a masterpiece of engineering, a huge iris of overlapping copper petals, currently closed, starlight leaking in thin lines between the petal seams. At center, riding in its cradle of padded struts: the LANDER — a stout, honest descent craft in copper and off-white, scorch-feathered around its heat shield's rim from past atmospheres, landing legs folded like a resting insect, its small round windows dark, an access ladder hooked to its open hatch and an umbilical hose plugged into its flank, breathing faint frost — fueled and ready. Along one wall, the EVA gallery: exactly TEN suit alcoves in a copper rack, nine suits standing like patient ghosts — off-white, patched, each with its owner's hand-painted emblem on the shoulder — and one alcove EMPTY, its suit checked out, tether hook swinging slightly. Below them, ten helmet shelves, gold visors catching the light in a row of small suns. The working floor: yellow-painted guide lines worn grey down their centers, tie-down rings, a wheeled tool trolley mid-task beside the lander with a torque wrench left on its top tray, coiled fuel hoses on brass reels, cargo nets bulging with sample crates stenciled by hand. High on the wall, a hand-painted tally of past landings — planet names and dates, centuries apart, room left below for more. Lighting: cool work-floods from the ceiling, warm amber from a small ready-room window, star-lines through the iris seams. Mood: held breath — the quiet of a room that opens onto everything.
+```
+
+### #59 — ALPHA COMM ARRAY (current):
+```
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+Single full-frame exterior masterpiece: the COMM ARRAY of the mothership Alpha — the great ear and voice that has kept a thread of light stretched back to Earth across four light-years and twelve centuries. The structure: rising from the copper hull's dorsal spine on a lattice mast, a beautiful DISH of polished segmented petals five meters across, its surface a mosaic of gently mismatched panels — replaced one by one over the centuries, their alloy shades forming an unintended patchwork rose — cupped around a central emitter spike from which, at this moment, the ship is SPEAKING: a pencil-thin beam of coherent green laser light launching from the spike and running dead-straight out of frame toward a single tiny yellow star low among thousands — Sol, marked by nothing except the beam pointing at it. The physics rendered honestly: the beam visible only as a faint scatter-line where it grazes drifting frost particles near the hull, then effectively invisible in clean vacuum — a suggestion, not a searchlight. Around the dish's base: the array's biography — a ring of smaller antennas of every era, whip aerials, a quaint original horn antenna kept functional out of respect, cable runs stitched along the mast with copper clips, one petal mid-replacement with a repair tether still clipped to it. Below, the hull curves away, portholes warm; in one of them, small and sharp, a single silhouette watches the beam go. Background: the full honest starfield, the Milky Way's dust lanes, Sol small and yellow and unbearably far. Lighting: starlight key, green beam accent, amber porthole warmth. Mood: a lighthouse run in reverse — not guiding ships home, but telling home, every night for twelve hundred years: still here, still coming, still yours.
+```
 
 ---
 
-## 📋 EXACTLY WHAT NIR WANTS YOU TO DO:
+## NIR'S DOCUMENTS — LINKS:
 
-1. **Rewrite #47 (EVA Suit)** — hard sci-fi spacesuit, no retro, no steampunk, NASA +25 years
-2. **Rewrite #48 (Alpha Bridge)** — modern submarine control room × mission control, no wheel, no window, no 10-person seating
-3. **SCAN all remaining entity prompts** (#49 through #59 at minimum — the Alpha's rooms) for retro/steampunk/19th-century bullshit and rewrite any that are infected
-4. Produce new .md + .txt files for each rewritten entity
-5. All .txt files must include the FULL sci-fi prefix
-6. This is HARD SCIENCE FICTION — take CUTTING-EDGE 2025 ENGINEERING and push it 25 years forward. No fantasy. No retro. No Jules Verne. No steampunk. No wood. No brass. No ship's wheels. No windows for navigation.
+1. **Ship structure**: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/alphababes%20-%20structure%20of%20our%20spaceship.txt
 
----
+2. **Background summary** (all 10 crew descriptions + clone system): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/alpha-babes%20background%20summary.txt
 
-## 📚 DOCUMENTS FABLE MUST READ (give these links to the new Fable):
+3. **Complete canon** (all 7 species + machines): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Nir-to-Fable-COMPLETE-CANON-2026-07-27.md
 
-1. **SHIP STRUCTURE (MOST IMPORTANT)**:
-   https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/alphababes%20-%20structure%20of%20our%20spaceship.txt
+4. **DELTA** (canon locks, Madie changes): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Nir-to-Fable-DELTA-2026-07-29.md
 
-2. **COMPLETE CANON (all species + machines locked)**:
-   https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Nir-to-Fable-COMPLETE-CANON-2026-07-27.md
+5. **Episode 1 script**: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/Alpha%20Babes%20-%20EPISODE%201%20script.txt
 
-3. **BACKGROUND SUMMARY (10 crew members, Chief description, clone reincarnation, voyage details)**:
-   https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/alpha-babes%20background%20summary.txt
-
-4. **CANON LOCKS + DELTA (Chief→Madie changes, brunette, Romanian, borscht, NO retro rules)**:
-   https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Nir-to-Fable-DELTA-2026-07-29.md
-
-5. **THE CURRENT BROKEN PROMPTS (so Fable sees what went wrong)**:
-   - #47 (broken): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-47-Alpha-Crew-EVA-Suit.txt
-   - #48 (broken): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-48-Alpha-Bridge.txt
-
-6. **SCENE BATCHES (for full context of how Alpha spaces are used)**:
-   - Batch 01 (Scenes 1-5): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Fable-Pass-01-Batch-01-Scenes-1-5.md
-   - Batch 02 (Scenes 6-10): https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Fable-Pass-01-Batch-02-Scenes-6-10.md
-
-7. **THE REMAINING PROMPTS THAT NEED SCANNING (check for retro infections)**:
-   - #49 Garden Ring: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-49-Alpha-Garden-Ring.txt
-   - #50 Galley: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-50-Alpha-Galley.txt
-   - #51 Engine Room: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-51-Alpha-Engine-Room.txt
-   - #52 Workshop: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-52-Alpha-Workshop.txt
-   - #53 Observation Dome: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-53-Alpha-Observation-Dome.txt
-   - #54 Crew Quarters: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/copy-paste-prompts/Fable-Pass-01-Entity-54-Crew-Quarters.txt
-   - #55 onwards as needed
-
-8. **PASS 01 OVERVIEW (full story arc)**:
-   https://github.com/strulovitz/Anime/blob/main/AlphaBabes/Fable-Pass-01-Overview.md
-
----
-
-## ⚡ NIR'S FINAL WORDS:
-
-"Everything should be BEYOND what we have today. Take the CUTTING EDGE of modern ENGINEERING and push it 25 years into the future. No steampunk. No retro. No Jules Verne. No 19th century. This is HARD SCIENCE FICTION. Copper is an engineering material, not a decoration."
-
----
-
-Go. Fix it. 🚀🔥
-
----
-
-## 👩‍🔬 EXTRA RULE: ANY IMAGE WITH THE CREW GIRLS — USE THEIR REAL DESCRIPTIONS
-
-The background document has EXACT physical descriptions for all 10 women. If ANY image includes them — the bridge portraits, crew quarters, galley scenes, EVA suit with occupant, ANYWHERE — you MUST use these descriptions. DO NOT invent random women. Here they are:
-
-| Codename | Hair | Style | Note |
-|---|---|---|---|
-| **Madie** (Chief) | Brunette | Ponytail | Romanian, curvy, busty, pretty, captain |
-| Ace | Lilac (light purple) | Afro puffs | American, black |
-| Mariner | Violet (dark purple) | Pigtails (bunches) | Chinese |
-| Bubbels | Yellow | Double bun odango | Japanese |
-| Reaper | Mint (light green) | Chignon | Indian |
-| Rockhound | Forest (dark green) | Lob (long bob) | Russian |
-| Doc | Pink | Box braids | French, black |
-| Tink | Orange | Updo | German |
-| Sparky | Sky (light blue) | Hime cut | South Korean |
-| Pipey | Cobalt (dark blue) | Bob cut | Australian |
-
-ALL are young women. NO ages in prompts. NO one is a child, elderly, or male.
-
-The full description document is in the "Documents Fable Must Read" section below — attach it. 🔥
+6. **Story arc**: https://github.com/strulovitz/Anime/blob/main/AlphaBabes/knowledge_base/Alpha%20Babes%20Story%20Arc%20for%20each%20season.txt
