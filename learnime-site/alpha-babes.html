@@ -108,6 +108,151 @@
     </figure>
   </section>
 
+  <!-- ============ BEHIND THE SCENES: LASER BATTLE EVOLUTION ============ -->
+  <section class="section" id="laser-evolution">
+    <h2>Behind the scenes: how we actually built the laser battle 🔬✨</h2>
+    <p>Every "making of" has bloopers. Below is our real, honest work-in-progress folder —
+    every attempt it took to get a laser bouncing correctly between mirror-drones in 3D
+    space, from an AI guessing freehand, all the way to a real physics simulation dressed
+    up in cinematic style. Nothing here is cleaned up or faked. Tap any picture to see it
+    full-size.</p>
+
+    <details class="info-box">
+      <summary>🧩 What is Blender? (click to learn — no tech background needed)</summary>
+      <p>Blender is a free, professional 3D program — the same kind of software used to
+      make real movies and video games. An AI image generator paints a picture based on
+      guessing what "should" look right. Blender is different: it builds an actual tiny 3D
+      world with real objects, real cameras and real light, then <em>calculates</em>,
+      mathematically, exactly where every ray of light travels. We needed that here, because
+      we wanted our laser beams to bounce off the mirror-drones using the real "law of
+      reflection" — the same simple rule that makes the mirror in your bathroom work —
+      instead of an AI's artistic guess.</p>
+    </details>
+
+    <details class="info-box">
+      <summary>🔌 What is MCP? (click to learn — no tech background needed)</summary>
+      <p>MCP ("Model Context Protocol") is like a universal remote control that lets an AI
+      assistant directly operate other software — in our case, Blender — instead of just
+      chatting about it. Normally an AI can only talk in text. With MCP, the AI can actually
+      place objects, aim cameras, and press "render" inside Blender itself, by writing a
+      little bit of code that MCP turns into real actions on Nir's computer. That's how a
+      text conversation turned into an actual 3D-rendered laser battle.</p>
+    </details>
+
+    <!-- Gallery 1 -->
+    <div class="evo-block">
+      <h3>Stage 1 — AI alone, freehand, no physics 🎨</h3>
+      <p>Our first attempts asked GPT 5.4 Image 2 to simply paint a laser bouncing off a
+      mirror-drone, with no 3D math behind it at all — pure artistic guessing. After a lot
+      of effort with carefully written prompts, the best it could reliably manage was a
+      clean "V" bounce off a single drone. Beautiful pictures — but there was no real
+      geometry underneath them, no guarantee the angles were actually correct.</p>
+      <div class="evo-gallery-grid">
+        <a class="evo-thumb-link" href="#lb-evo1a">
+          <img class="evo-thumb" src="images/medusa-evo1-gpt-single-drone-a.png" loading="lazy" alt="A single mirror-disc drone with a laser bouncing off it in a clean V shape, painted freehand by AI">
+        </a>
+        <a class="evo-thumb-link" href="#lb-evo1b">
+          <img class="evo-thumb" src="images/medusa-evo1-gpt-single-drone-b.png" loading="lazy" alt="A second freehand AI attempt at a single mirror-drone reflecting a laser in a V shape">
+        </a>
+        <a class="evo-thumb-link" href="#lb-evo1c">
+          <img class="evo-thumb" src="images/medusa-evo1-gpt-two-drone.png" loading="lazy" alt="Two angular mirror-drones with a green laser bouncing between them, freehand painted with no physics">
+        </a>
+      </div>
+    </div>
+
+    <!-- Gallery 2 -->
+    <div class="evo-block">
+      <h3>Stage 2 — Real physics, cartoon look, simple scene 📐</h3>
+      <p>Next we moved the whole scene into Blender, where the laser's path is not painted
+      but genuinely computed from the law of reflection. The angles are now 100% correct —
+      but Blender's own default render style looks flat and cartoonish, not cinematic. This
+      is the "simple" version: just a handful of drones and two ships.</p>
+      <div class="evo-gallery-grid">
+        <a class="evo-thumb-link" href="#lb-evo2a"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-a.png" loading="lazy" alt="Early flat Blender render of a laser zigzagging between a few floating ring-shaped drones"></a>
+        <a class="evo-thumb-link" href="#lb-evo2b"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-b.png" loading="lazy" alt="Improved Blender render with a starfield background and two ships with lit windows"></a>
+        <a class="evo-thumb-link" href="#lb-evo2c"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-wide.png" loading="lazy" alt="Wide shot Blender render of the laser bouncing in a W path between four drones toward an explosion on a target ship"></a>
+        <a class="evo-thumb-link" href="#lb-evo2d"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-attacker.png" loading="lazy" alt="Attacker point-of-view Blender render, laser pattern compressed into an A shape"></a>
+        <a class="evo-thumb-link" href="#lb-evo2e"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-defender.png" loading="lazy" alt="Defender point-of-view Blender render with the target ship's hull filling the frame and an explosion at the bow"></a>
+        <a class="evo-thumb-link" href="#lb-evo2f"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-perseus-a.png" loading="lazy" alt="Redesigned Blender scene where the attacking ship's own laser loops back and hits itself"></a>
+        <a class="evo-thumb-link" href="#lb-evo2g"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-perseus-b.png" loading="lazy" alt="Second camera angle of the self-inflicted laser loop scene"></a>
+        <a class="evo-thumb-link" href="#lb-evo2h"><img class="evo-thumb" src="images/medusa-evo2-blender-simple-perseus-c.png" loading="lazy" alt="Third camera angle close on the attacking ship's hull and radiator vanes"></a>
+      </div>
+    </div>
+
+    <!-- Gallery 3 -->
+    <div class="evo-block">
+      <h3>Stage 3 — Real physics, cinematic look, simple scene 🎬</h3>
+      <p>Then we handed the physically-correct Blender scene to GPT 5.4 Image 2 as a
+      reference and asked it to repaint the whole picture in one single pass, keeping the
+      geometry intact. The result: the same accurate bounce angles as Stage 2, but now
+      looking like an actual movie still.</p>
+      <div class="evo-gallery-grid">
+        <a class="evo-thumb-link" href="#lb-evo3a"><img class="evo-thumb" src="images/medusa-evo3-gpt-realistic-wide.png" loading="lazy" alt="Cinematic repaint of the wide shot: a laser bouncing in a W path between two mirror drones toward an exploding ship"></a>
+        <a class="evo-thumb-link" href="#lb-evo3b"><img class="evo-thumb" src="images/medusa-evo3-gpt-realistic-attacker.png" loading="lazy" alt="Cinematic repaint from the attacker's point of view, dramatic A-shaped laser pattern"></a>
+        <a class="evo-thumb-link" href="#lb-evo3c"><img class="evo-thumb" src="images/medusa-evo3-gpt-realistic-defender.png" loading="lazy" alt="Cinematic repaint from the defender's point of view, close on the exploding target ship"></a>
+      </div>
+    </div>
+
+    <!-- Gallery 4 -->
+    <div class="evo-block">
+      <h3>Stage 4 — Real physics, cartoon look, complex scene ♟️</h3>
+      <p>Feeling confident, we scaled the physics way up: a dense "laser chess board" of
+      over 40 drones, with the beam threading a genuine zigzag through the crowd. Still
+      Blender's flat default look, but now the geometry itself is doing something much
+      harder — and it's still all real, computed reflection.</p>
+      <div class="evo-gallery-grid">
+        <a class="evo-thumb-link" href="#lb-evo4a"><img class="evo-thumb" src="images/medusa-evo4-blender-complex-a.png" loading="lazy" alt="Dense Blender render of dozens of mirror drones scattered through space with a red laser threading a complex zigzag path between them"></a>
+        <a class="evo-thumb-link" href="#lb-evo4b"><img class="evo-thumb" src="images/medusa-evo4-blender-complex-b.png" loading="lazy" alt="Close-up Blender render inside the dense drone cluster with several laser segments crossing"></a>
+        <a class="evo-thumb-link" href="#lb-evo4c"><img class="evo-thumb" src="images/medusa-evo4-blender-complex-c.png" loading="lazy" alt="Another close Blender angle inside the dense drone board with the laser and explosion visible"></a>
+      </div>
+    </div>
+
+    <!-- Gallery 5 -->
+    <div class="evo-block">
+      <h3>Stage 5 — Real physics, cinematic look, complex scene 🏆</h3>
+      <p>The peak of this experiment: the full 40-plus-drone "laser chess board," repainted
+      by GPT 5.4 Image 2 in one single pass from the Blender reference — real computed
+      geometry <em>and</em> a genuinely cinematic look, together, in a scene far more
+      complex than where we started. This is the best honest result of the whole
+      experiment, and where we're picking up from next.</p>
+      <p class="note">(After this, we tried something fancier still — splitting the beams
+      and the ships into two separate layers to combine them with even more precision. That
+      experiment didn't hold up under a close look, so we've paused it. Everything above is
+      the solid, real progress we're building forward from.)</p>
+      <div class="evo-gallery-grid">
+        <a class="evo-thumb-link" href="#lb-evo5a"><img class="evo-thumb" src="images/medusa-evo5-gpt-realistic-complex-wide.png" loading="lazy" alt="Cinematic repaint of the dense laser-chess board wide shot, dozens of drones and a real beam zigzag hitting an exploding dreadnought"></a>
+        <a class="evo-thumb-link" href="#lb-evo5b"><img class="evo-thumb" src="images/medusa-evo5-gpt-realistic-complex-medusaside.png" loading="lazy" alt="Cinematic repaint close to the dreadnought, laser beams crossing through the dense drone cluster"></a>
+        <a class="evo-thumb-link" href="#lb-evo5c"><img class="evo-thumb" src="images/medusa-evo5-gpt-realistic-complex-aegisside.png" loading="lazy" alt="Cinematic repaint close to the drone cluster with the exploding dreadnought and laser beams visible"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lightboxes for the laser battle evolution gallery (pure CSS, no JavaScript) -->
+  <div class="lightbox" id="lb-evo1a"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo1-gpt-single-drone-a.png" alt=""></div>
+  <div class="lightbox" id="lb-evo1b"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo1-gpt-single-drone-b.png" alt=""></div>
+  <div class="lightbox" id="lb-evo1c"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo1-gpt-two-drone.png" alt=""></div>
+
+  <div class="lightbox" id="lb-evo2a"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-a.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2b"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-b.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2c"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-wide.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2d"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-attacker.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2e"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-defender.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2f"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-perseus-a.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2g"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-perseus-b.png" alt=""></div>
+  <div class="lightbox" id="lb-evo2h"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo2-blender-simple-perseus-c.png" alt=""></div>
+
+  <div class="lightbox" id="lb-evo3a"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo3-gpt-realistic-wide.png" alt=""></div>
+  <div class="lightbox" id="lb-evo3b"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo3-gpt-realistic-attacker.png" alt=""></div>
+  <div class="lightbox" id="lb-evo3c"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo3-gpt-realistic-defender.png" alt=""></div>
+
+  <div class="lightbox" id="lb-evo4a"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo4-blender-complex-a.png" alt=""></div>
+  <div class="lightbox" id="lb-evo4b"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo4-blender-complex-b.png" alt=""></div>
+  <div class="lightbox" id="lb-evo4c"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo4-blender-complex-c.png" alt=""></div>
+
+  <div class="lightbox" id="lb-evo5a"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo5-gpt-realistic-complex-wide.png" alt=""></div>
+  <div class="lightbox" id="lb-evo5b"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo5-gpt-realistic-complex-medusaside.png" alt=""></div>
+  <div class="lightbox" id="lb-evo5c"><a href="#" class="lightbox-bg" aria-hidden="true"></a><a href="#laser-evolution" class="lightbox-close" aria-label="Close">✕</a><img class="lightbox-img" src="images/medusa-evo5-gpt-realistic-complex-aegisside.png" alt=""></div>
+
   <!-- ============ MUSIC ============ -->
   <section class="section" id="songs">
     <h2>Every crew member carries a melody. 🎻</h2>
