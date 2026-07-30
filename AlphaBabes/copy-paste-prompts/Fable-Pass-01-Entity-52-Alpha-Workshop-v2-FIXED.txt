@@ -1,0 +1,23 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Fabrication workshop compartment of the ship Alpha, year ~2050. Mid-task, no people.
+
+CAMERA: medium-wide from a front corner, showing the workbench in the foreground-right and machines along the back wall.
+
+ROOM GEOMETRY: compartment 6 m × 4 m, copper ribs at ceiling, matte white walls, grey anti-slip deck.
+
+BACK WALL, left to right:
+1) Metal laser-powder-bed 3D printer: a sealed white cabinet with a large amber safety-glass window; inside, a titanium bracket half-emerged from smooth grey metal powder, a bright laser point working (small, precise, not a light show).
+2) Polymer 3D printer, smaller, enclosed, printing a white part.
+3) Five-axis CNC mill in a full enclosure, window smoked and chip-dusted, interior work light on.
+
+CEILING: a collaborative robot arm (white, 6-joint, camera at wrist) parked on an overhead rail above the bench, folded downward, inactive.
+
+FOREGROUND: the main workbench — machined dark-grey composite top, integrated T-slot clamps. Its rear wall is a tool board: every hand tool (wrenches by size, calipers, files, hex drivers) seated in a labeled foam cutout; two cutouts empty. ON THE BENCH, under the key light: a laser engraving station — an EVA-suit titanium NECK RING held in a padded fixture beneath the engraver head, MID-JOB: a name half-etched, cut fresh and bright directly over the shallow worn ghost of the identical older engraving. Beside the fixture: a small 3D-printed titanium lattice gift box, lid open, empty.
+
+LEFT WALL: shelving with labeled parts bins (printed labels: "VALVES — CERTIFIED", "VALVES — PROBABLY", "SCRAP Ti"); racked spare modules in dated clear bags. In front: a service cart carrying a disassembled pump (impeller and seals laid out on a sterile blue mat), tagged with a red e-ink label reading "URGENT".
+
+HIGH SHELF: a row of small handmade models: a chess piece machined from metal, a small anodized-red beet, and a 20 cm model of the ship Alpha — six parallel submarine hulls arranged in a ring around a central open tube, a shallow wide dish at the front end.
+
+LIGHTING: one articulated work lamp as hard key on the neck-ring fixture; amber glow from the printer window; cool neutral fill; faint dust motes in the key beam.
+16:9, photorealistic materials in Pixar 3D feature style.

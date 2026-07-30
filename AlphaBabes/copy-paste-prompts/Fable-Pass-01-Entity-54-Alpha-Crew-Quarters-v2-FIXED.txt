@@ -1,0 +1,17 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Crew quarters of one submarine hull of the ship Alpha — berthing corridor plus lounge, evening, no people. Design rule made visible: only FIVE crew live in this hull (the other five live in a distant twin hull).
+
+CAMERA: from the corridor entrance, one-point perspective down the corridor into the lounge at the far end.
+
+CORRIDOR: 2 m wide, 8 m long, copper ribs at ceiling with warm indirect light strips between them, dimmed to evening level. Along the walls: exactly FIVE cabin doors (three left, two right) — smooth off-white composite sliding panels. Each door carries an e-ink nameplate displaying one personal emblem, each different (visible: a sunflower, an atom symbol, a chess knight, a wave, a red beet). The nearest door is AJAR, warm light spilling out: inside, glimpse of a snug bunk with folded sleep-restraint webbing, a small personal display on standby, a shelf of small keepsakes behind a thin restraint bar, a reading light on.
+
+LOUNGE (far end, 4 m × 3 m):
+- NO free-standing furniture. Fold-down jump seats along both side walls (two per side), dark grey padding, six-point harnesses stowed flat behind each seat.
+- Between them: a fold-out wall table holding a magnetic chess set, game in progress.
+- Right wall: an acoustic guitar held in a padded wall clamp, a polished wear patch on its lower body.
+- Left wall: a shelf of real paper books, cracked worn spines, behind a metal restraint bar.
+- END WALL (facing camera): a large e-paper photo wall, 2.5 m wide, displaying a grid of photographs. The photos show the SAME TEN young women recurring across different eras: distinct individuals — one Black woman with lilac afro puffs, one Black woman with pink box braids, one Asian woman with dark-violet pigtails, one Asian woman with yellow double hair buns, one Asian woman with light-blue hime-cut hair, one brown-skinned woman with mint-green hair in a chignon, one white woman with dark-green long bob, one white woman with orange updo, one white woman with dark-blue bob, and one white brunette with a ponytail. Scenes: laughing in the garden compartment, muddy after a repair, raising mugs together.
+
+LIGHTING: warm dim indirect strips; the open cabin's reading light as an accent; the photo wall glowing soft paper-white.
+16:9, photorealistic materials in Pixar 3D feature style.

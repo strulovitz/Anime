@@ -1,0 +1,22 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Engine room at the stern of one submarine hull of the ship Alpha — fusion power plant feeding a VASIMR thruster, year ~2050. NO window into any reactor, no visible plasma. No people.
+
+CAMERA: wide shot from the compartment entrance looking aft, slight low angle.
+
+ROOM GEOMETRY: tallest compartment of the hull, 5 m diameter, copper ribs converging toward the stern bulkhead behind the machinery.
+
+CENTERPIECE: the fusion power unit — a horizontal cylinder 3 m diameter, 5 m long, wrapped in quilted white multilayer insulation blankets with visible stitching and metal grommets. Around it at three stations: large toroidal superconducting-magnet cryostats (smooth white rings, 40 cm cross-section) with bare-metal coupling flanges FURRED WITH REAL FROST, thin cold vapor sliding down and pooling at the deck. The whole unit sits in four massive shock-mount struts (steel springs + hydraulic dampers, visible travel gaps).
+
+AFT OF THE UNIT: a thick bare-metal thrust structure passing through the stern bulkhead (the VASIMR thruster itself is outside; only its power/plumbing trunk is visible here): heavy coaxial power lines and two armored coolant pipes with bellows joints.
+
+LEFT WALL: a bank of six flat displays showing: radiation-hard camera views of an exhaust nozzle, spectrometry graphs, and one large screen with a complete cyan wireframe "digital twin" of the power unit with live numeric readouts. Below the screens: breaker panels, every breaker with a small e-paper label; a rack of torque tools seated in charging docks.
+
+RIGHT WALL: a locked steel mesh cage, amber standby lights inside, containing a capacitor bank (rows of black cylindrical capacitors with copper bus bars); on the cage a large printed warning placard with a hull-separation diagram (six tubes splitting away from a center line).
+
+WALL ALCOVE: a docked inspection-crawler robot — flat tracked chassis, folded manipulator arms, charge cable seated, white and grey.
+
+HUMAN DETAIL: on the unit's cradle, a small laser-etched commissioning plaque; tucked behind it, one dried sunflower.
+
+LIGHTING: cool white service lighting from ceiling strips as key; amber accents from the capacitor cage; low fog of cryo vapor across the deck catching the light.
+16:9, photorealistic materials in Pixar 3D feature style.

@@ -1,0 +1,21 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Observation cupola of the ship Alpha — the only true windows aboard, used for recreation only, never navigation. Year ~2050, evolution of the ISS Cupola. No people (someone left moments ago).
+
+CAMERA: from inside the cupola floor, low angle, looking up and out through the glass; interior occupies bottom third of frame, space occupies upper two thirds.
+
+CUPOLA GEOMETRY: a dome blister 2.5 m diameter: six trapezoidal fused-silica windows around one circular top window, each pane visibly THICK (laminated multi-layer edges visible, 12 cm), set in a machined titanium frame with exposed bolt patterns. Outside each pane, retracted armored shutter petals are visible edge-on at the frame, with their actuator rods — clearly mechanical, functional.
+
+VIEW THROUGH GLASS: an astronomically honest starfield — thousands of stars of varying brightness and subtle color (white, blue-white, orange), the Milky Way band crossing diagonally with visible dark dust lanes, NO lens flare, NO nebula colors, NO twinkle. Near the lower frame edge: one star slightly brighter than all neighbors (the destination), unmarked.
+
+INTERIOR (bottom third):
+- Padded dark-grey deck.
+- THREE worn fabric cushions with folded grey blankets; the nearest cushion's blanket is thrown open and still creased from a sitter.
+- A compact motorized telescope (20 cm catadioptric, white tube, on a powered alt-az hull mount bolted to the frame ring), aimed at the bright star.
+- A tablet lying on the deck, screen in dim red night-mode showing a star atlas.
+- Open on the vacated cushion: a paper notebook, pages showing hand-drawn constellation sketches in pencil with handwritten dates; one star on the page circled many times, paper visibly dented.
+- A steel vacuum flask and one cup beside it, faint steam.
+- By the hatch: one small shielded RED night-lamp, the only artificial light.
+
+LIGHTING: starlight as the key light — very dim, cold, even; the red lamp gives a faint warm-red pool near the hatch; long soft shadows; overall exposure dark but readable.
+16:9, photorealistic materials in Pixar 3D feature style.

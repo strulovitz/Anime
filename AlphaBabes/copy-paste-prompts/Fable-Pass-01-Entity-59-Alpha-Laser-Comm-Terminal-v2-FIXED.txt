@@ -1,0 +1,21 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Exterior of the laser communication terminal of the ship Alpha, mounted at the ship's STERN (Earth is astern of a ship flying away from it), transmitting toward Sol. Deep space, hard vacuum, honest starfield.
+
+CAMERA: close exterior shot from just above the ice-bag surface of the hull, looking aft along the beam direction, terminal in the right third of frame.
+
+FOREGROUND SURFACE: the ship's outer radiation armor — a landscape of large lashed bags of water ice: white/grey polymer bulk bags, 1.5 m scale, tied down with black cargo straps in a cross pattern, frost glittering on their surfaces, irregular but tightly packed.
+
+THE MAST: rising 6 m out of the bag field: a slender white composite lattice truss mast, cable runs stitched down its length with evenly spaced clamps and small e-paper tags.
+
+THE TERMINAL (top of mast):
+- A gimbaled optical telescope: 50 cm aperture, white cylindrical thermal shroud, open aperture facing aft; mounted on a fine two-axis gimbal with visible harmonic-drive actuators.
+- Clustered at its shoulder: three small star-tracker cylinders, apertures at different angles.
+- Folded alongside: a flat rectangular phased-array radio panel, 1 m, dark grey with a fine grid texture (backup system, stowed).
+
+THE BEAM: from the telescope aperture, a pencil-thin laser beam runs perfectly straight toward a single small yellow star low in the frame among thousands of stars. PHYSICS-ACCURATE RENDERING: the beam is visible ONLY as a faint broken scatter-line within ~20 m of the ship, where it grazes small frost particles drifting off the ice bags (a few bright motes on the line); farther out, the beam is invisible; the yellow star is marked by nothing except the beam's direction pointing exactly at it.
+
+BACKGROUND: below and beyond the mast, the sterns of the ship recede in soft focus: six dark thruster nozzles arranged in a ring around one central larger nozzle, all cold except a very faint deep-orange glow in the central one. Behind everything: dense accurate starfield with the Milky Way band and its dark dust lanes.
+
+LIGHTING: starlight as key (dim, even, cold); the beam's scatter motes as small bright accents; faint warm glow from the central nozzle.
+16:9, photorealistic materials in Pixar 3D feature style.

@@ -1,0 +1,21 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Exterior of the BOW of the interstellar ship Alpha in deep space — the ramscoop collection dish of its Bussard drive. Hard-vacuum scene, black sky, honest starfield.
+
+CAMERA: positioned ahead of the ship and 30 degrees off-axis, so the dish's concave face and its depth are both readable; the hull body recedes behind it in soft focus.
+
+THE DISH: a vast geodesic HEMISPHERE, 200 m diameter, opening toward the camera (concave face forward, like one half of a geodesic sphere). Construction, clearly visible at this distance:
+- Framework: thousands of triangular cells, each edge ~2 m, edges built as thin dark carbon-nanotube trusses (lattice texture visible on the nearest trusses).
+- Skin: each triangle filled with a taut graphene membrane — very dark grey with a faint oil-slick iridescence where starlight grazes it at shallow angles.
+- Repairs: a few dozen scattered triangles are visibly NEWER — cleaner, slightly lighter membrane — replacements distributed randomly across the dish. ONE triangle near mid-dish is MISSING: open to stars, with a small white repair robot parked at its edge holding the replacement panel.
+
+DISH CENTER: the open circular mouth of the ship's central solenoid — a copper-walled hollow tube, 8 m inner diameter, reddish-brown bare metal, extending backward through the entire ship (its bore is visibly EMPTY — stars cannot be seen through it, only its dark interior). RINGING the mouth: the innermost two rows of triangles are different — flush sealed hatch panels with fine gap lines and small corner locks: missile launch hatches, all closed.
+
+FORWARD OF THE MOUTH: held by three slender struts converging 25 m ahead of the dish center: a compact instrument package with a small GOLD-coated circular mirror (2 m) facing back toward the dish — the telescope secondary mirror and detector (the dish doubles as the segmented primary).
+
+PHYSICS ACCENT: along the dish's leading rim only, an extremely faint violet glow (ionized hydrogen at the scoop boundary) — subtle, thin, directional; NOT an aura, NOT fog.
+
+BACKGROUND: behind the dish, the ship's body recedes in soft focus: a cylindrical mass ~300 m long made of hundreds of lashed white/grey ice-filled bags (bulk-bag scale, cargo-strap lashing visible), completely covering the six hulls beneath.
+
+LIGHTING: single hard starlight key raking across the triangle field from upper right, each truss casting a hairline shadow; violet rim accent; black space, dense accurate starfield.
+16:9, photorealistic materials in Pixar 3D feature style.

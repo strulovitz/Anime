@@ -1,0 +1,18 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Next-generation EVA spacesuit (year ~2050, one generation beyond NASA xEMU / SpaceX EVA suit), displayed empty on a minimal grey charging stand, neutral dark studio background, three-quarter front-left view, full body in frame.
+
+CONSTRUCTION, top to bottom:
+- HELMET: one-piece transparent fused-silica bubble, width slightly greater than the head for peripheral vision, no frame bars across the field of view. A 3 cm electrochromic tint band runs across the upper third, currently 50% dark. A retractable gold-mirrored outer sun visor is parked half-raised above the bubble in a white composite housing. Inside the glass: a faint dormant head-up display grid, barely visible.
+- NECK RING: machined titanium, bare metal finish, 5 cm tall. Laser-etched around its circumference: TEN female names; each name is engraved multiple times in the exact same spot, older strikes shallow and worn, newest strike sharp and bright.
+- TORSO: rigid rear-entry hard upper torso, gloss-white carbon-fiber composite with visible fine weave under clear coat. Chest has a flat control panel: 4 physical rocker switches sized for gloves, 2 small e-ink status displays, 1 green status LED strip, all labels engraved, no decorative elements.
+- ARMS & LEGS: mechanical counter-pressure smart fabric — skin-tight, NOT inflated, no ballooning: matte graphite-grey electroactive weave with thin white tension lines following muscle directions. Elbow and knee zones have slightly thicker ribbed texture.
+- BEARINGS: titanium rotary bearings at shoulders, wrists, hips, ankles — bare machined metal rings with engraved calibration marks.
+- BACKPACK: slim white composite life-support pack, flush with the back profile, 15 cm deep. Visible features: two quick-release scrubber cartridge doors, flush radiator panel with fine horizontal grooves, and at each of the four corners a small cold-gas thruster nozzle (bare metal, 2 cm).
+- GLOVES: graphite-grey with white fingertip pads, slightly glossy from wear.
+- BOOTS: white composite shell, flat gecko-adhesive soles (visible fine grid texture on the sole edge), NO magnetic plates.
+- HIP: powered tether reel, white housing, dark carbon line visible through a slot, steel carabiner clipped to a D-ring.
+
+CONDITION: clean and maintained but not new — micro-scratches on hard shells, slight sheen wear on fabric at elbows and knees.
+LIGHTING: cool white key light from upper left, cool rim light from behind right, gold visor produces one warm reflection. Background: dark neutral grey, slight gradient.
+16:9, photorealistic materials in Pixar 3D feature style, no text overlays.

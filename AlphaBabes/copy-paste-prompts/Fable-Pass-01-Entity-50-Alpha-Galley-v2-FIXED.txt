@@ -1,0 +1,23 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Galley (kitchen) compartment of the ship Alpha, year ~2050 spacecraft engineering, mid-cooking, no people.
+
+CAMERA: medium-wide shot from the compartment entrance, eye level.
+
+ROOM GEOMETRY: compact compartment 4 m × 3 m, bare copper ribs at ceiling, matte white composite work surfaces with raised 3 cm restraint lips on every counter edge. Design rule visible everywhere: NOTHING hangs free, every object is latched, docked, or behind a clear latched door.
+
+CENTER OF FRAME: flush black induction cooktop set into the white counter. On it, held by a locking stainless gimbal ring bolted to the counter: a tall steel stockpot, 40 cm diameter, brushed finish with wear marks. Lid ajar. Contents visible: deep garnet-red borscht, gently simmering, flecked with green dill, small surface bubbles. A thin column of steam rises into a stainless extraction hood directly above, drawn in cleanly. A small temperature readout glows on the pot rim collar.
+
+AROUND THE RANGE:
+- Left wall: latched racks holding nested steel pots and pans behind horizontal retention bars; below, vacuum drawers with clear fronts showing grains and dried legumes, each with an e-ink label.
+- Right counter: an open chiller drawer with fresh beets (leafy tops on); on the counter, a white cutting board stained pink-red, one beet halved showing concentric ruby rings, a chef's knife docked in a magnetic slot.
+- Ceiling: a slim robotic galley arm parked on a linear ceiling rail, folded, white shells, single three-finger gripper.
+
+THE TEN MOTIF (must be exact counts):
+- A spring-loaded open rack holding exactly TEN identical white bowls.
+- A warming shelf with exactly TEN mugs docked on ten circular pads; each mug carries one small distinct printed emblem (visible ones: a sunflower, an atom symbol, a chess knight, a red beet, a wave).
+
+ABOVE THE RANGE: a small sealed archival display frame (metal, gas-filled, anti-reflective glass) containing ONE handwritten recipe card — aged amber paper, faded brown handwritten ink, creased. Next to the frame: a small digital counter display showing a five-digit number.
+
+LIGHTING: one warm practical light directly over the cooktop, steam crossing its beam; neutral cool fill from ceiling strips elsewhere.
+16:9, photorealistic materials in Pixar 3D feature style.

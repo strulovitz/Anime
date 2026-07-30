@@ -1,0 +1,20 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: The caretaker robot of the ship Alpha — general-purpose crew robot, year ~2050, one generation beyond current humanoid platforms. Hero reference portrait, full body, three-quarter front-left view, standing at ease on a neutral dark studio background.
+
+FORM FACTOR: humanoid, 175 cm tall, slender, human-proportioned (justification: the ship's hatches, ladders and tools are human-sized). NO face, NO skin, NO human mimicry.
+
+CONSTRUCTION, top to bottom:
+- HEAD: smooth rounded white composite shell; where a face would be, a matte black sensor band wrapping 180 degrees, containing visible small lenses (two stereo camera pairs, one thermal lens, one LiDAR strip); across the band, one thin horizontal light-strip glowing calm steady cyan.
+- NECK/JOINTS: all articulations are sealed vacuum-rated joints — visible as tight bellows-style rings with a faint gold thermal-coating sheen inside the joint gaps.
+- TORSO: white composite chest and back shells over a visible titanium frame at the waist; on the upper back, four flush hard-point sockets (for an EVA thruster pack, not mounted). On the chest: a small hand-painted sunflower, 8 cm, slightly imperfect brushwork — clearly painted by a person, not printed.
+- ARMS: two seven-joint arms with quick-swap tool wrists (visible bayonet collar at each wrist). LEFT wrist: a five-fingered hand with soft graphite-grey fingertip pads, worn matte and slightly glossy from years of use. RIGHT wrist: a precise three-jaw machinist's gripper, bare metal.
+- HIP: a battery cartridge port with one spare cartridge clipped beside it.
+- LEGS: slender, shock-absorbing ankle articulation; feet with flat gecko-adhesive soles (fine grid texture visible at the sole edge).
+
+CONDITION: twelve centuries of maintenance — shells covered in fine burnished micro-scratches (satin texture, not damage); the LEFT SHIN panel is a slightly newer, brighter white than every other panel — an old repair, deliberately left unmatched.
+
+POSE/PROP: standing calmly, left hand holding a garden watering wand at its side, one water droplet falling from the tip.
+
+LIGHTING: cool white key from upper left, hard rim light from behind right, the cyan sensor strip as the only color accent. Dark neutral grey gradient background.
+16:9, photorealistic materials in Pixar 3D feature style.

@@ -1,0 +1,20 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Life-support garden compartment inside one submarine hull of the ship Alpha, year ~2050 closed-ecology engineering. No people.
+
+CAMERA: wide shot down the central aisle, one-point perspective, aisle vanishing ~20 m away.
+
+ROOM GEOMETRY: cylinder interior 4.5 m diameter, flat walkway deck 1.2 m wide down the center, bare copper ribs visible at the ceiling apex, all other surfaces washable matte white composite.
+
+LEFT AND RIGHT WALLS: floor-to-ceiling aeroponic rack units, four tiers each, running the full length. Each tier: white troughs with clear front panels showing bare roots hanging in mist chambers (no soil). Crops, clearly identifiable: tier 1 leafy greens and cabbages; tier 2 tomato vines with red fruit on tensioned white cords; tier 3 climbing beans; tier 4 carrots with feathery tops. One full rack section dedicated to BEETS: dense red-veined green leaves. Every rack has a small e-ink label tag showing a plant icon and a graph.
+
+CEILING: continuous full-spectrum quantum-dot LED light bars, warm white (4000 K look), running the length of the compartment; fine irrigation mist visibly drifting through the light beams.
+
+UPPER WALLS: transparent photobioreactor tubes, 15 cm diameter, filled with bright green algae liquid, small bubble streams rising inside; between tube runs, flat grey-green lichen growth panels in metal frames. FAR CORNER: two sealed transparent tanks with green cyanobacteria culture and pipe connections; beside them a dark cabinet with its door ajar showing white mushrooms on trays.
+
+CENTERPIECE (middle of the aisle, midground): THE GRAVE — a circular brushed-stainless-steel soil tank, 3 m diameter, 80 cm tall, filled with dark soil. Growing from it: a cluster of sunflowers (1.5 m), dill plants, and one small pruned apple tree (1.8 m). Flush around the tank's rim: a laser-etched metal band with TEN names, each name followed by a long row of small engraved dates. On the rim: a small bundle of fresh-cut flowers, laid flat.
+
+DETAIL: one slim white humanoid robot standing at a rack in the midground, extending a watering wand, matte white shells, no face — a smooth sensor band with a thin cyan light strip.
+
+LIGHTING: warm bright grow-light from above as key, strong green bounce fill from the plants, mist catching light shafts.
+16:9, photorealistic materials in Pixar 3D feature style.

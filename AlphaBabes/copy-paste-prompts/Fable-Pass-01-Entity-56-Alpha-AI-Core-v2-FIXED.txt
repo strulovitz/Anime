@@ -1,0 +1,20 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: The AI core vault of the ship Alpha — the ship's central computer, located at the protected STERN of the hull (the safest compartment aboard). Year ~2050. No people.
+
+CAMERA: medium shot from the vault hatch, eye level.
+
+ROOM GEOMETRY: small vault, 4 m × 3 m, low ceiling with copper ribs, sound-deadening dark-grey wall panels, chilled dry air — a faint low haze of cold air pooling on the deck.
+
+CENTERPIECE: a rectangular immersion-cooling tank, 2 m tall, 1.5 m wide, with thick clear glass walls and a machined metal lid. FULLY SUBMERGED inside: vertical server racks — dense dark circuit boards with visible chip arrays — in a clear dielectric coolant fluid. The fluid shows slow convection shimmer (visible refraction wavering) and thin trails of small bubbles rising from the hottest boards. Board status LEDs glow through the fluid: calm blue-white, slowly pulsing in unison. Nothing red.
+
+FROM THE TANK LID: bundled optical-fiber trunks in white sheathing rise to the ceiling and fan out in dressed, clamped runs toward all four walls.
+
+AROUND THE TANK:
+- Left: triple power feed panels with automatic transfer switches, e-paper labels; a steel mesh cage containing a capacitor bank (black cylinders, copper bus bars).
+- Right: a fire-suppression manifold with red-handled valves.
+
+FOREGROUND-RIGHT, the deliberate anachronism: a small crew console — a plain physical keyboard, worn keycaps, and a small monochrome text-only screen showing a few lines of pale amber text. Taped beside the screen: a browning paper note, handwritten, reading "good morning, old friend". On a small shelf above the console: TEN small objects in a row — a beet carved from wood, a metal chess knight, a dried sunflower, a guitar pick, a small 3D-printed titanium flower, a tiny toy submarine, a red hair-tie, a miniature wrench, a folded paper star, a small polished stone.
+
+LIGHTING: the tank's blue-white LED glow as key light, casting slow real caustic ripples on the ceiling; cold haze catching light at the deck; the amber text screen as a small warm accent.
+16:9, photorealistic materials in Pixar 3D feature style.

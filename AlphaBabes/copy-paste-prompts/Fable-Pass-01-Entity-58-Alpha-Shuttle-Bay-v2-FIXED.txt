@@ -1,0 +1,24 @@
+Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, charming, emotionally expressive characters with the signature polished "Pixar finish" — but NOT a toy world: realistic proportions, real physical materials (brushed copper, scuffed metal, woven fabric, ice, dust), physically accurate lighting with soft global illumination, shallow cinematic depth of field. Hard science fiction: every technical detail scientifically plausible, no fantasy glow, no magic. Original design — must not resemble any existing anime or movie franchise. 16:9 widescreen, ultra-detailed, movie-still composition.
+
+SUBJECT: Shuttle bay inside one submarine hull of the ship Alpha — a dorsal dry-dock compartment holding the hull's titanium landing shuttle, prepped for descent tomorrow. Year ~2050. No people.
+
+CAMERA: wide shot from a rear corner of the bay at deck level, shuttle dominating the center.
+
+ROOM GEOMETRY: the largest compartment of the hull: 20 m long, 8 m wide, 7 m tall. Copper ribs arch overhead. The ceiling is a pair of long CLAMSHELL doors meeting at a center seam; door seals furred with frost; one thin straight line of white starlight leaks through the seam — the only daylight-like element in the room.
+
+CENTERPIECE — THE LANDER: a titanium mini-shuttle, 12 m long, 3.5 m diameter, held horizontally in a cradle of four padded shock struts. Details:
+- Bare titanium skin, grey satin metal with heat discoloration bands (straw/blue tint) toward the base.
+- Base: a circular ablative heat shield, scorched in radial fan patterns of soot — several distinct scorch layers.
+- Four vertical-landing legs folded flat against the flanks.
+- Four grid fins folded flush near the nose.
+- NO windows: instead, three small hemispherical sensor domes and two camera pods on the nose.
+- One umbilical hose plugged into a flank port, visibly frosting along its length, drips of condensation on the deck grating beneath.
+
+LEFT WALL — EVA GALLERY (exact counts): FIVE suit alcoves in a white rack. FOUR alcoves occupied by standing white hard-torso EVA suits (matching entity #47: white carbon torso, graphite-grey limbs, titanium neck rings), each with one small distinct printed emblem on the chest. The FIFTH alcove is EMPTY — suit checked out, its steel tether hook hanging and swinging slightly. Below: a shelf with FOUR helmets, gold visors down, each reflecting the work lights.
+
+FLOOR: grey anti-slip deck with yellow guide lines worn to grey along their centers; a precise grid of recessed tie-down rings; a wheeled tool cart docked beside the lander, a torque tool lying on its top tray; cargo nets along the far wall bulging with hard-shell sample crates, each stenciled with a name and date.
+
+RIGHT WALL, high: a wide flat display listing past landings — a short table of planet names and dates with large empty space below the last entry.
+
+LIGHTING: cool white work floods from ceiling trusses as key; the hard white star-line at the door seam; faint frost vapor drifting off the umbilical through the light beams.
+16:9, photorealistic materials in Pixar 3D feature style.
