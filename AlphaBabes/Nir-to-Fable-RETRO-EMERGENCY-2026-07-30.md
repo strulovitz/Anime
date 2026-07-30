@@ -54,6 +54,7 @@ Key facts:
 - The room feels like a working control center, not a cozy Victorian parlor.
 - The heart of the room is a central holo-display showing the ship's route through the stars — a thread of gold light, Proxima marked.
 - On one wall: a panel with portraits of the 10 crew members and their reincarnation dates. This is the ONLY "sentimental" element.
+- ⚠️ THESE PORTRAITS MUST MATCH THE ACTUAL CREW DESCRIPTIONS from the background document. Chief = Madie: brunette ponytail. Ace: lilac afro puffs. Mariner: dark violet pigtails. Bubbels: yellow double bun odango. Reaper: mint green chignon. Rockhound: dark green lob. Doc: pink box braids. Tink: orange updo. Sparky: sky blue hime cut. Pipey: cobalt blue bob. DO NOT INVENT RANDOM WOMEN.
 - A chipped enamel mug in a gimbaled holder — ONE human touch.
 - A brass plaque worn illegible except the word "HOME" — built into the copper hull, not decorative.
 
@@ -165,3 +166,26 @@ Pixar/Disney 3D animation style, cinematic feature-film quality render. Warm, ch
 ---
 
 Go. Fix it. 🚀🔥
+
+---
+
+## 👩‍🔬 EXTRA RULE: ANY IMAGE WITH THE CREW GIRLS — USE THEIR REAL DESCRIPTIONS
+
+The background document has EXACT physical descriptions for all 10 women. If ANY image includes them — the bridge portraits, crew quarters, galley scenes, EVA suit with occupant, ANYWHERE — you MUST use these descriptions. DO NOT invent random women. Here they are:
+
+| Codename | Hair | Style | Note |
+|---|---|---|---|
+| **Madie** (Chief) | Brunette | Ponytail | Romanian, curvy, busty, pretty, captain |
+| Ace | Lilac (light purple) | Afro puffs | American, black |
+| Mariner | Violet (dark purple) | Pigtails (bunches) | Chinese |
+| Bubbels | Yellow | Double bun odango | Japanese |
+| Reaper | Mint (light green) | Chignon | Indian |
+| Rockhound | Forest (dark green) | Lob (long bob) | Russian |
+| Doc | Pink | Box braids | French, black |
+| Tink | Orange | Updo | German |
+| Sparky | Sky (light blue) | Hime cut | South Korean |
+| Pipey | Cobalt (dark blue) | Bob cut | Australian |
+
+ALL are young women. NO ages in prompts. NO one is a child, elderly, or male.
+
+The full description document is in the "Documents Fable Must Read" section below — attach it. 🔥
