@@ -8,8 +8,11 @@
 
 You produced TWO entities (#47 EVA Suit, #48 Alpha Bridge) that Nir HATES because they are STEAMPUNK RETRO SHIT instead of hard science fiction. Specifically:
 
+### ⛔ CRITICAL RULE: COPPER = SHIP HULL ONLY
+Copper is the ship's structural material (asteroid shield via eddy-current braking — REAL ENGINEERING). Copper is NOT a decorative material. Copper does NOT belong in: spacesuits, tools, furniture, clothing, dishes, handles, trim, accents, or ANYTHING that isn't literally part of the ship's pressure hull or structural frame. The ship's copper ribs may be exposed on interior walls — that's structural, fine. But if Fable writes "made of the ship's own copper alloy" for ANYTHING that isn't physically part of the hull, it's WRONG. A spacesuit is not made of copper. A chair is not made of copper. A table is not made of copper. This is engineering, not interior decorating.
+
 ### #47 — EVA Suit: What went wrong
-You made an ANCIENT DIVING SUIT. Leather patches, brass, hand-sewn repairs like a medieval craftsman, "1,200 years" of repairs like a Victorian heirloom. This is a spacesuit. It should look like a NASA EVA suit with 25 more years of engineering advancement — lightweight composite materials, smart fabrics, integrated HUD, modular tool attachments, modern life-support backpack, modern helmet with gold visor. NOT a steampunk diving suit.
+You made an ANCIENT DIVING SUIT with copper components — "made of the ship's own COPPER alloy." IDIOTIC. A spacesuit's hard components are made of lightweight advanced composites, NOT ship-hull copper. The suit is a completely separate piece of equipment designed for a specific purpose — keeping a human alive in vacuum. It has NOTHING to do with the ship's hull material. Stop connecting everything to copper.
 
 ### #48 — Alpha Bridge: What went wrong
 - A 19th-century SHIP'S WHEEL. What the fuck. The AI pilots the ship. There is no wooden wheel.
@@ -58,6 +61,8 @@ Key facts:
 
 ## 👩‍🚀 WHAT THE EVA SUIT SHOULD BE:
 
+**This is a SPACESUIT, not a diving suit, not a costume, not "made from the same material as the ship."**
+
 - NASA EMU (Extravehicular Mobility Unit) crossed with 25 more years of materials science
 - Hard upper torso: lightweight carbon composite or advanced alloy, off-white with mission patches
 - Soft lower torso and limbs: advanced multi-layer fabric (thermal, micrometeoroid, pressure bladder)
@@ -67,7 +72,8 @@ Key facts:
 - Modular tool attachment points on chest and thighs
 - Boots with magnetic soles
 - Safety tether reel at the hip
-- NO leather straps, NO hand-sewn patches, NO brass, NO steampunk, NO "heirloom" bullshit
+- ❌ NO COPPER. The suit is NOT made from ship hull material. That makes zero engineering sense. A spacesuit is a spacesuit — lightweight composites, advanced fabrics, NOT copper. Copper is for the ship's asteroid shield. The suit is a completely separate piece of equipment.
+- NO leather straps, NO hand-sewn patches, NO brass, NO steampunk, NO "heirloom" bullshit, NO "same material as the ship" nonsense
 - The suit DOES carry the ship's history: each woman's name is laser-etched on the chest plate alongside her mission patch. Simple, modern, clean.
 - The suit is REPAIRED — but with modern patch kits, heat-sealed fabric patches, neatly applied. Like you'd repair a real spacesuit on a real space station. Not a quilt.
 
