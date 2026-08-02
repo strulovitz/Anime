@@ -23,25 +23,7 @@ That's Scene 1 complete (audio ✅ + visual ✅). Say "next" and I'll give you S
 
 ---
 
-Favicon for anthropic
-Claude Fable 5
-
-With pleasure! :-)
-🎬 SCENE 2 — Awakening
-🎙️ AUDIO — Directed narration
-
-Director's intent: The most intimate scene of the opening act. We are inside the hushed cryo bay — frost, vapor, 1,200 years of silence just ending. The tone is tender and historic. And there's something special here: Madie's voice is narrating Madie's own awakening — so the words "daughter of Romania" should carry a quiet, personal pride. The last three words are the emotional landing — a whisper of triumph.
-
-[softly] Twelve hundred years. Empires rose and fell on the Earth they left behind... and the ten slept on, dreaming in the frost, while the ship's silent robots kept watch. [gentle wonder] Then, one morning older than any morning in history... the pods opened. [warmly] Madie woke first — commander, engineer... daughter of Romania. She had crossed more time than any human being who ever lived. [softly] Her first thought was not fear. [whispers] It was: we made it.
-
-What I did:
-
-    [softly] opening — continues the hush from Scene 1, we're in a sleeping cathedral of frost
-    Ellipsis before "the pods opened" — a held breath, then the moment of history
-    [warmly] + pause before "daughter of Romania" — the personal pride note ❤️
-    [whispers] on "It was: we made it." — the payoff line, spoken like a secret between her and the stars
-
-🎥 VISUAL — Ken Burns
+🎥 SCENE 2 — Awakening — Ken Burns
 
 Director's intent: We move gently toward Madie as she wakes — like leaning in closer to someone opening their eyes. The zoom lands on her face exactly as the narration lands on "we made it."
 Setting	Start of clip	End of clip
