@@ -36,3 +36,19 @@ Position	Centered — the whole cryo bay visible: Madie's pod, the row of glowin
     Why this motion: The narration travels from the vast (twelve hundred years, empires) to the intimate (her first thought). The camera makes the same journey: from the room... to her eyes. 🎯
 
 Say "next" for Scene 3 — The Ten (the warm family dinner — we finally get to smile!). :-)
+
+---
+
+🎥 SCENE 3 — The Ten — Ken Burns
+
+Director's intent: The narration walks along the table introducing each girl — so the camera does the same! A slow sideways pan across the faces, like a guest's gaze traveling down a family dinner table, ending on Madie at the center of attention.
+Setting	Start of clip	End of clip
+Scale (zoom)	112%	112% (no change — this scene is a pan, not a zoom)
+Position	Shifted so we see the left end of the table (the first girls of the roll-call)	Drift sideways to land centered on Madie with her steaming bowl of borscht
+
+    Motion in one sentence: Slow, steady pan across the table from one end to Madie at the center — matching the roll-call.
+    Duration: Across the entire narration (~35–40 seconds).
+    Beginner note (only new thing here): Because we zoomed to 112% at both keyframes, the image is slightly larger than the frame — that's what gives us "room" to slide sideways without showing black edges. Keep Scale identical at both keyframes; only change Position (drag it horizontally).
+    Why this motion: Names in the ear, faces in the eye — the pan and the roll-call move together, and both arrive at Madie. 🎯
+
+Say "next" for Scene 4 — First Footfall (the Armstrong moment on Proxima b!). :-)
