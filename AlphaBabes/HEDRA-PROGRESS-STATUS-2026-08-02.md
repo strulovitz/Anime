@@ -1,0 +1,45 @@
+# Hedra Lipsync Pipeline — Progress Status (2026-08-02 night)
+
+## HOW WE DO THIS (the workflow, locked):
+1. Nir generates an ElevenLabs narration segment MP3 for the current scene/segment number.
+2. Nir says "i saved it" or just pastes the raw downloaded filename from `~/Downloads/`.
+3. Sonnet finds it in `~/Downloads/`, confirms which Scene+Segment it is (asking Nir "This is Scene X Segment Y, right?" if not obvious from sequence), then:
+   - Copies it to `AlphaBabes/voice-samples/Fable-Pass-01-Scene-{NN}-{Scene-Title}-Segment-{NN}.mp3` in the repo
+   - Renames the original file in `~/Downloads/` to match the same convention (kept as local backup)
+   - `git add` + commit + push immediately
+4. Nir feeds that MP3 + a Madie emotion image into Hedra (via OpenArt) to generate a talking-head clip.
+5. Nir pastes the raw OpenArt-generated filename (e.g. `openart-XXXX....mp4`).
+6. Sonnet finds it in `~/Downloads/`, renames to `AlphaBabes/hedra-clips/Fable-Pass-01-Scene-{NN}-{Scene-Title}-Segment-{NN}.mp4`, copies to repo, renames Downloads copy too, commits + pushes.
+7. Repeat until Nir says a scene is complete (segment counts vary per scene — Nir tells us when the last one is done, e.g. "scene 6 only had 4 segments").
+8. NEVER assume scene/segment numbers — always confirm with Nir when starting a new scene. Within a scene, segments are assumed sequential unless Nir says otherwise.
+
+## PROGRESS SO FAR (as of tonight, 2026-08-02 ~23:00 Israel time):
+
+ALL PUSHED TO GITHUB, working tree clean, nothing pending.
+
+| Scene | Segments Done (MP3+MP4) | Status |
+|---|---|---|
+| 1 — The Alpha in the Void | 5 / 5 | ✅ COMPLETE |
+| 2 — Awakening | 5 / 5 | ✅ COMPLETE |
+| 3 — The Ten | 5 / 5 | ✅ COMPLETE |
+| 4 — First Footfall | 5 / 5 | ✅ COMPLETE |
+| 5 — First Life | 5 / 5 | ✅ COMPLETE |
+| 6 — The Whale of Ross 128b | 4 / 4 | ✅ COMPLETE (this scene only has 4 segments) |
+| 7 — The Call of Ziran | 2 / ? | 🔶 IN PROGRESS (stopped after Segment 2 — number of total segments for this scene not yet known, ask Nir/Fable) |
+| 8-27 | 0 | ⬜ NOT STARTED |
+
+Total Hedra clips made so far: 31 (across scenes 1-7)
+
+## WHAT'S LEFT TO DO:
+1. Finish Scene 7 (The Call of Ziran) — continue from Segment 3 onward, confirm with Nir when it's the last segment.
+2. Do Scenes 8 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-5, always confirmed by Nir).
+3. Once ALL scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
+4. Separately (paused, low priority, per Nir's explicit "stop" from earlier tonight): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
+5. Long-standing pending items (not urgent): entity images #60-116 on hold, ComfyUI/WAN2.2/Windows software setup, Mazes & Mages songs.
+
+## BOOT SEQUENCE FOR TOMORROW:
+1. Read AGENTS.md (full context, rules, this session's summary)
+2. `git -C /home/nir/Anime pull`
+3. Greet Nir simply, confirm: Scenes 1-6 complete, Scene 7 has 2/? segments done, waiting on Segment 3 MP3.
+4. Continue the exact workflow above — find file in `~/Downloads/`, confirm scene/segment with Nir, rename+copy+push for both MP3 and MP4 steps.
+5. Do NOT restart the crying/rage tag-fix work unless Nir explicitly asks.
