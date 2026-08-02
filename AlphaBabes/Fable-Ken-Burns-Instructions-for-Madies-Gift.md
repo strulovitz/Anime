@@ -1,3 +1,13 @@
+⚠️ OBSOLETE / HISTORICAL ONLY (2026-08-02) — Ken Burns was CANCELLED. See
+AlphaBabes/Fable-Ken-Burns-Cancelled-PowerPoint-Decision-2026-08-02.md for
+why (square 1024x1024 images + Ken Burns = cropping/pixelation problems).
+We are now doing a PowerPoint slideshow instead: square slides, whole image
+visible, one narration MP3 per slide, fade transitions, export to MP4.
+This file is kept only as a record of what was tried and rejected — do NOT
+add more scenes to it, do NOT follow these instructions.
+
+---
+
 Favicon for anthropic
 Claude Fable 5
 
