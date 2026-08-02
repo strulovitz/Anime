@@ -133,6 +133,73 @@ physical printed copy. The work is organized in homogeneous passes
 (about 25 keystone scenes, then about 100, then about 300) so that at ANY
 cutoff point the gift is complete and watchable — this property is sacred.
 
+--- CLAUDE SONNET 5 ADDITION BEGIN (2026-08-02) ---
+
+This paragraph does NOT delete or override the "THE CURRENT DELIVERABLE"
+paragraph above — it records how the plan evolved after it was written.
+
+UPDATE 1 (locked 2026-08-02): Ken Burns pan/zoom is CANCELLED. Reason:
+scene images are 1024x1024 SQUARE (GPT 5.4 Image 2 always exports square),
+and zooming/panning a square image in a 16:9 Premiere frame either crops
+carefully-composed shots or stretches/pixelates them on modern screens.
+Full reasoning saved at AlphaBabes/Fable-Ken-Burns-Cancelled-PowerPoint-
+Decision-2026-08-02.md.
+
+UPDATE 2 (locked 2026-08-02) — Madie's on-screen presence via Hedra
+LipSync: instead of Ken Burns OR the plain PowerPoint-slideshow fallback,
+Nir is buying credits on OpenArt to use Hedra (image + audio → talking
+head video). The new workflow, per scene:
+  1. Fable splits that scene's narration into ~3-5 short segments, never
+     cutting an emotion in the middle of a sentence.
+  2. Each segment becomes its own ElevenLabs generation → its own MP3.
+  3. For each segment Fable picks the single best-fitting emotion from
+     Madie's 33 reference emotion images (list + folder:
+     AlphaBabes/Madie-Emotions-List-2026-08-02.md /
+     AlphaBabes/images/madie-emotions/).
+  4. Nir feeds Hedra that emotion image + that segment's MP3 → one small
+     talking-head MP4 clip of Madie.
+  5. In Premiere: the full scene illustration is the full-screen
+     background. Madie's small talking clip sits scaled down (~35-40%)
+     in the BOTTOM-LEFT corner for roughly the first half of the
+     segments, then "jumps" to the BOTTOM-RIGHT corner for the rest
+     (split only ever falls between segments, never mid-segment).
+  6. Roughly 3-5 small MP4s per scene x 27 scenes (~135 clips total for
+     Pass 1).
+
+BLACK BACKGROUND DECISION: the 33 emotion images all have black
+backgrounds, and Hedra/MP4 cannot output real transparency. Chroma/Luma
+keying was considered and REJECTED (Madie's dark brown hair would get
+eaten by a black-level key, and fixing ~135 clips by hand is not worth the
+risk before the deadline). FINAL DECISION: keep the black background and
+make it intentional — Madie's clip becomes a small rectangular "captain's
+log / comm-screen transmission" window over the scene, which fits the
+hard-sci-fi tone of the whole show. Optional polish: a thin Color Matte
+border behind her clip in Premiere for a deliberate hologram-screen look.
+
+OTHER LOCKED DECISIONS FROM THIS PLANNING SESSION:
+  - When Madie's clip is placed in the bottom-RIGHT corner, flip it
+    horizontally (Premiere's Horizontal Flip) so her gaze still points
+    INTO the scene instead of out of the frame — test on one clip first
+    in case her chest name tag becomes distractingly mirrored.
+  - Safety net (protects the sacred "complete at any cutoff" rule): the
+    original single full-scene MP3 narration (already saved per scene in
+    AlphaBabes/narration/) is kept as a fallback. Any scene that doesn't
+    get its Hedra treatment finished in time simply plays with the plain
+    full narration and no on-screen Madie — the gift stays complete and
+    watchable at any cutoff point.
+  - Use one consistent Scale/Position setting for every Madie clip in
+    Premiere (set once, copy the effect's attributes to the rest) so all
+    ~135 clips look uniform.
+  - The 3 body-angle reference images (front/back/right-side) are kept
+    separate from the 33 emotion images and are NOT part of this
+    Hedra workflow: AlphaBabes/images/madie-body-angles/.
+
+This is Fable's plan, confirmed by Nir, executed scene-by-scene going
+forward. Scene 1 was already broken into 5 segments (Calmness, Interest,
+Neutral, Love, Awe) as the first worked example.
+
+--- CLAUDE SONNET 5 ADDITION END ---
+
 ## PART 3 — SERIES 2: COSMIC CHRYSALIS
 
 Hard science fiction anime. On Earth, a rogue AI is about to cause human
