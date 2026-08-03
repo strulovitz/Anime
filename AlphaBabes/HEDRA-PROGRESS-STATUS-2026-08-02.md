@@ -25,14 +25,13 @@ ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 | 4 — First Footfall | 5 / 5 | ✅ COMPLETE |
 | 5 — First Life | 5 / 5 | ✅ COMPLETE |
 | 6 — The Whale of Ross 128b | 4 / 4 | ✅ COMPLETE (this scene only has 4 segments) |
-| 7 — The Call of Ziran | 2 / ? | 🔶 IN PROGRESS (stopped after Segment 2 — number of total segments for this scene not yet known, ask Nir/Fable) |
+| 7 — The Call of Ziran | 5 / 5 | ✅ COMPLETE |
 | 8-27 | 0 | ⬜ NOT STARTED |
 
-Total Hedra clips made so far: 31 (across scenes 1-7)
+Total Hedra clips made so far: 36 (across scenes 1-7, ALL COMPLETE)
 
 ## WHAT'S LEFT TO DO:
-1. Finish Scene 7 (The Call of Ziran) — continue from Segment 3 onward, confirm with Nir when it's the last segment.
-2. Do Scenes 8 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-5, always confirmed by Nir).
+1. Do Scenes 8 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-5, always confirmed by Nir).
 3. Once ALL scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
 4. Separately (paused, low priority, per Nir's explicit "stop" from earlier tonight): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
 5. Long-standing pending items (not urgent): entity images #60-116 on hold, ComfyUI/WAN2.2/Windows software setup, Mazes & Mages songs.
