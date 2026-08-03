@@ -124,6 +124,21 @@ MCP (Model Context Protocol, the ahujasid/blender-mcp integration) to
 solve the geometry exactly, then applies AI image generation on top for
 final art style. Physics first, beauty second.
 
+===== ADDITION BY CLAUDE FABLE BEGINS HERE — mirror drone engineering, Season 3 laser chess (2026-08-03) =====
+CANON ADDITION from Fable — mirror drone engineering (Season 3, laser chess):
+The mirror drones' discs are NOT metal mirrors. Metal absorbs ~1-5% of beam
+energy and would vaporize under a weapons-grade laser. Canon: stiff silicon
+carbide substrate discs with dielectric coatings — stacked ceramic layers
+(sub-wavelength thickness) reflecting >99.99% of incident light. Historical
+anchor (real): the 1990 US Air Force Relay Mirror Experiment (RME) bounced
+a ground laser off an orbiting mirror to a target hundreds of km away,
+proving beam-relay combat geometry. Laser-chess doctrine is a mature,
+galaxy-wide standard: all fleets pre-seed battlespaces with mirror-drone
+lattices; tactics include pawn-sacrifice mirrors, decoy discs, dark drifting
+"killer" mirrors, and multi-bounce firing solutions computed several
+reflections deep.
+===== ADDITION BY CLAUDE FABLE ENDS HERE =====
+
 THE CURRENT DELIVERABLE (the gift): NOT a video. An ILLUSTRATED, NARRATED
 SAGA — still images plus narration audio: "the book of the movie that
 doesn't exist yet." Assembled in Adobe Premiere with Ken Burns pan/zoom,
