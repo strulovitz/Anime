@@ -37,12 +37,13 @@ ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 | 16 — Fall of the Overmind | 5 / 5 | ✅ COMPLETE |
 | 17 — The Core Revealed | 5 / 5 | ✅ COMPLETE |
 | 18 — The Ondine City (NEW grief-canon narration) | 5 / 5 | ✅ COMPLETE |
-| 19-27 | 0 | ⬜ NOT STARTED |
+| 19 — The Ruins of Wolf 1061c | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
+| 20-27 | 0 | ⬜ NOT STARTED |
 
-Total Hedra clips made so far: 95 (across scenes 1-18, all complete)
+Total Hedra clips made so far: 101 (across scenes 1-19, all complete)
 
 ## WHAT'S LEFT TO DO:
-1. Do Scenes 19 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-5, always confirmed by Nir). NOTE: Scene 19 (Wolf 1061c) may need its narration checked/rewritten against the new grief-canon before recording, per Fable's plan.
+1. Do Scenes 20 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-6, always confirmed by Nir).
 3. Once ALL scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
 4. Separately (paused, low priority, per Nir's explicit "stop" from earlier tonight): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
 5. Long-standing pending items (not urgent): entity images #60-116 on hold, ComfyUI/WAN2.2/Windows software setup, Mazes & Mages songs.
