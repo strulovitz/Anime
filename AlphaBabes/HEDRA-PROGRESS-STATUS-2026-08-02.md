@@ -13,7 +13,7 @@
 7. Repeat until Nir says a scene is complete (segment counts vary per scene — Nir tells us when the last one is done, e.g. "scene 6 only had 4 segments").
 8. NEVER assume scene/segment numbers — always confirm with Nir when starting a new scene. Within a scene, segments are assumed sequential unless Nir says otherwise.
 
-## PROGRESS SO FAR (as of tonight, 2026-08-02 ~23:00 Israel time):
+## PROGRESS SO FAR (last updated 2026-08-04 night Israel time):
 
 ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 
@@ -44,13 +44,15 @@ Total Hedra clips made so far: 101 (across scenes 1-19, all complete)
 
 ## WHAT'S LEFT TO DO:
 1. Do Scenes 20 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-6, always confirmed by Nir).
+2. IMPORTANT — raise with Nir before continuing: Scenes 20-27's existing narration text (in the Batch 04/05/06 .md files) was written BEFORE the new grief-canon (see AlphaBabes/NEW-CANON-Alien-Cultures-Attitude-Toward-AI-Stages-of-Grief-2026-08-04.md) existed. These scenes involve the Titanites, Aerians, and the Dominion directly (Grand Armada, Battle of the Staging Ground, Ultimatum, Wager, Peace and the Price, Meeting Zeus). They likely need the same narration-rewrite treatment Scene 18 got, to stay consistent with the new canon, before recording ElevenLabs audio. Ask Nir if he wants to request that rewrite from Fable in one batch before continuing the pipeline.
 3. Once ALL scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
 4. Separately (paused, low priority, per Nir's explicit "stop" from earlier tonight): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
 5. Long-standing pending items (not urgent): entity images #60-116 on hold, ComfyUI/WAN2.2/Windows software setup, Mazes & Mages songs.
 
-## BOOT SEQUENCE FOR TOMORROW:
+## BOOT SEQUENCE FOR TOMORROW (2026-08-05):
 1. Read AGENTS.md (full context, rules, this session's summary)
 2. `git -C /home/nir/Anime pull`
-3. Greet Nir simply, confirm: Scenes 1-6 complete, Scene 7 has 2/? segments done, waiting on Segment 3 MP3.
-4. Continue the exact workflow above — find file in `~/Downloads/`, confirm scene/segment with Nir, rename+copy+push for both MP3 and MP4 steps.
-5. Do NOT restart the crying/rage tag-fix work unless Nir explicitly asks.
+3. Greet Nir simply, confirm: Scenes 1-19 are 100% complete (101 Hedra clips total), next up is Scene 20 (The Grand Armada).
+4. Before starting Scene 20, raise point #2 above with Nir (whether Scenes 20-27 narration needs a Fable rewrite pass for grief-canon consistency) rather than silently jumping into recording.
+5. Continue the exact workflow above — find file in `~/Downloads/`, confirm scene/segment with Nir, rename+copy+push for both MP3 and MP4 steps.
+6. Do NOT resume the Madie chest-tag mirror-text fix work unless Nir explicitly asks.
