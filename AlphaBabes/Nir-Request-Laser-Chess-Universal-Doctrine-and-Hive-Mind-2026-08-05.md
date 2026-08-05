@@ -96,4 +96,30 @@ Small canon note you (Fable) attached at the time:
    - The hive is not as powerful as Medusa overall — Medusa is still stronger and still wins any direct confrontation — but the hive is powerful enough to "give Medusa a run for her money," which is the whole point: clever distributed architecture partially compensating for a raw power deficit.
 7. Please make sure any rewrite of Scenes 20-22 (and touch on Scene 14 if useful, to set up the payoff) is internally consistent with everything above and does not reintroduce or contradict the tungsten-rod framing.
 
+---
+
+## NIR'S FOLLOW-UP ADDITION (VERBATIM — sent immediately after the above, CRITICAL, please read carefully)
+
+> and please add that during the simulation training each time one small AI gets an "epiphany" / serendipity of a move 37 like winning move , they stop everything , and analyze all the exact weights etc in the brain of that small AI , and they reproduce and evolve (like evolution) that smartness across their whole fleet. which for example cannot be done when it is not HIVE , because if Medusa would STOP her whole system it is much more complicated, here they only need to FREEZE that one specific chain of that lucky worker-bee and the "queen above it" . and also please add very very important, that the hive works in HIRARCHY , like the queen at the very top of the pyramid is the Alpha , but like below her , her own "workers" are actually smaller queens , that split their tasks to even smaller queens etc until the lower queens have actual workers that do the thinking/calculations , and then they pass up the chain the tiny results and combine them in each stap of the heirarchy , up the chain of higher and higher queens until the alpha. the basic building block of the hive, is building a whole pyramid of such blocks . just like the commander in chief of the whole army split the big task to generals , and the generals split the taks to their colonels , and the colonels split their task to their commanders , and only the commanders (lowest queens ) actually talk to soldiers (worker-bees) who do the actual work . and then they report back up the chain of command . so the HIVE is exactly like this but with local AI's . please save VERBATIM and write to Fable VERBATIM . this is very important . thank you so much!!! :-)
+
+### Summary of this follow-up, for clarity (in addition to the verbatim quote above):
+
+8. **New canon: "Epiphany capture and evolution."** Whenever one small local AI, during self-play simulation training, discovers a "Move 37"-style epiphany/serendipitous winning move, the fleet does NOT need to halt everything to study it. Instead:
+   - They **FREEZE only that one specific chain**: the exact lucky worker-bee AI that had the epiphany, PLUS the one "queen" directly above it in the hierarchy that was coordinating it.
+   - They analyze the exact internal weights/parameters of that one small AI's "brain" to understand precisely what produced the breakthrough.
+   - They then **reproduce and evolve that smartness across the rest of the fleet** (like biological evolution/selective breeding of the winning trait), propagating the improvement outward without disrupting the rest of the hive's ongoing work.
+   - **Explicit contrast with Medusa:** this kind of targeted freeze-and-propagate is only possible BECAUSE the system is a hive of many small independent AIs. If Medusa (a single giant unified system) wanted to do the equivalent, she would have to halt/interrupt her ENTIRE system — a much more complicated and costly operation — because she has no small independent "chain" to isolate. The hive's modularity is a structural advantage Medusa's monolithic architecture cannot easily replicate.
+
+9. **New canon: the hive is a strict, deep HIERARCHY — not a flat structure.** This is very important to get right:
+   - The Alpha (the crew's own ship computer) is the single Queen at the very top of the pyramid.
+   - Directly below the Alpha, her immediate "workers" are not simple calculators — they are themselves **smaller queens**, each of whom further splits her assigned task down to even smaller queens beneath her.
+   - This splitting continues down multiple levels until you reach the bottom of the pyramid, where the lowest-level "queens" are the only ones who actually delegate to true **workers** — the AIs that perform the actual raw thinking/calculation (e.g., evaluating one specific mirror-drone move).
+   - Results then flow back UP the chain: each level's queen collects and combines the small results reported up from her own workers/sub-queens, produces her own combined "champion" answer, and passes that single combined answer up to the next queen above her — repeating at every level of the hierarchy, all the way up to the Alpha at the top.
+   - **The explicit military analogy Nir gave:** this is structured exactly like a chain of command in an army — the commander-in-chief (Alpha) splits the big task among generals; the generals split their tasks among colonels; the colonels split their tasks among commanders; and only the lowest-level commanders actually talk directly to the soldiers (the true worker-bees) who do the actual hands-on work. Results are then reported back up the same chain of command, level by level, until they reach the top.
+   - The basic building block of the hive is this queen/worker split — and the whole hive is built by **stacking that same basic building block into a repeating pyramid**, many levels deep, not just one queen with flat worker-bees underneath her.
+
+Please incorporate points 8 and 9 into the canon with the same care as everything above, and make sure they don't contradict each other or anything already established. Thank you, Fable! 🙏
+
+---
+
 Thank you, Fable! 🙏 Please write back with your rewritten canon/scenes for Nir's review.
