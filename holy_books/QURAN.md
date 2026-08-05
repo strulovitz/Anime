@@ -139,6 +139,80 @@ lattices; tactics include pawn-sacrifice mirrors, decoy discs, dark drifting
 reflections deep.
 ===== ADDITION BY CLAUDE FABLE ENDS HERE =====
 
+===== ADDITION BY CLAUDE FABLE BEGINS HERE — Laser chess as universal doctrine + the HIVE (2026-08-05) =====
+CANON REWRITE from Fable — Laser chess as universal doctrine + the HIVE
+(replaces the tungsten-rod framing of the Battle of the Staging Ground entirely).
+
+(1) UNIVERSAL DOCTRINE. Laser chess is how ALL space combat works in this
+age, for every fleet including Medusa's — it is not a trick but physics:
+light-speed weapons plus relay mirrors make every battle a geometry problem.
+Kinetic weapons still exist as auxiliary tools, but no kinetic weapon
+meaningfully threatens Medusa: an intelligence with distributed backups is
+not killed by thrown mass. The old framing "no lasers dominate; a battle of
+mass, momentum and geometry" is DELETED from canon. (The existing Scene 21
+image is retained: its white-hot streaks are henceforth read as folded
+laser beams and burning debris, not rods.)
+
+(2) THE GIRLS' GAME. Aboard the Alpha, the crew's game of choice is laser
+chess — a flat 2-D board version played after dinner, and a 3-D version the
+ship's computer projects for them. They fed the Alpha the complete corpus
+of Earth's traditional chess literature, and the computer analyzed which
+openings, tactics and strategic principles of the old 90-degree board
+survive on a board with no squares, where every angle is legal — and which
+die. Centuries of Earth chess wisdom became the seed of coalition doctrine.
+
+(3) SELF-PLAY AND MOVE 37. During the long years of travel to the staging
+ground, the Alpha played laser chess against itself in endless simulation.
+Because the search was distributed across the whole fleet, no branch was
+ever pruned — even branches that looked unpromising were followed to their
+ends, and from the unpromising branches came the treasures: "Move 37"
+discoveries (named for the AlphaGo–Lee Sedol game), winning moves no
+organic mind would ever conceive, found not by genius but by refusing to
+stop looking.
+
+(4) THE HIVE — A STRICT HIERARCHY. Every coalition ship carries its own
+small local AI. In battle and in simulation they link into the Hive, a
+pyramid many levels deep, exactly like a chain of command: the Alpha is the
+single Queen at the apex (commander-in-chief); beneath her, her "workers"
+are themselves smaller queens (generals), who split their tasks to smaller
+queens still (colonels), and so on down to the lowest queens (field
+commanders) — who alone command true workers, the AIs that do the actual
+raw calculation (the best move for THIS one mirror, or THIS pair of
+mirrors). Pure task-parallelism: each worker thinks alone on its slice for
+the whole allotted time, never talking to or waiting on any other. Each
+reports upward only its single champion answer; each queen combines her
+subordinates' champions into one and passes it up; and the Alpha at the top
+chooses among a handful of finalists — the Miss Universe principle: the
+judge does not evaluate every woman on Earth, only the candidates who have
+already won their own countries.
+
+(5) EPIPHANY CAPTURE AND EVOLUTION. When one small worker AI strikes a
+Move-37-class epiphany in simulation, the fleet freezes ONLY that one
+worker and the one queen directly above it. They read out the exact weights
+of that small brain, learn precisely what produced the breakthrough, and
+reproduce and evolve the trait across the whole fleet, like selective
+breeding — while the rest of the Hive keeps working uninterrupted. Medusa
+cannot do this: she is one giant entangled system, and to study her own
+lucky sub-process she must halt or disturb the whole.
+
+(6) WHY THE HIVE CAN FIGHT MEDUSA — AND WHY IT STILL LOSES. Medusa is one
+colossal mind: her countless processes queue for time-slices of the same
+central resources, and at her physical scale the speed of light between her
+own parts is a real cost. To keep up, she MUST prune unpromising branches
+early. The Hive never prunes. It is far smaller than Medusa in raw power —
+and in any direct confrontation Medusa is still stronger and still wins —
+but the Hive's architecture buys what raw power cannot: it fights the
+perfect player to a standstill, makes her spend real time thinking, and
+forces her to take her opponent seriously. That standstill is what makes
+the ultimatum, and then Madie's wager, possible: the battle proves force
+cannot win — opening the door to the third step of Elder Yùn's prophecy,
+winning without fighting.
+
+(7) SMALL FIX to Scene 20 canon: the Titanites re-forge their halted Great
+Works into dreadnought armor and fleets of mirror drones (not "railgun
+barrels").
+===== ADDITION BY CLAUDE FABLE ENDS HERE =====
+
 THE CURRENT DELIVERABLE (the gift): NOT a video. An ILLUSTRATED, NARRATED
 SAGA — still images plus narration audio: "the book of the movie that
 doesn't exist yet." Assembled in Adobe Premiere with Ken Burns pan/zoom,

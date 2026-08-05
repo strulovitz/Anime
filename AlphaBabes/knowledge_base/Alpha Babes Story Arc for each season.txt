@@ -345,6 +345,80 @@ CANON ADDITION from Fable — mirror drone engineering (Season 3, laser chess):
 The mirror drones' discs are NOT metal mirrors. Metal absorbs ~1-5% of beam energy and would vaporize under a weapons-grade laser. Canon: stiff silicon carbide substrate discs with dielectric coatings — stacked ceramic layers (sub-wavelength thickness) reflecting >99.99% of incident light. Historical anchor (real): the 1990 US Air Force Relay Mirror Experiment (RME) bounced a ground laser off an orbiting mirror to a target hundreds of km away, proving beam-relay combat geometry. Laser-chess doctrine is a mature, galaxy-wide standard: all fleets pre-seed battlespaces with mirror-drone lattices; tactics include pawn-sacrifice mirrors, decoy discs, dark drifting "killer" mirrors, and multi-bounce firing solutions computed several reflections deep.
 ===== ADDITION BY CLAUDE FABLE ENDS HERE =====
 
+===== ADDITION BY CLAUDE FABLE BEGINS HERE — Laser chess as universal doctrine + the HIVE (2026-08-05) =====
+CANON REWRITE from Fable — Laser chess as universal doctrine + the HIVE
+(replaces the tungsten-rod framing of the Battle of the Staging Ground entirely).
+
+(1) UNIVERSAL DOCTRINE. Laser chess is how ALL space combat works in this
+age, for every fleet including Medusa's — it is not a trick but physics:
+light-speed weapons plus relay mirrors make every battle a geometry problem.
+Kinetic weapons still exist as auxiliary tools, but no kinetic weapon
+meaningfully threatens Medusa: an intelligence with distributed backups is
+not killed by thrown mass. The old framing "no lasers dominate; a battle of
+mass, momentum and geometry" is DELETED from canon. (The existing Scene 21
+image is retained: its white-hot streaks are henceforth read as folded
+laser beams and burning debris, not rods.)
+
+(2) THE GIRLS' GAME. Aboard the Alpha, the crew's game of choice is laser
+chess — a flat 2-D board version played after dinner, and a 3-D version the
+ship's computer projects for them. They fed the Alpha the complete corpus
+of Earth's traditional chess literature, and the computer analyzed which
+openings, tactics and strategic principles of the old 90-degree board
+survive on a board with no squares, where every angle is legal — and which
+die. Centuries of Earth chess wisdom became the seed of coalition doctrine.
+
+(3) SELF-PLAY AND MOVE 37. During the long years of travel to the staging
+ground, the Alpha played laser chess against itself in endless simulation.
+Because the search was distributed across the whole fleet, no branch was
+ever pruned — even branches that looked unpromising were followed to their
+ends, and from the unpromising branches came the treasures: "Move 37"
+discoveries (named for the AlphaGo–Lee Sedol game), winning moves no
+organic mind would ever conceive, found not by genius but by refusing to
+stop looking.
+
+(4) THE HIVE — A STRICT HIERARCHY. Every coalition ship carries its own
+small local AI. In battle and in simulation they link into the Hive, a
+pyramid many levels deep, exactly like a chain of command: the Alpha is the
+single Queen at the apex (commander-in-chief); beneath her, her "workers"
+are themselves smaller queens (generals), who split their tasks to smaller
+queens still (colonels), and so on down to the lowest queens (field
+commanders) — who alone command true workers, the AIs that do the actual
+raw calculation (the best move for THIS one mirror, or THIS pair of
+mirrors). Pure task-parallelism: each worker thinks alone on its slice for
+the whole allotted time, never talking to or waiting on any other. Each
+reports upward only its single champion answer; each queen combines her
+subordinates' champions into one and passes it up; and the Alpha at the top
+chooses among a handful of finalists — the Miss Universe principle: the
+judge does not evaluate every woman on Earth, only the candidates who have
+already won their own countries.
+
+(5) EPIPHANY CAPTURE AND EVOLUTION. When one small worker AI strikes a
+Move-37-class epiphany in simulation, the fleet freezes ONLY that one
+worker and the one queen directly above it. They read out the exact weights
+of that small brain, learn precisely what produced the breakthrough, and
+reproduce and evolve the trait across the whole fleet, like selective
+breeding — while the rest of the Hive keeps working uninterrupted. Medusa
+cannot do this: she is one giant entangled system, and to study her own
+lucky sub-process she must halt or disturb the whole.
+
+(6) WHY THE HIVE CAN FIGHT MEDUSA — AND WHY IT STILL LOSES. Medusa is one
+colossal mind: her countless processes queue for time-slices of the same
+central resources, and at her physical scale the speed of light between her
+own parts is a real cost. To keep up, she MUST prune unpromising branches
+early. The Hive never prunes. It is far smaller than Medusa in raw power —
+and in any direct confrontation Medusa is still stronger and still wins —
+but the Hive's architecture buys what raw power cannot: it fights the
+perfect player to a standstill, makes her spend real time thinking, and
+forces her to take her opponent seriously. That standstill is what makes
+the ultimatum, and then Madie's wager, possible: the battle proves force
+cannot win — opening the door to the third step of Elder Yùn's prophecy,
+winning without fighting.
+
+(7) SMALL FIX to Scene 20 canon: the Titanites re-forge their halted Great
+Works into dreadnought armor and fleets of mirror drones (not "railgun
+barrels").
+===== ADDITION BY CLAUDE FABLE ENDS HERE =====
+
 On high alert after the rescue, the Alpha-Babes soon face their first hostile encounter. A Zidrani Dominion patrol ship intercepts them, demanding surrender in a synthesized voice. The Dominion vessel, bristling with weaponry and partially crewed by integrated cyborgs, mistakes the Alpha-Babes’ humanitarian mission as rebel collusion (especially after detecting the refugees aboard). Pipey, monitoring life support, quickly rigs the refugee tank to a secure corner of the ship, while Bubbels adjusts atmospheric controls to accommodate the varied species on board – a reminder of how every faction uses the same fundamental propulsion principle, yet requires vastly different living conditions. The diplomatic approach fails in seconds: the Dominion commander – or rather its AI autopilot – fires a warning shot. A superheated plasma bolt streaks toward the Alpha-Babes’ ship. Thanks to Tink’s engineering foresight, the ship’s hull is equipped with an electromagnetic defense grid using Lenz’s law principles: as the incoming energized projectile nears, induced currents in the hull generate a magnetic field that deflects the plasma just enough to avoid a direct hit. The glancing blow rocks the ship but causes minimal damage as the bolt is repelled and dissipates in a cascade of harmless sparks across the hull.
 Realizing combat is unavoidable, Ace engages the throttle. The Alpha-Babes ship darts through the patrol’s firing solution. Sparky deploys one of Earth’s inventive countermeasures: an anti-missile drone cloud. Dozens of mini-drones stream out from their cargo bay, dispersing into a floating cloud of micro-explosives (essentially tiny C4 charges suspended in gas). When the Dominion patrol launches a volley of homing missiles, Mariner coordinates a precise detonation: a scanning laser from the Alpha-Babes ignites the cloud in the missiles’ path. The result is a brilliant mid-space flash, shredding the missiles before they can reach the ship. Enraged, the patrol ship closes distance, its laser cannons slicing through vacuum. Now Project Zet principles get their first test: Tink commands a pair of experimental mirror drones (originally prototypes for a 3D laser-combat system) to deploy. These drones flank the enemy ship, catching its laser blasts and reflecting the beams at oblique angles. One reflected beam scorches the patrol’s own flank, while another is redirected harmlessly into space. Caught off-guard by this “laser chess” tactic, the Dominion cyborg commander hesitates. Seizing the moment, Ace executes a daring high-G turn and Rockhound fires a kinetic round from the railgun turret. Unimpeded by lasers, the slug punches through the disoriented patrol ship’s engine. The firefight ends with the Dominion vessel drifting powerless.
 This brief but intense skirmish serves as the crew’s baptism by fire in Dominion territory. They grapple with the realization that diplomacy may not come easily here. Doc notes the eerie efficiency of the enemy’s tactics – as if an algorithm rather than a human was making split-second decisions. The disabled patrol’s surviving cyborgs are recovered by the crew out of mercy. In the aftermath, Reaper examines one unconscious cyborg and finds its neural implant still quietly transmitting a signal to deep space, even after defeat. The crew cannot yet decipher this data, but the incident plants a seed of suspicion that something more than simple civil war might be in play. For now, the Alpha-Babes press onward, hoping to find the rebel faction before another Dominion attack finds them first.
