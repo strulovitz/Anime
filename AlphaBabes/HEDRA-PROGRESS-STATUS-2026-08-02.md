@@ -38,9 +38,10 @@ ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 | 17 — The Core Revealed | 5 / 5 | ✅ COMPLETE |
 | 18 — The Ondine City (NEW grief-canon narration) | 5 / 5 | ✅ COMPLETE |
 | 19 — The Ruins of Wolf 1061c | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
-| 20-27 | 0 | ⬜ NOT STARTED |
+| 20 — The Grand Armada | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
+| 21-27 | 0 | ⬜ NOT STARTED |
 
-Total Hedra clips made so far: 101 (across scenes 1-19, all complete)
+Total Hedra clips made so far: 113 (across scenes 1-20, all complete)
 
 ## WHAT'S LEFT TO DO:
 1. Do Scenes 20 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-6, always confirmed by Nir).
