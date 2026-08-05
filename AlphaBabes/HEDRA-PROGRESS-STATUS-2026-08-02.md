@@ -42,21 +42,25 @@ ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 | 21 — The Battle of the Staging Ground | 7 / 7 | ✅ COMPLETE (this scene had 7 segments) |
 | 22 — The Ultimatum (FINAL rewrite: ship-AI surrender ultimatum, Corbomite Maneuver, Pascal's Wager) | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
 | 23 — The Wager (FINAL rewrite: Pascal's Wager reasoned aloud by Medusa) | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
-| 24-27 | 0 | ⬜ NOT STARTED |
+| 24 — Peace and the Price | 0 / 5 | ⬜ NOT STARTED (5 segments, script final) |
+| 25 — Meeting Zeus | 0 / 8 | ⬜ NOT STARTED (EXPANDED to 8 segments 2026-08-05 night — Flatland 4D explanation + much more emotional Zeus speech; script final, see Fable-Pass-01-Scenes-25-26-27-FINAL-EXPANDED-2026-08-05.md) |
+| 26 — Paradise | 0 / 8 | ⬜ NOT STARTED (EXPANDED to 8 segments 2026-08-05 night — added Gödel Closed Timelike Curves / parallel universe physics; script final, see same file above) |
+| 27 — Epilogue & Dedication | 0 / ? | ⬜ NOT STARTED — IMPORTANT: do NOT use Fable's old generic "Optional Segment 6" dedication. Use Nir's REAL personal dedication verbatim (AlphaBabes/THE-DEDICATION-FINAL-2026-08-01.md). Fable gave 3 presentation options in Fable-Pass-01-Scenes-25-26-27-FINAL-EXPANDED-2026-08-05.md: (1) RECOMMENDED — Nir records his own real voice reading the letter over the final image; (2) silent text card with music; (3) Madie's AI voice reads it, split into 3 parts (A/B/C) with emotion images Love/Hope/Crying. Nir needs to decide which option before recording Scene 27. The other segments of Scene 27 (1-5, the tree/salute/wink/"Then let's fly") are unchanged from Fable-Pass-01-Scene-27-FINAL-Epilogue-and-Dedication-2026-08-05.md.
 
 Total Hedra clips made so far: 132 (across scenes 1-23, all complete)
 
 ## WHAT'S LEFT TO DO:
-1. Do Scenes 20 through 27 the same way, segment by segment (segment counts vary per scene, typically 4-6, always confirmed by Nir).
-2. IMPORTANT — raise with Nir before continuing: Scenes 20-27's existing narration text (in the Batch 04/05/06 .md files) was written BEFORE the new grief-canon (see AlphaBabes/NEW-CANON-Alien-Cultures-Attitude-Toward-AI-Stages-of-Grief-2026-08-04.md) existed. These scenes involve the Titanites, Aerians, and the Dominion directly (Grand Armada, Battle of the Staging Ground, Ultimatum, Wager, Peace and the Price, Meeting Zeus). They likely need the same narration-rewrite treatment Scene 18 got, to stay consistent with the new canon, before recording ElevenLabs audio. Ask Nir if he wants to request that rewrite from Fable in one batch before continuing the pipeline.
-3. Once ALL scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
-4. Separately (paused, low priority, per Nir's explicit "stop" from earlier tonight): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
+1. Record Scenes 24, 25, 26, 27 the same way, segment by segment. IMPORTANT: Scene 25 is now 8 segments and Scene 26 is now 8 segments (both expanded 2026-08-05 night) — use Fable-Pass-01-Scenes-25-26-27-FINAL-EXPANDED-2026-08-05.md as the script source, NOT the earlier 6-segment versions. Scene 24 is 5 segments (Fable-Pass-01-Scene-24-FINAL-Peace-and-the-Price-2026-08-05.md). Scene 27's first 5 segments are in Fable-Pass-01-Scene-27-FINAL-Epilogue-and-Dedication-2026-08-05.md — but its dedication segment(s) must use Nir's real letter (see point 2 below), NOT Fable's generic "Optional Segment 6."
+2. BEFORE recording Scene 27's dedication: ask Nir which of Fable's 3 presentation options he wants (1: Nir's own real recorded voice — Fable's top recommendation; 2: silent text card + music; 3: Madie's AI voice reading the letter in 3 parts, tagged Part A/B/C with emotion images Love/Hope/Crying). This determines how Scene 27's ending is actually produced.
+3. Once ALL 27 scenes have their Hedra clips: assemble everything in Premiere — full scene illustration as background, Madie's small clip (~35-40% scale) bottom-left for first half of a scene's segments then "jumps" to bottom-right for the rest (split only between segments, never mid-segment). Flip her clip horizontally when in bottom-right (check her chest tag doesn't look bad mirrored).
+4. Separately (paused, low priority, per Nir's explicit "stop" from an earlier session): the Madie flipped-emotion-image "MADIE" chest-tag mirror-text fix is UNRESOLVED and PAUSED. Do not resume without Nir's explicit go-ahead. See AGENTS.md for full details of what was tried and rejected.
 5. Long-standing pending items (not urgent): entity images #60-116 on hold, ComfyUI/WAN2.2/Windows software setup, Mazes & Mages songs.
 
-## BOOT SEQUENCE FOR TOMORROW (2026-08-05):
-1. Read AGENTS.md (full context, rules, this session's summary)
+## BOOT SEQUENCE FOR TOMORROW (2026-08-06):
+1. Read AGENTS.md (full context, rules, this session's summary — check the very latest session entry)
 2. `git -C /home/nir/Anime pull`
-3. Greet Nir simply, confirm: Scenes 1-19 are 100% complete (101 Hedra clips total), next up is Scene 20 (The Grand Armada).
-4. Before starting Scene 20, raise point #2 above with Nir (whether Scenes 20-27 narration needs a Fable rewrite pass for grief-canon consistency) rather than silently jumping into recording.
-5. Continue the exact workflow above — find file in `~/Downloads/`, confirm scene/segment with Nir, rename+copy+push for both MP3 and MP4 steps.
+3. Greet Nir simply, confirm: Scenes 1-23 are 100% complete (132 Hedra clips total). All 27 scenes are now fully scripted/directed by Fable (including the big Scene 22/23 rewrite — universal laser-chess doctrine + HIVE canon — and the Scene 25/26/27 expansion — Flatland 4D Zeus, Gödel Closed Timelike Curves, much more emotional Zeus speech, and Nir's real dedication letter replacing Fable's generic one).
+4. Ask Nir which Scene 27 dedication presentation option he wants (see point 2 above) before recording that scene.
+5. Continue the exact Hedra workflow — find file in `~/Downloads/`, rename+copy+push for both MP3 and MP4 steps, no confirmation needed per segment (Nir asked not to be asked each time back on 2026-08-05).
 6. Do NOT resume the Madie chest-tag mirror-text fix work unless Nir explicitly asks.
+7. Next scene to record: Scene 24 (Peace and the Price), 5 segments.
