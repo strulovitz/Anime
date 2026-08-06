@@ -13,3 +13,15 @@ Six copper submarines ride around one hollow heart, wrapped in a blanket of ice 
 
 [in awe] Their destination: a small red star... called Proxima Centauri.
 
+## 🎬 SCENE 2 — Awakening
+
+[softly] Twelve hundred years. Empires rose and fell on the Earth they left behind... and the ten slept on, dreaming in the frost, while the ship's silent robots kept watch.
+
+[gentle wonder] Then, one morning older than any morning in history... the pods opened.
+
+[warmly] Madie woke first — commander, engineer... daughter of Romania.
+
+[in awe] She had crossed more time than any human being who ever lived.
+
+[softly] Her first thought was not fear. [whispers] It was: we made it.
+
