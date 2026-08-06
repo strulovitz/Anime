@@ -20,3 +20,7 @@
 [in awe] Proxima b. The nearest world of another sun — and the first to feel a human step. [serious] The air is thin and hostile... the red dwarf hurls flares that would strip an unlucky world bare. [softly] And yet — look. [moved] Footprints. Four billion years this dust waited... and no one ever came. [warmly] Madie stood in the twilight between the burning day and the frozen night, and spoke the words into the log: [proudly] "We are far from home. And we are exactly where we belong."
 
 
+
+## 🎬 SCENE 5 — First Life
+
+[softly] They had come to escape a flare — and found, sheltering in the same cave... the answer to humanity's oldest question. [whispers] Life. [gentle wonder] Not tall, not proud — a patch of lichen no bigger than a hand, glowing softly in the dark... enduring the fury of its star underground, just as they did. [softly] Reaper's hand trembled above it. No one spoke. [moved] Somewhere behind their eyes... every scientist who ever lived was weeping. [almost crying, joyful] We were never alone. [warmly] Life finds a way — here... and everywhere.
