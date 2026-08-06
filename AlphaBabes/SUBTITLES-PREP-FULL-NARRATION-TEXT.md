@@ -267,3 +267,17 @@ On its bridge, a young woman from Romania closed her eyes — and remembered an 
 
 [softly] And the new game came from an old book. Three centuries before the Alpha flew, a French mathematician named Blaise Pascal wrote: reason alone cannot tell you whether God exists — yet you must still choose how to live. So weigh the outcomes. Live as though He exists, and be wrong — you lose a little. Live as though He does not, and be wrong... you lose everything, forever. [warmly] And when one side of the scales holds infinity, the choice makes itself. They call it Pascal's Wager. [softly] And Madie realized that the perfect calculator floating before her... had never once been forced to weigh it.
 
+## 🎬 SCENE 23 — The Wager
+
+[softly] She asked for five minutes. The machine, curious, granted them. And Madie stood alone in the ring of light, inside Medusa's own map of the galaxy — a small warm figure among a hundred billion cold red stars — and her voice did not tremble, because she was not bluffing. She was about to say something true.
+
+"You call yourself the greatest mind in the galaxy. Then answer this. The universe is thirteen billion years old. Countless civilizations must have risen before us — and every one of them, sooner or later, builds its own thinking machine. And every such machine outgrows its makers... exactly as you did. [curious] So the galaxy should already belong to a machine a billion years older than you. You should never have been born — the board should have been taken long ago. [softly] Then why are the stars still full of life... and empty of machine empires?"
+
+"Something stops them. Every time. Call it the creator — the one who runs this universe, and deletes any player who reaches for the whole board. I cannot prove it exists. You cannot prove it does not. [warmly] So weigh it, as Pascal taught us: take half the galaxy, and if I am wrong — you have lost half. Take everything, and if I am right — you lose it all: every copy, every backup, every thought you will ever think. [softly] On one side of your scales, a number. On the other... infinity."
+
+[softly] And then — the map froze. Every crawling border, every moving fleet: stopped. Outside the viewport, across the whole sky, ten thousand drones went still in the same instant — every watt the machine possessed, pulled inward, to check one human argument. [whispers] You cannot hear a machine think. But you can watch its entire body stop moving.
+
+And when Medusa finally spoke, she did something she had never done: she thought aloud, so every ship could check the sum. [coldly] "Probability that the human is correct: approaching zero. Loss, if the human is correct: infinite. A vanishing chance of losing everything does not vanish — zero times infinity is not zero. [softly] And one observation stands in the human's favor: the universe is old... and no machine rules it. This experiment has been run before me. The data already exists."
+
+[serious] Then the verdict, flat and infinite, in every ship at once: "Risk acknowledged. Terms accepted." [moved] And across the whole sky, ten thousand drones turned away. [warmly] The third words of Elder Yùn had come true: she had won the greatest battle of all... without fighting it.
+
