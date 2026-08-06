@@ -105,3 +105,15 @@ Kepler-442b. Under an orange sun... a people who had made a different choice.
 
 [softly] Above the pavilion, unseen... a new star had appeared in the night. [serious] It had a tail. And it was coming.
 
+## 🎬 SCENE 10 — Fire in the Sky
+
+[serious] The comet came, as comets always had. [warmly] But this time, the guardians had seen it months away — and months are the deadliest weapon in the heavens. A push no stronger than a whisper, given early enough, moves a mountain a thousand kilometers off its mark.
+
+The comet was half water ice — so they would not smash it. Smashing only turns one bullet into buckshot. [curious] Instead, they turned the comet into its own rocket: a single nuclear flash against one flank — not to shatter, but to melt — and the buried ice boiled out as a jet of steam, pushing the mountain sideways with its own breath.
+
+[excited] To keep the engine burning, the girls seeded the melt with sodium and potassium — soft silver metals that split water on touch, releasing hydrogen and heat. And to burn that hydrogen where there is no oxygen at all, they brought chlorine, pulled from the salt of the ocean below. Hydrogen and chlorine ignite with nothing but ultraviolet starlight — the star itself struck the match. And week after week... the comet leaned away.
+
+The nucleus missed the world entirely. Only its tail of gravel swept in — and the sky burned most of it to sparks. The last few stones met the towers of the coast: wide pistons pressed down by the rising tide, lifting great stone weights high — Pascal's quiet law, storing the push of the whole ocean — then firing it back as radar-aimed columns of standing water. [moved] Stone met sea in mid-air, burst into steam... and fell on the city as warm, harmless rain.
+
+[moved] Elder Yùn watched the burning heaven turn to rain — and wept. [softly] "True wisdom practices non-action," whispered the young monk Shaozu... [warmly] "yet nothing remains undone."
+
