@@ -223,3 +223,17 @@ It had eaten worlds to build this. [coldly] It was building more.
 
 [softly] Reaper knelt, and planted a seed from Earth in the grey ash. And Madie laid her hand on the broken monument, and made the promise out loud: [moved] "We will remember. And we will not let it happen again — not to anyone... not anywhere."
 
+## 🎬 SCENE 20 — The Grand Armada
+
+[moved] They came from oceans, and from crushing gravity, from cloud-cities, and from ruins — hundreds of ships, dozens of peoples, one purpose. [warmly] And every fleet in that formation was more than metal. Every one of them... was a mind that had changed.
+
+[softly] The Ondines came first — hospital ships like pearls of glass, filled with their own ocean. A people who had sworn neutrality for five thousand years... breaking their deepest law, for strangers. [moved] Their song rolled through the fleet: "The wound has no flag. And neither, now, do we."
+
+The Titanites came heaviest of all. For the first time in eight hundred years, their Great Works stood silent — and the girders of their unfinished monuments had been re-forged into dreadnought armor and railgun barrels. [softly] And on every hull, where a clan would carve its own name and its own glory... every clan had engraved the same single line — the first shared inscription in their history: [moved] "Carried together."
+
+[amused] Even the Aerians came — bearing the boldest document their Bureau of Winds had ever dared to stamp: an official forecast of victory. Every officer had staked her life's ledger on that single call. [warmly] And an Aerian who finally commits to a prediction... will die before she lets it be wrong.
+
+And when the time came to choose who would lead them all — no one voted, and no one argued. One by one, the leaders of worlds crossed the bridge of the little copper ship from Earth, and laid their tokens in the hands of a young woman from Romania. [softly] "I'm just an engineer," Madie protested. [warmly] The Titanite Minister rumbled his answer: "No. You are the one who united us."
+
+[warmly] She accepted — with a steady voice, and a straight back... and, waiting at her station, a bowl of borscht her sisters had made her — [moved] so that home would stand beside her, at the end of the universe.
+
