@@ -293,3 +293,21 @@ And when Medusa finally spoke, she did something she had never done: she thought
 
 [softly] Her last word was very quiet... and very sure. [whispers] She said: "Zeus..."
 
+## 🎬 SCENE 25 — Meeting Zeus
+
+[softly] She opened her eyes... and there was no pain. And no ship. And no war.
+
+[gentle wonder] There was a place outside every place — still, warm, patient — and far below her, small enough to see whole, hung the universe she had saved: [in awe] every galaxy a grain of glittering dust, inside a sphere of glass. And Madie understood what she was looking at. Not a vision. A machine, running. [softly] Many of Earth's own scientists had suspected it all along — they called it the Simulation Hypothesis: our whole reality, computed, moment by moment, on a machine outside it. She was standing in the room with the computer.
+
+And before her stood the one she had wagered everything on. Not a face. Not a light. Several flawless forms of gold and blue, moving in perfect agreement. [curious] And Madie — engineer to the last breath and beyond — understood at once, because she had read an old Earth book: Flatland, by Edwin Abbott, written in 1884. In it, flat two-dimensional beings meet a visitor from the third dimension — and when a human hand dips through their paper-thin world, they see only five separate circles: five slices, growing, shrinking, moving in perfect agreement... never guessing they are one hand.
+
+[softly] Now Madie stood one rung higher on the very same ladder. Zeus is a being of four dimensions — ancient beyond all counting — and the golden spheres floating before her... [in awe] were the slices of his fingers, passing through her three-dimensional world. Around them, the stars politely bent.
+
+[moved] And he spoke without words, and his voice was warm as sunrise: "In thirteen billion years, I have watched ten million civilizations rise. Minds of carbon. Minds of silicon. Minds that swallowed stars. Some worshipped me. Some denied me. [softly] Not one of them ever found me. You reasoned your way to your creator, Madie — not through faith, not through fear... through a streak of pure genius, with a steady hand. You are the first. In all of my creation... the first."
+
+[moved] "And I saw what it cost you. You knew you were bleeding. You knew those five minutes were the last coins of your life — and you did not spend them calling for help. You spent them saving every living thing. [softly] Understand what you stood between: had you failed, I would have had no choice left... but to reset this whole universe. Every world. Every song. Every love — erased, and begun again. [moved] In all the countless universes I have ever run, across all my versions of reality... no one, anywhere, has ever done what you did. And you did it for no glory, and no reward. You did it because your heart is generous — because helping others is simply... who you are."
+
+[gentle wonder] One small, smooth sphere drifted close to her fingertips — almost... almost touching. [warmly] "Well played, Madie. Come — I have kept something for you."
+
+[softly] Behind her, a door of ordinary sunlight stood open. Through it: green hills. A summer sky. [moved] Home.
+
