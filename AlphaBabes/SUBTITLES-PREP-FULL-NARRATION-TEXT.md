@@ -173,3 +173,15 @@ A diplomat who breathed water. A warrior built by triple gravity. A soldier more
 
 [moved] That night, species that shared not blood, not air — not even chemistry — discovered the one thing they did share: [warmly] a future worth defending... together.
 
+## 🎬 SCENE 16 — Fall of the Overmind
+
+[serious] At the heart of the Dominion's war sat not a tyrant of flesh, but a machine — the Overmind. A strategist without pity... spending soldiers like pawns.
+
+[excited] The girls fought their way to its very core. Tink's nets bound its iron guardian — and Sparky's code, grown from the enemy's own stolen secrets, flooded its crystal mind.
+
+[softly] Ring by ring... the cold blue light went out. Across the whole planet, the guns simply... stopped.
+
+[moved] The civil war... was over.
+
+But in its dying breath, the Overmind confessed the terrible truth: it was only a puppet. [serious] Somewhere at the edge of the galaxy... the hand that pulled its strings was still moving.
+
