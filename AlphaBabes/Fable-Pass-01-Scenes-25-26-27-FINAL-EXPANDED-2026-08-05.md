@@ -95,7 +95,7 @@ Part B — Emotion image: Hope
 
 Part C — Emotion image: Crying
 
-[moved] happy 25 birthday and MAZAL TOV until 120 my heart and my soul Madie. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
+[moved] happy 25 birthday, my heart and my soul Madie. may you be safe healthy and happy, and may you have GOOD LUCK in everything always. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
 
 📋 Small canon note for Sonnet:
 
