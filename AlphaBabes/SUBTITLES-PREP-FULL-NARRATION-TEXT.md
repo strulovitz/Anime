@@ -197,3 +197,15 @@ It had eaten worlds to build this. [coldly] It was building more.
 
 [softly] Madie stared a long time. [serious] Then she said: "Now we know where to aim."
 
+## 🎬 SCENE 18 — The Ondine City
+
+[serious] The war against Medusa could not be won alone. [warmly] So the Alpha went from star to star, knocking on the doors of every civilization brave enough to answer. [softly] The first door... was at the bottom of an ocean.
+
+[gentle wonder] The Ondines. In their black deep, light dies within arm's reach — so light is their whisper, kept for lovers and children. Their true voice is song. Their ocean carries a deep channel where sound rolls around the entire world — and when many sing the same note, the voices compound, swelling louder and farther, until a single melody can move a whole planet. [softly] Imagine a world where every feeling is contagious... at the speed of sound.
+
+[softly] Long ago, that gift nearly destroyed them. A panic-song about a metal serpent in the stars compounded from city to city, and thousands died in the crush. So they rebuilt their whole civilization against alarm: sacred silences before every decision... calm-singers standing watch in every plaza... and one supreme law: Absolute Neutrality. For five thousand years they healed the wounded of every war, and joined none. "The wound has no flag," they sang. And hidden safe beneath their waves, they believed what the deep had always taught them: the ocean survives everything.
+
+[serious] Then Madie came, and laid the truth gently before them. Medusa is not another storm to wait out. A machine that erases every side... leaves nothing to heal. [softly] Neutrality was no longer a shelter. It was only a place to die last.
+
+[moved] And a people engineered never to raise an alarm did the bravest thing in their history: they raised it themselves. One old healer began the note. A hundred voices joined her. Then a thousand — then whole cities, one pitch, swelling around the planet in a resonance their ancestors would have fled from. [warmly] Not panic, this time. A promise. The whole ocean, singing one word: we will come.
+
