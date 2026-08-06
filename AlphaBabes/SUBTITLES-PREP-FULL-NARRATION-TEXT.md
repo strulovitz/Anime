@@ -117,3 +117,15 @@ The nucleus missed the world entirely. Only its tail of gravel swept in — and 
 
 [moved] Elder Yùn watched the burning heaven turn to rain — and wept. Then the old monk came to Madie, and gave her, at last, his answer from the night of the tea. [softly] "Today, builder of dams, you met force with force. Soon... you will turn your enemy's own strength against him. [warmly] And one day, far from here — you will win the greatest battle of all... without fighting it." [gentle wonder] Madie would carry those words to the edge of the galaxy.
 
+## 🎬 SCENE 11 — Taming the Dragon
+
+[serious] The comet's debris had hammered the land — and deep below, a sleeping giant woke. A supervolcano is a thousand ordinary volcanoes with one throat: it does not burn a valley — it throws a continent of ash into the sky, and buries a whole world in years of sunless winter. [softly] And you cannot cool it. Water near magma flashes into steam and triggers the very blast you fear — and even done gently, it would take a thousand years.
+
+[curious] So the girls asked a different question: what holds a volcano shut in the first place? Weight. The rock above the chamber, pressing down harder than the magma pushes up. [serious] Their plan was not to fight the eruption — it was to give the mountain back its lid: convince the ash to fall straight home onto the vent, instead of scattering across the sky.
+
+[excited] Reaper and a hundred Zĭrán hands cooked liquid rubber from the sap of the latex trees — and the gliders released it high above the eruption column, up where the gas has already cooled. Falling, it tore into thousands of thin strands and parachute-shaped droplets — and there, in hot sulfur gas, the exact recipe of industrial vulcanization, it cured into tough elastic mesh that netted the fine ash into cells. Then the snowball began: heavy cells caught bigger grains... and bigger... and bigger still.
+
+[gentle wonder] And when the ash grounded the gliders, the capsules took over. Hexagonal blankets of heat-proof fabric lay spread across the ground, each hiding a silver sphere within a sphere — liquid rubber inside, aerogel and noble gas between. When a geyser of volcanic gas erupted beneath one, the blanket snapped up like a parachute, swallowed the hot updraft like a balloon, and rode it high — until the thinning air burst the sphere, raining rubber from inside the plume itself. [moved] The volcano lifted the medicine that cured it.
+
+The bound ash rained back onto the vent, and the grey cap grew heavier, and heavier — until the pressure from above balanced the pressure from below, and the mountain's scream choked into a slow, survivable exhale. The ash winter never came. [warmly] That day, the Zĭrán gave Reaper her new name: Ash Reaper — she who harvested the ash before it could fall.
+
