@@ -163,3 +163,13 @@ And if this sounds like fantasy — hold on to your hat. Earth tested it in the 
 
 That day, a Dominion warship fired its great cannon at a rebel frigate — and the emerald beam folded: once... twice... three times through the lattice — and came home, into its own engines. [softly] You cannot dodge your own shot. [amused] Checkmate.
 
+## 🎬 SCENE 15 — Council of Species
+
+[softly] In a hollow asteroid, around a map of gold light... the impossible committee assembled.
+
+A diplomat who breathed water. A warrior built by triple gravity. A soldier more machine than flesh — who had turned against his own empire's cruelty.
+
+[warmly] Ten young women from a small blue world stood among them — not the strongest, not the oldest — but the ones everyone trusted... because they had asked for nothing, and given everything.
+
+[moved] That night, species that shared not blood, not air — not even chemistry — discovered the one thing they did share: [warmly] a future worth defending... together.
+
