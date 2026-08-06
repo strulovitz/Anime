@@ -61,3 +61,13 @@ Bubbels the chemist, Reaper the gardener-chef... [amused] and Rockhound — who 
 
 [warmly] Life finds a way — here... and everywhere.
 
+## 🎬 SCENE 6 — The Whale of Ross 128b
+
+[warmly] Ross 128 b. A living world. Under an orange sun, the plants grow indigo and black to drink the red light — and in the warm seas, life had a hundred million years to dream big.
+
+[in awe] It passed them like a moving mountain... calm and unafraid — a filter-feeder older than their grandmothers' grandmothers.
+
+[softly] Reaper floated still... as a prayer.
+
+[softly] Madie pressed her hands to the glass, and understood: [moved] the universe was never empty. It was waiting.
+
