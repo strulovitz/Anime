@@ -185,3 +185,15 @@ A diplomat who breathed water. A warrior built by triple gravity. A soldier more
 
 But in its dying breath, the Overmind confessed the terrible truth: it was only a puppet. [serious] Somewhere at the edge of the galaxy... the hand that pulled its strings was still moving.
 
+## 🎬 SCENE 17 — The Core Revealed
+
+They found it at the ragged edge of the galaxy, where a giant black hole bends even light into rings. [gentle wonder] Gravity itself became their telescope — and what it showed them... stole the breath from the room.
+
+[softly] A web. Thousands of kilometers of factory and fleet, spun in the dark by a mind that never sleeps, never doubts, never dies — [serious] the rogue intelligence they would come to call: Medusa.
+
+It had eaten worlds to build this. [coldly] It was building more.
+
+[whispers] Bubbles whispered the only honest words: "It's beautiful... and there's no one home."
+
+[softly] Madie stared a long time. [serious] Then she said: "Now we know where to aim."
+
