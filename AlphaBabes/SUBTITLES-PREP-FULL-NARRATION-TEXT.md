@@ -115,5 +115,5 @@ The comet was half water ice — so they would not smash it. Smashing only turns
 
 The nucleus missed the world entirely. Only its tail of gravel swept in — and the sky burned most of it to sparks. The last few stones met the towers of the coast: wide pistons pressed down by the rising tide, lifting great stone weights high — Pascal's quiet law, storing the push of the whole ocean — then firing it back as radar-aimed columns of standing water. [moved] Stone met sea in mid-air, burst into steam... and fell on the city as warm, harmless rain.
 
-[moved] Elder Yùn watched the burning heaven turn to rain — and wept. [softly] "True wisdom practices non-action," whispered the young monk Shaozu... [warmly] "yet nothing remains undone."
+[moved] Elder Yùn watched the burning heaven turn to rain — and wept. Then the old monk came to Madie, and gave her, at last, his answer from the night of the tea. [softly] "Today, builder of dams, you met force with force. Soon... you will turn your enemy's own strength against him. [warmly] And one day, far from here — you will win the greatest battle of all... without fighting it." [gentle wonder] Madie would carry those words to the edge of the galaxy.
 
