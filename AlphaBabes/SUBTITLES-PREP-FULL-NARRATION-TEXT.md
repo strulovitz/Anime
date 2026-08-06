@@ -25,3 +25,15 @@ Six copper submarines ride around one hollow heart, wrapped in a blanket of ice 
 
 [softly] Her first thought was not fear. [whispers] It was: we made it.
 
+## 🎬 SCENE 3 — The Ten
+
+[cheerfully] Ten women. Ten nations. One table. Ace, who talks to engines. Mariner, who reads the stars like letters from home.
+
+Bubbels the chemist, Reaper the gardener-chef... [amused] and Rockhound — who has never met a rock she couldn't break.
+
+[cheerfully] Doc, healer of bodies and hearts. Tink, who rebuilds anything twice. Sparky, who speaks to machines. Pipey, who keeps them all breathing.
+
+[warmly] And Madie... who keeps them all together — with a steady voice, a dry joke, and a bowl of her grandmother's borscht.
+
+[softly] The mess hall seats face backward — built to survive a collision. [warmly] The friendships were built to survive anything.
+
