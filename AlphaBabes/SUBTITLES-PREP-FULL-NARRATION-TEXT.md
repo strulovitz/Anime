@@ -95,3 +95,13 @@ Kepler-442b. Under an orange sun... a people who had made a different choice.
 
 [warmly] And Madie — commander of the mightiest machine for a hundred light-years — bowed lower.
 
+## 🎬 SCENE 9 — Tea with Elder Yùn
+
+[softly] Elder Yùn taught them the word: wu wei — actionless action. Do only what the river of nature asks... force nothing. It had given his people ten centuries of peace.
+
+[curious] Madie drank the tea, and asked the engineer's question: "And when the river floods — do you not build a dam?"
+
+[amused] The old monk's dapples brightened into slow, spreading rings of quiet joy — the Zĭrán smile — and he did not answer.
+
+[softly] Above the pavilion, unseen... a new star had appeared in the night. [serious] It had a tail. And it was coming.
+
