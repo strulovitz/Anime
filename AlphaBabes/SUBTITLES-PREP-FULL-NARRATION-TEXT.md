@@ -49,3 +49,15 @@ Bubbels the chemist, Reaper the gardener-chef... [amused] and Rockhound — who 
 
 [proudly] We are far from home. And we are exactly where we belong.
 
+## 🎬 SCENE 5 — First Life
+
+[softly] They had come to escape a flare — and found, sheltering in the same cave... the answer to humanity's oldest question. [whispers] Life.
+
+[gentle wonder] Not tall, not proud — a patch of lichen no bigger than a hand, glowing softly in the dark... enduring the fury of its star underground, just as they did.
+
+[softly] Reaper's hand trembled above it. No one spoke.
+
+[moved] Somewhere behind their eyes... every scientist who ever lived was weeping. [almost crying, joyful] We were never alone.
+
+[warmly] Life finds a way — here... and everywhere.
+
