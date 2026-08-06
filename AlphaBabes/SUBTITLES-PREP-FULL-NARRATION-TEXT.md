@@ -313,6 +313,18 @@ And before her stood the one she had wagered everything on. Not a face. Not a li
 
 ## 🎬 SCENE 27 — Epilogue & Dedication
 
+(Segments 1-5 — the narrative ending)
+
+[warmly] The war never came back. The machines kept their half of the sky — and kept their word. In time, they even helped build the next ship, for the next voyage... toward a new whisper of life, on a far-off water world called K2-18b.
+
+[softly] On a green hill above the launch field, nine sisters planted a tree for their tenth. They talked to her photo. [moved] And they left her... a bowl of borscht.
+
+And as the first stars came out, Ace raised her hand in salute — [gentle wonder] and at that exact moment, past the brightest star in the sky... something streaked by. Like a wink.
+
+[amused] "She'd say we're behind schedule," Ace laughed, wiping her eyes.
+
+[warmly] Mariner smiled at the sky: "Then let's fly." [moved] And the story — like all the best stories — did not end. [softly] It set course.
+
 (Segments 6, 7, 8 — the personal dedication, read in Madie's AI voice)
 
 Segment 6:
