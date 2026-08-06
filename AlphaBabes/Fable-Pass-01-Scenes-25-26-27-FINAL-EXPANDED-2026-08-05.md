@@ -95,7 +95,7 @@ Part B — Emotion image: Hope
 
 Part C — Emotion image: Love
 
-[moved] happy 25 birthday, may you always be safe healthy and happy, and may you have GOOD LUCK in everything always my heart and my soul Madie. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
+[moved] happy 25 birthday my beautiful sweetheart, may you always be safe healthy and happy, and may you have GOOD LUCK in everything always my heart and my soul Madie. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
 
 📋 Small canon note for Sonnet:
 
