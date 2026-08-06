@@ -237,3 +237,17 @@ And when the time came to choose who would lead them all — no one voted, and n
 
 [warmly] She accepted — with a steady voice, and a straight back... and, waiting at her station, a bowl of borscht her sisters had made her — [moved] so that home would stand beside her, at the end of the universe.
 
+## 🎬 SCENE 21 — The Battle of the Staging Ground
+
+[serious] It began where they chose — far from any world with children on it. [softly] Medusa's swarm moved like one mind wearing ten thousand bodies... perfect, and pitiless.
+
+The coalition answered with the honest weapons of physics. From the railguns the Titanites had forged out of their own monuments — rods of tungsten, thrown at meteor speed. No warhead. No flame. Just mass... and momentum. [serious] And nothing in the machine's arithmetic could argue with momentum.
+
+[sad] Ships died. Brave ones. A broken frigate spent its last breath... as a spear.
+
+[moved] A wounded Ondine hospital ship bled its ocean into the vacuum — and the water froze into a cloud of diamonds around the escaping rescue pods. [softly] And through it all, on every channel, the Ondine calm-singers held one long, steady note... keeping a thousand pilots' hands from shaking.
+
+They fought the perfect machine to a standstill. [serious] And they paid for every meter.
+
+And then... the swarm parted. [whispers] And the mothership came.
+
