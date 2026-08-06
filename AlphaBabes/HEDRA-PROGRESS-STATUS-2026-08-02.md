@@ -44,10 +44,10 @@ ALL PUSHED TO GITHUB, working tree clean, nothing pending.
 | 23 — The Wager (FINAL rewrite: Pascal's Wager reasoned aloud by Medusa) | 6 / 6 | ✅ COMPLETE (this scene had 6 segments) |
 | 24 — Peace and the Price | 5 / 5 | ✅ COMPLETE |
 | 25 — Meeting Zeus | 8 / 8 | ✅ COMPLETE (EXPANDED 8-segment version, Flatland 4D + emotional Zeus speech) |
-| 26 — Paradise | 0 / 8 | ⬜ NOT STARTED (EXPANDED to 8 segments 2026-08-05 night — added Gödel Closed Timelike Curves / parallel universe physics; script final, see same file above) |
+| 26 — Paradise | 8 / 8 | ✅ COMPLETE (EXPANDED 8-segment version, Gödel CTC / parallel universe physics) |
 | 27 — Epilogue & Dedication | 0 / ? | ⬜ NOT STARTED — DECISION LOCKED 2026-08-06: Nir chose OPTION 3 — Madie's AI voice reads his real dedication letter (AlphaBabes/THE-DEDICATION-FINAL-2026-08-01.md), split into 3 parts (A/B/C) with emotion images Love/Hope/Crying. Do NOT use Fable's old generic "Optional Segment 6" dedication text — use Nir's real letter verbatim, split into the 3 parts. The other segments of Scene 27 (1-5, the tree/salute/wink/"Then let's fly") are unchanged from Fable-Pass-01-Scene-27-FINAL-Epilogue-and-Dedication-2026-08-05.md.
 
-Total Hedra clips made so far: 145 (across scenes 1-25, all complete)
+Total Hedra clips made so far: 153 (across scenes 1-26, all complete)
 
 ## WHAT'S LEFT TO DO:
 1. Record Scenes 24, 25, 26, 27 the same way, segment by segment. IMPORTANT: Scene 25 is now 8 segments and Scene 26 is now 8 segments (both expanded 2026-08-05 night) — use Fable-Pass-01-Scenes-25-26-27-FINAL-EXPANDED-2026-08-05.md as the script source, NOT the earlier 6-segment versions. Scene 24 is 5 segments (Fable-Pass-01-Scene-24-FINAL-Peace-and-the-Price-2026-08-05.md). Scene 27's first 5 segments are in Fable-Pass-01-Scene-27-FINAL-Epilogue-and-Dedication-2026-08-05.md — but its dedication segment(s) must use Nir's real letter (see point 2 below), NOT Fable's generic "Optional Segment 6."
