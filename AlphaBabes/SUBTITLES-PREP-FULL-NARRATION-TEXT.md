@@ -281,3 +281,15 @@ And when Medusa finally spoke, she did something she had never done: she thought
 
 [serious] Then the verdict, flat and infinite, in every ship at once: "Risk acknowledged. Terms accepted." [moved] And across the whole sky, ten thousand drones turned away. [warmly] The third words of Elder Yùn had come true: she had won the greatest battle of all... without fighting it.
 
+## 🎬 SCENE 24 — Peace and the Price
+
+[softly] The swarm turned away. No treaty was signed — none was needed. Two players had understood the same truth... and honored it. The galaxy would be shared: half for the machines — and half, forever, for the living. [warmly] Ten thousand red eyes closed their war, and vanished into the deep.
+
+[softly] And only then, with peace filling the viewport, did Madie let go of the strength she had been borrowing. [sad] She had been wounded in the last barrage — and had hidden it through every word of the wager. Speaking the truth to Medusa had needed no courage at all. [moved] Hiding the pain, so the universe would not have to wait for it... that took all the courage she had.
+
+[moved] Her sisters gathered around her chair. "It's okay," she whispered. "Look. They're standing down. We did it." [sad] Doc held her hand. Ace begged her to stay. And on the console beside her, the bowl of borscht her sisters had made her... was still warm.
+
+[gentle wonder] And Madie smiled — not at them... past them. At a small impossibility in the corner of the glass: a place where the stars themselves had begun to bend... around a first gleam of gold, and blue.
+
+[softly] Her last word was very quiet... and very sure. [whispers] She said: "Zeus..."
+
