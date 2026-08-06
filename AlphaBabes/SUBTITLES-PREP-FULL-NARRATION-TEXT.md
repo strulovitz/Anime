@@ -151,3 +151,15 @@ The Zidrani Dominion: a realm of a hundred species... tearing itself apart.
 
 [softly] Whatever flag they flew, whatever blood or water ran in them — [warmly] the crew of the Alpha had chosen their side: the living.
 
+## 🎬 SCENE 14 — Laser Chess
+
+The rebels were outgunned a hundred to one — so the crew taught them the deadliest game in the galaxy: laser chess. [serious] In an age of light-speed weapons, battle is not won by the bigger cannon. A laser crosses the battlefield instantly — you cannot dodge it, you cannot outrun it. You can only bend it. [softly] And so the true weapon is not the beam... it is the board.
+
+[excited] Both fleets came prepared — every fleet in this age does. Before the first shot, each side seeded the darkness with hundreds of mirror drones: small spinning discs, taking positions like pieces on a three-dimensional board. Openings. Gambits. Sacrifices. A mirror offered like a pawn, to bait out the enemy's firing angle. Decoys sent to draw fire and die. The real killers drifting dark and silent, three moves ahead. [serious] Whoever controls the angles... controls the battle.
+
+Because light obeys the oldest rule in optics: the angle it strikes is the angle it leaves. Fire a beam into the mirror lattice, and it folds — bouncing from disc to disc, around flanks, behind shields, through corners that do not exist — arriving from a direction no gunner is watching. [gentle wonder] The computers of both fleets read the reflections five bounces deep... like grandmasters reading a board.
+
+And if this sounds like fantasy — hold on to your hat. Earth tested it in the year nineteen ninety: the Relay Mirror Experiment. A laser fired from the ground, bounced off a mirror satellite in orbit, and placed on a target hundreds of kilometers away. [curious] And the mirrors are not simple metal — metal drinks a few percent of the beam, and against a war-laser, the mirror itself would vaporize. These discs are stiff silicon carbide, coated in stacked ceramic layers thinner than a wavelength of light, reflecting all but one part in ten thousand. [amused] Tink inspected every single one herself.
+
+That day, a Dominion warship fired its great cannon at a rebel frigate — and the emerald beam folded: once... twice... three times through the lattice — and came home, into its own engines. [softly] You cannot dodge your own shot. [amused] Checkmate.
+
