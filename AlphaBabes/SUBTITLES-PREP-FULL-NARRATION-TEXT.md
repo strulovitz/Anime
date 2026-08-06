@@ -71,3 +71,15 @@ Bubbels the chemist, Reaper the gardener-chef... [amused] and Rockhound — who 
 
 [softly] Madie pressed her hands to the glass, and understood: [moved] the universe was never empty. It was waiting.
 
+## 🎬 SCENE 7 — The Call of Zĭrán
+
+[softly] And then... the stars sang.
+
+A signal — not a pulsar's clockwork, not noise — a pattern with the shape of music... calling from a sun that wasn't on any of their maps.
+
+Astronomers on far-off Earth had named it Zĭrán: nature... the self-so. [softly] The crew faced the choice every explorer knows: the safe road — or the song.
+
+[softly] Before the long sleep, Madie became the first to pass through the ship's quiet miracle — her memories carried into a young new body grown for the voyage... life renewed, so the mission could outlive the years.
+
+[warmly] Then ten women closed their eyes... the Alpha turned her copper bow toward the music... [moved] and followed it.
+
