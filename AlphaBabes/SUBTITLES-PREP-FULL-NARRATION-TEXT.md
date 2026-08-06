@@ -83,3 +83,15 @@ Astronomers on far-off Earth had named it Zĭrán: nature... the self-so. [softl
 
 [warmly] Then ten women closed their eyes... the Alpha turned her copper bow toward the music... [moved] and followed it.
 
+## 🎬 SCENE 8 — The Tree City
+
+Kepler-442b. Under an orange sun... a people who had made a different choice.
+
+[gentle wonder] The Zĭrán built nothing — they grew everything. Cities coaxed from living trees... light from flowers... water carried by tame creatures of the air.
+
+[softly] No engines. No wires. They had ended war and waste centuries ago by following one law: flow with nature... and do not force.
+
+[moved] They met the sky-farers not with weapons — but with a bow.
+
+[warmly] And Madie — commander of the mightiest machine for a hundred light-years — bowed lower.
+
