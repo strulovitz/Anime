@@ -11,4 +11,8 @@
 
 [softly] Twelve hundred years. Empires rose and fell on the Earth they left behind... and the ten slept on, dreaming in the frost, while the ship's silent robots kept watch. [gentle wonder] Then, one morning older than any morning in history... the pods opened. [warmly] Madie woke first — commander, engineer... daughter of Romania. She had crossed more time than any human being who ever lived. [softly] Her first thought was not fear. [whispers] It was: we made it.
 
+## 🎬 SCENE 3 — The Ten
+
+[cheerfully] Ten women. Ten nations. One table. Ace, who talks to engines. Mariner, who reads the stars like letters from home. Bubbels the chemist, Reaper the gardener-chef... [amused] Rockhound — who has never met a rock she couldn't break. Doc, healer of bodies and hearts. Tink, who rebuilds anything twice. Sparky, who speaks to machines. Pipey, who keeps them all breathing. [warmly] And Madie... who keeps them all together — with a steady voice, a dry joke, and a bowl of her grandmother's borscht. [softly] The mess hall seats face backward — built to survive a collision. [warmly] The friendships were built to survive anything.
+
 
