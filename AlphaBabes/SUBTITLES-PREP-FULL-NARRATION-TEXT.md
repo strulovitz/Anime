@@ -15,4 +15,8 @@
 
 [cheerfully] Ten women. Ten nations. One table. Ace, who talks to engines. Mariner, who reads the stars like letters from home. Bubbels the chemist, Reaper the gardener-chef... [amused] Rockhound — who has never met a rock she couldn't break. Doc, healer of bodies and hearts. Tink, who rebuilds anything twice. Sparky, who speaks to machines. Pipey, who keeps them all breathing. [warmly] And Madie... who keeps them all together — with a steady voice, a dry joke, and a bowl of her grandmother's borscht. [softly] The mess hall seats face backward — built to survive a collision. [warmly] The friendships were built to survive anything.
 
+## 🎬 SCENE 4 — First Footfall
+
+[in awe] Proxima b. The nearest world of another sun — and the first to feel a human step. [serious] The air is thin and hostile... the red dwarf hurls flares that would strip an unlucky world bare. [softly] And yet — look. [moved] Footprints. Four billion years this dust waited... and no one ever came. [warmly] Madie stood in the twilight between the burning day and the frozen night, and spoke the words into the log: [proudly] "We are far from home. And we are exactly where we belong."
+
 
