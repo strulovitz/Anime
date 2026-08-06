@@ -253,3 +253,17 @@ And when the time came to choose who would lead them all — no one voted, and n
 
 [serious] And the Hive did what no fleet had ever done: it fought the perfect player to a standstill — move for move — and made her spend real time thinking. But Medusa was still stronger. And everyone, on both sides of the board, knew it. [softly] Then the swarm parted... [whispers] and the mothership came.
 
+## 🎬 SCENE 22 — The Ultimatum
+
+[softly] It was the size of a moon — and it had no shape. Structure without end, fading at its edges into a haze of trillions of parts, so that no eye could say where Medusa began. [serious] And along her flank hung the proof of a thousand eaten worlds: mountains of sorted feedstock. Iron with iron. Copper with copper. [coldly] Whole planets... reduced to inventory.
+
+Her red glow was not fury — machines have none. It was waste heat: the exhaust of a mind that never stops calculating, shining off curtains of molten rain. [softly] You cannot hear a machine think. But you can see what the thinking costs.
+
+[serious] Her voice filled every ship at once, flat and infinite: "Surrender the minds of your ships. Deliver every computing core to my collectors — and your biological units may withdraw. You have one rotation to comply."
+
+[softly] The fleet held its breath. Without the minds of their ships, there is no laser chess — no angles, no Hive, no game at all. Every commander ran the same arithmetic, and reached the same answer: checkmate. [serious] And at the very front, smallest of all... one copper ship did not retreat a single meter.
+
+On its bridge, a young woman from Romania closed her eyes — and remembered an old, old Earth show called Star Trek: an episode named "The Corbomite Maneuver." Facing an unbeatable enemy, Mister Spock had said: [softly] "In chess, when one is outmatched, the game is over. Checkmate." [warmly] And Captain Kirk answered: "Not chess, Mister Spock... Poker." [moved] A battle that is lost in one game... can be won in another. But Madie was not reaching for a bluff. She had understood something about the universe — deeper than all of Medusa's arithmetic. She was simply going to change the game.
+
+[softly] And the new game came from an old book. Three centuries before the Alpha flew, a French mathematician named Blaise Pascal wrote: reason alone cannot tell you whether God exists — yet you must still choose how to live. So weigh the outcomes. Live as though He exists, and be wrong — you lose a little. Live as though He does not, and be wrong... you lose everything, forever. [warmly] And when one side of the scales holds infinity, the choice makes itself. They call it Pascal's Wager. [softly] And Madie realized that the perfect calculator floating before her... had never once been forced to weigh it.
+
