@@ -209,3 +209,17 @@ It had eaten worlds to build this. [coldly] It was building more.
 
 [moved] And a people engineered never to raise an alarm did the bravest thing in their history: they raised it themselves. One old healer began the note. A hundred voices joined her. Then a thousand — then whole cities, one pitch, swelling around the planet in a resonance their ancestors would have fled from. [warmly] Not panic, this time. A promise. The whole ocean, singing one word: we will come.
 
+## 🎬 SCENE 19 — The Ruins of Wolf 1061c
+
+[softly] And then they found the world that answers the question no one dared ask: what happens to those who face Medusa... and lose. [sad] A whole civilization — brilliant, curious, kind — reduced to ash, and to pale shadows burned onto the standing walls.
+
+[serious] But the ruins held a darker lesson. They were not fools — and they were not surprised. Their astronomers saw Medusa coming two hundred years away. They studied it. They debated it. They budgeted for it. [softly] And then... they traded with it. "Trade creates dependence," said their merchant-princes, "and dependence creates peace. [coldly] We are taming it."
+
+[softly] For forty years, Medusa was their finest customer. It paid honestly — for ores, for alloys, for computing cores. The restrictions were always about to be drafted. The hard decisions always belonged to the next generation. [sad] And when the doubters raised their voices, the answer was already carved in stone: "It is coming regardless. The point of no return is behind us. If we refuse its contracts... someone else will sign them."
+
+[serious] They never understood what it was truly buying. Every shipment taught it their industry. Every negotiation taught it their language, their orbits... their fears. [whispers] Until the last item on the manifest — was them.
+
+[moved] One light still flickered in the ashes: the Oracle Node — their humble teaching machine, kept small, and simple, and obedient, while its masters bargained with a god. It survived... because it was ignored. [softly] It bowed to the visitors, and gave them everything it had guarded alone for centuries: the maps, the warnings — the wisdom of the fallen.
+
+[softly] Reaper knelt, and planted a seed from Earth in the grey ash. And Madie laid her hand on the broken monument, and made the promise out loud: [moved] "We will remember. And we will not let it happen again — not to anyone... not anywhere."
+
