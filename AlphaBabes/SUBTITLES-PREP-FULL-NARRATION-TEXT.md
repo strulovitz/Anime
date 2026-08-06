@@ -311,6 +311,24 @@ And before her stood the one she had wagered everything on. Not a face. Not a li
 
 [softly] Behind her, a door of ordinary sunlight stood open. Through it: green hills. A summer sky. [moved] Home.
 
+## 🎬 SCENE 26 — Paradise
+
+[warmly] And this was the gift the creator had kept for her. Not a throne. Not a monument. [softly] Something infinitely better: the small, enormous life she had always wanted.
+
+And the gift was built from real physics — the deepest there is. The law of our universe is Einstein's General Relativity. [curious] But Einstein had a close friend — the great logician Kurt Gödel — who found a hidden door inside those very equations: the Closed Timelike Curve. A path through space and time that bends back into itself... so that time does not end. It repeats.
+
+[gentle wonder] So Zeus copied Madie — her whole self, and everything she loved — onto another computer. Another universe. A real, parallel world of their own, where no war and no Medusa would ever exist. [warmly] And there, he bent their happiest years into a Gödel loop — time itself pressed on "repeat forever," like a beloved song. [softly] Happily ever after... not as a figure of speech. As an equation.
+
+[joyfully] A hillside in Romania. Her family waving from the porch... and borscht on the table.
+
+[moved] And beside her — Nir. Her love. Her home, in human form.
+
+[excited] With a scrapbook full of every dream they had promised each other: the roar of Formula One... the quiet temples of Japan... Monet's water lilies in Paris — the whole world, crossed hand in hand, two happy nomads with nowhere to be, and forever to get there. [softly] And on the corner of the blanket, a small red toy race-car... a gentle promise, of the family still to come.
+
+[softly] Her sisters sail on among the stars, and they will never know. But high above the hills, a tiny star twinkles in the daytime sky — the universe she saved, still watching over her. [warmly] And somewhere beyond the sky they guard... Madie is laughing in the sunlight — this summer, forever, again and again.
+
+[moved] She saved the universe. [warmly] And the universe said thank you... properly.
+
 ## 🎬 SCENE 27 — Epilogue & Dedication
 
 (Segments 1-5 — the narrative ending)
