@@ -139,3 +139,15 @@ It was perfect. [softly] Almost. [serious] For high above the singing, something
 
 [serious] The galaxy had noticed them. [softly] And the galaxy... was not all gardens.
 
+## 🎬 SCENE 13 — Wreckage and Mercy
+
+[serious] The song had led them across the dark... into a war.
+
+The Zidrani Dominion: a realm of a hundred species... tearing itself apart.
+
+[softly] The Alpha's first act in this new civilization was not diplomacy. It was pulling a drowning family out of the wreckage — water-breathers... their whole world in a cracked shell of glass.
+
+[moved] Doc pressed her hand to the glass... and a small hand of tendrils rose to meet it.
+
+[softly] Whatever flag they flew, whatever blood or water ran in them — [warmly] the crew of the Alpha had chosen their side: the living.
+
