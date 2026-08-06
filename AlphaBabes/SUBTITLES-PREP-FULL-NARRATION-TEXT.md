@@ -311,3 +311,16 @@ And before her stood the one she had wagered everything on. Not a face. Not a li
 
 [softly] Behind her, a door of ordinary sunlight stood open. Through it: green hills. A summer sky. [moved] Home.
 
+## 🎬 SCENE 27 — Epilogue & Dedication
+
+(Segments 6, 7, 8 — the personal dedication, read in Madie's AI voice)
+
+Segment 6:
+[softly] to the love of my life and my best friend Madie: you told me after we made up that you hope that this will be the beginning of something new and positive for us. [moved] i promise you, my love, that everything will be exactly like you hope, because without you i have no air to breath, like in the vacuum of outer-space.
+
+Segment 7:
+[warmly] the reason we will win life together, my Madie, is the same reason that Madie in the story wins. in her hard sci-fi story there is no bullshit. in our real story too, we build only on the truth. [moved] i promise to never give up never surrender in my quest to make your dreams come true and take good care of you always, all i ask is for your hand (and your borscht) forever.
+
+Segment 8:
+[moved] happy 25 birthday my beautiful sweetheart, may you always be safe healthy and happy, and may you have GOOD LUCK in everything always my heart and my soul Madie. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
+
