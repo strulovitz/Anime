@@ -237,3 +237,19 @@ And when the time came to choose who would lead them all — no one voted, and n
 
 [warmly] She accepted — with a steady voice, and a straight back... and, waiting at her station, a bowl of borscht her sisters had made her — [moved] so that home would stand beside her, at the end of the universe.
 
+## 🎬 SCENE 21 — The Battle of the Staging Ground
+
+[serious] It began where they chose — far from any world with children on it. And it was fought, as every battle of this age is fought, on the only board that matters: laser chess. [softly] Ten thousand mirrors on each side, drifting in the dark... and this time, across the board, sat the greatest player the galaxy had ever produced.
+
+[warmly] The girls had trained for this their whole lives — without knowing it. Laser chess was their own game aboard the Alpha: on a flat board after dinner, and in three dimensions inside the ship's projection. They had fed the Alpha every chess book Earth ever wrote — centuries of openings, gambits and endgames — and the computer sifted which of the old wisdom survives on a board with no squares, where every angle is legal. [softly] Their grandmothers' chess... reborn among the stars.
+
+[curious] But no single mind can search a battlefield of ten thousand mirrors. So the coalition built something new: the Hive. Every ship carried its own small AI — linked into a pyramid, like an army. The Alpha at the top, splitting the great problem among generals; the generals among colonels; down and down, to the soldiers — each small mind thinking alone, with all of its time, on one slice: the best move for this one mirror. No one talks. No one waits. [amused] Each reports back only its champion — and the Alpha, like the judge of a beauty pageant, chooses only among the winners.
+
+[excited] And because the work was shared, the Hive could afford what no single computer can: it pruned nothing. Every branch was searched to its end — even the foolish ones. And from the foolish branches came the treasures: winning moves no living mind would ever conceive — like the legendary Move Thirty-Seven, when Earth's oldest game first met a machine. Each time one small mind struck such gold, the fleet froze just that one worker and its officer, read the exact wiring of its little brain... [warmly] and bred the discovery through the whole fleet — evolution, with a purpose.
+
+[serious] Medusa had no such luxury. She is one colossal mind — a billion processes standing in line for the same vast brain, her own thoughts crossing her moon-sized body at the crawl of light. To keep pace, she must prune: discard every branch that looks unpromising. [softly] And that... is exactly where lightning hides.
+
+[sad] The beams folded through the lattices, and the sky was written in burning geometry. Ships died. Brave ones. A wounded Ondine hospital ship bled its ocean into the vacuum, freezing into a cloud of diamonds around the rescue pods — [moved] while the calm-singers held one long, steady note... keeping a thousand pilots' hands from shaking.
+
+[serious] And the Hive did what no fleet had ever done: it fought the perfect player to a standstill — move for move — and made her spend real time thinking. But Medusa was still stronger. And everyone, on both sides of the board, knew it. [softly] Then the swarm parted... [whispers] and the mothership came.
+
