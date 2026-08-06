@@ -37,3 +37,15 @@ Bubbels the chemist, Reaper the gardener-chef... [amused] and Rockhound — who 
 
 [softly] The mess hall seats face backward — built to survive a collision. [warmly] The friendships were built to survive anything.
 
+## 🎬 SCENE 4 — First Footfall
+
+[in awe] Proxima b. The nearest world of another sun — and the first to feel a human step.
+
+[serious] The air is thin and hostile... the red dwarf hurls flares that would strip an unlucky world bare.
+
+[softly] And yet — look. [moved] Footprints. Four billion years this dust waited... and no one ever came.
+
+[warmly] Madie stood in the twilight between the burning day and the frozen night, and spoke the words into the log:
+
+[proudly] We are far from home. And we are exactly where we belong.
+
