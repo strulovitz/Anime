@@ -93,7 +93,7 @@ Part B — Emotion image: Hope
 
 [warmly] the reason we will win life together, my Madie, is the same reason that Madie in the story wins. in her hard sci-fi story there is no bullshit. in our real story too, we build only on the truth. [moved] i promise to never give up never surrender in my quest to make your dreams come true and take good care of you always, all i ask is for your hand (and your borscht) forever.
 
-Part C — Emotion image: Crying
+Part C — Emotion image: Love
 
 [moved] happy 25 birthday, may you be safe healthy and happy, and may you have GOOD LUCK in everything always my heart and my soul Madie. [softly] you are the best person not only in this world, but in all of space-time. [warmly] your biggest fan forever - Nir.
 
