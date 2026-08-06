@@ -129,3 +129,13 @@ The nucleus missed the world entirely. Only its tail of gravel swept in — and 
 
 The bound ash rained back onto the vent, and the grey cap grew heavier, and heavier — until the pressure from above balanced the pressure from below, and the mountain's scream choked into a slow, survivable exhale. The ash winter never came. [warmly] That day, the Zĭrán gave Reaper her new name: Ash Reaper — she who harvested the ash before it could fall. [softly] The second words of the elder had come true: the mountain's own strength had become its chains.
 
+## 🎬 SCENE 12 — Farewell with Lanterns
+
+[warmly] When the Alpha made ready to leave, the Zĭrán did something they had never done in a thousand years: they sent two of their own to the stars.
+
+[softly] Elder Yùn — to learn. Young Shaozu — to dream. [moved] The people lit ten thousand flower-lanterns... and sang the travelers down the path.
+
+It was perfect. [softly] Almost. [serious] For high above the singing, something small, and black, and patient... hung in the darkness — watching, with a single red eye.
+
+[serious] The galaxy had noticed them. [softly] And the galaxy... was not all gardens.
+
